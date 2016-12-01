@@ -19,7 +19,7 @@ author: 'Dominic Sayers'
 author_image: "/assets/images/dominicsayers.jpg"
 
 paginate:	5
-permalink: none
+permalink: :title/
 
 url: "http://new.dominicsayers.com" # the base hostname & protocol for your site
 baseurl: ""
