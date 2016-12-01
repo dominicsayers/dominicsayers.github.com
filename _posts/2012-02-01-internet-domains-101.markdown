@@ -2,6 +2,7 @@
 layout: post
 title: Internet domains 101
 date: 2012-02-01 12:35:35.000000000 +00:00
+tags: cname
 ---
 Sometimes I help people out with web servers, email servers and other internet-related stuff. I often have to explain how we control what happens when you type in <em>www.example.com</em> or <em>whoever@example.com</em>.
 

@@ -2,6 +2,7 @@
 layout: post
 title: Monty Panesar, Hove to
 date: 2009-11-22 13:44:12.000000000 +00:00
+tags: england
 ---
 So let's say what we know about Monty Panesar so far:
 <ol>

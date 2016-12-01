@@ -2,6 +2,7 @@
 layout: post
 title: Using multiple accounts (and public keys) with Unfuddle
 date: 2011-07-19 14:37:51.000000000 +01:00
+tags: ssh-keygen
 ---
 If you develop on more than one Unfuddle account you'll probably need separate identities for each account. Unfortunately git by default will only offer a single public key to authenticate you, and each Unfuddle account needs its own public key.
 

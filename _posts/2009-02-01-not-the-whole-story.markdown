@@ -2,6 +2,7 @@
 layout: post
 title: Not the whole story
 date: 2009-02-01 19:33:24.000000000 +00:00
+tags: india
 ---
 The International Cricket Council (ICC) has today <a href="http://icc-cricket.yahoo.com/media-release/2009/February/media-release20090201-3.html" target="_blank">decided</a> to revert the result of the 2006 Oval test match between England and Pakistan to the original one decided by the umpires: an England win due to the match being forfeited by Pakistan as a result of them failing to take the field.
 

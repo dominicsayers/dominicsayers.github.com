@@ -2,6 +2,7 @@
 layout: post
 title: 5 reasons why you shouldn't watch international cricket
 date: 2010-08-31 11:09:53.000000000 +01:00
+tags: corruption mohammed-amir
 ---
 1. <strong>Tickets are expensive</strong>. If you want to watch a pre-determined outcome try professional wrestling, it's a lot better value.
 

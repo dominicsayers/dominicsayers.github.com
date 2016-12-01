@@ -2,6 +2,7 @@
 layout: post
 title: The Digital Economy Act
 date: 2010-04-15 16:42:45.000000000 +01:00
+tags: ofcom
 ---
 I don't climb aboard many bandwagons - there's usually enough passengers already - but the confluence of the forthcoming UK general election and the hasty passing of the Digital Economy Act encouraged me to do some research into what was being done in our name at Westminster. I intend to use my vote and I want to do so with a bit of background knowledge.
 

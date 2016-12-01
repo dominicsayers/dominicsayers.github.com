@@ -2,6 +2,7 @@
 layout: post
 title: A reference data service
 date: 2012-02-10 11:26:05.000000000 +00:00
+tags: iso
 ---
 I just wanted to get this idea out of my head so I can think about something else.
 <h3>Available domains</h3>

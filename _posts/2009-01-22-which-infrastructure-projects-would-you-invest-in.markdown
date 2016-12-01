@@ -2,6 +2,7 @@
 layout: post
 title: Which infrastructure projects would you invest in?
 date: 2009-01-22 12:43:27.000000000 +00:00
+tags: keynes
 ---
 Firstly, IANAE (I am not an economist).
 

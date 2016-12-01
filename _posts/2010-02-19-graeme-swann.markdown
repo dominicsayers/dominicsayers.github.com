@@ -2,6 +2,7 @@
 layout: post
 title: Graeme Swann
 date: 2010-02-19 16:07:10.000000000 +00:00
+tags: england
 ---
 <a href="http://search.cricinfo.com/ci/content/player/56143.html" target="_blank">Shakib Al Hasan</a>'s century in the <a href="http://www.cricinfo.com/ci/engine/match/423786.html" target="_blank">recent test match</a> against New Zealand means that <a href="http://www.cricinfo.com/ci/content/player/20431.html" target="_blank">Graeme Swann</a> is now the only member of <a href="http://blog.dominicsayers.com/2010/01/04/worlds-best-all-rounders/" target="_blank">my all-rounders table</a> without a test match hundred to his name.
 

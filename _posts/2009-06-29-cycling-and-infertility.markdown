@@ -2,6 +2,7 @@
 layout: post
 title: Cycling and infertility
 date: 2009-06-29 16:33:21.000000000 +01:00
+tags: imperial
 ---
 "According to a new study" is a phrase that should set your bullshit alarm ringing. Journalists don't in general understand either the methodology or conclusions of published studies and instead seize on the most lurid parts of the accompanying press release. So, with that in mind, here we go:
 

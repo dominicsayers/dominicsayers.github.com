@@ -2,6 +2,7 @@
 layout: post
 title: World's best all-rounders - now online
 date: 2011-12-06 13:44:29.000000000 +00:00
+tags: sir-garry-sobers
 ---
 Who's <a href="http://cricdata.org/test/players/xfactor" target="_blank">the best all-rounder in the modern era</a>? <a href="http://cricdata.org/players/jh-kallis" target="_blank">Jacques Kallis</a> (not <a href="http://cricdata.org/players/gs-sobers" target="_blank">Sir Garry Sobers</a>).
 

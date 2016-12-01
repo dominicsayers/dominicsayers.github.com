@@ -2,6 +2,7 @@
 layout: post
 title: Post-Strauss England
 date: 2012-08-20 15:13:35.000000000 +01:00
+tags: india england
 ---
 Assuming Andrew Strauss resigns the captaincy after the current Test and chooses not to tour this winter, my team for the first Test in Ahmedabad in November would be as follows:
 

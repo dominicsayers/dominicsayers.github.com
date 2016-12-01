@@ -2,6 +2,7 @@
 layout: post
 title: Lobster Hatstand
 date: 2011-03-23 14:21:29.000000000 +00:00
+tags: justhost
 ---
 I've had a few minor outages of this blog and other sites hosted by JustHost. I'm not particularly worried so long as they get to the bottom of it and stop it happening again.
 

@@ -2,6 +2,7 @@
 layout: post
 title: Eyebrow-raising Firefox problem
 date: 2008-09-24 14:34:09.000000000 +01:00
+tags: problem
 ---
 I've come across a problem with a website I'm developing. My nifty code works fine for all browsers except Firefox. Yes, that's right - Firefox fails to render the page as intended but Chrome, Internet Explorer, Safari and Opera all work fine.
 

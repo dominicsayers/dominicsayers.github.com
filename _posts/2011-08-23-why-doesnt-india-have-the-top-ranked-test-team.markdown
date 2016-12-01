@@ -2,6 +2,7 @@
 layout: post
 title: Why doesn't India have the top-ranked Test team?
 date: 2011-08-23 12:00:35.000000000 +01:00
+tags: india
 ---
 India could be the world's #1 Test Match team if they wanted to. With unlimited money and an unlimited supply of players it would be trivial to put out a team that could beat all others.
 

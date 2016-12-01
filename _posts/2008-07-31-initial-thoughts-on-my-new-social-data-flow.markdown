@@ -2,6 +2,7 @@
 layout: post
 title: Initial thoughts on my new social data flow
 date: 2008-07-31 10:38:10.000000000 +01:00
+tags: brightkite
 ---
 Firstly, apologies to anybody who couldn't see the social data flow diagram in my <a href="http://blog.dominicsayers.com/2008/07/28/my-social-data-flow/" target="_blank">earlier post</a> - I've now hosted it on my own server so it shouldn't disappear quite so often.
 

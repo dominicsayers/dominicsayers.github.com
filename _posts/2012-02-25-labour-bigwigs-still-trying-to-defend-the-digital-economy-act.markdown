@@ -2,6 +2,7 @@
 layout: post
 title: Labour bigwigs still trying to defend the Digital Economy Act
 date: 2012-02-25 22:10:02.000000000 +00:00
+tags: governance
 ---
 Harriet bloody Harman made me write to my MP, Jim Fizpatrick, today. FWIW.
 

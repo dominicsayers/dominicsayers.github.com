@@ -2,6 +2,7 @@
 layout: post
 title: Moving this blog to a new host was a bit of a kerfuffle
 date: 2010-03-09 10:42:43.000000000 +00:00
+tags: siteground
 ---
 Sorry for the outage since Sunday. I moved the contents of this blog away from wordpress.com because I didn't want to pay for another year's hosting there when I have a perfectly good host elsewhere.
 

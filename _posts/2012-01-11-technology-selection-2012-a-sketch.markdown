@@ -2,6 +2,7 @@
 layout: post
 title: Technology selection 2012 - a sketch
 date: 2012-01-11 15:37:38.000000000 +00:00
+tags: locomotive
 ---
 I'm not suggesting this is the right way to choose your multinational's ERP suite, but I've just made a technology choice. The success of my decision is yet to become apparent - I'm documenting this without the benefit of hindsight.
 

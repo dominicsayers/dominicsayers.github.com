@@ -2,6 +2,7 @@
 layout: post
 title: Is the board meeting past its prime?
 date: 2012-01-12 20:44:32.000000000 +00:00
+tags: governance
 ---
 In December the New York Times ran a <a href="http://www.nytimes.com/2011/12/18/fashion/social-media-reduce-allure-of-high-school-reunions.html" target="_blank">story</a> that asked "is the high school reunion past its prime?" The thesis was that Facebook and similar services had made such infrequent meetings redundant.
 <blockquote>“Even as a borderline user of social networking, I have a pretty good grasp of where people are, what they do, their family life, etc.,” he said. “So a lot of the mystery of the traditional reunion was missing.”</blockquote>
