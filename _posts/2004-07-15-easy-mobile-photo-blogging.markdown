@@ -1,0 +1,6 @@
+---
+layout: post
+title: Easy mobile photo blogging
+date: 2004-07-15 15:42:33.000000000 +01:00
+---
+<p>If you're not familiar with the sociological thinking of Lore Sjöberg you should check out the latest version of his <a href="http://www.brunching.com/geekhierarchy.html">master work</a>.</p><p>Somewhere in between "Erotic Fanfic Writers" and "Trekkies Who Speak Klingon" should be "The IT Department", people who are excited not by <b>doing</b> something but finding out <b>how</b> to do it.</p><p>Me, I was excited when I found out that I could post <a href="http://dominicsayers.blogspot.com/2004/06/mobile-blogging-ii.html">blog entries</a> from my Blackberry. Not because I had anything to say, just because I could do it. Today my excitement knew no bounds when I discovered I could upload photos straight from my cameraphone to my <a href="http://www.flickr.com/photos/dominicsayers">photo site</a> and my <a href="http://dominicsayers.blogspot.com/2004/07/w00t-for-technology.html">blog</a>.</p><p>If there is a serious point, it is this: camera phones are a security risk. Camera + email + personal online storage means we are all walking Outside Broadcast units.</p><p>Geek note: check out <a href="http://www.flickr.com/">www.flickr.com</a>. It's still in beta (geek plus point) but it does everything you think it should just the way it oughta.</p>

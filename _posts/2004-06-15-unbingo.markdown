@@ -1,0 +1,18 @@
+---
+layout: post
+title: Unbingo
+date: 2004-06-15 11:49:42.000000000 +01:00
+---
+OK, well my understanding of the issues around secure RSS grows by the day. I am now up to the point where I am beginning to know how much I don't know.
+
+Where are we up to? Well, I have established that there are blog servers that can serve SSL pages. I have <a href="http://labs.silverorange.com/archives/2003/july/privaterss">established</a> that there are news aggregators that can establish an SSL connection, and also news aggregators that can do HTTP authentication in various ways.
+
+Except the right one.
+
+Most of the corporate intranet applications at my company are authenticated with a digital certificate. This would be the easiest way for me to create the sort of authenticated and filtered news and event notification service that I think we need.
+
+It would work like this: the user chooses a feed (say all new events from our confidential CRM system). He receives XML that is created dynamically and only contains the events he or she is entitled to see according to the normal access he or she has to the CRM system. This access is determined on the server after identifying the user through their digital certificate.
+
+It's the right thing to do. It would be tres easy. But I can't do it because none of the existing news aggregators can supply a digital certificate.
+
+I may have to look at an open source aggregator and add this functionality to it. Poor use of my IT budget though.

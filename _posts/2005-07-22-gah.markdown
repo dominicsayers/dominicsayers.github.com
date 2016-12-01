@@ -1,0 +1,22 @@
+---
+layout: post
+title: Gah!
+date: 2005-07-22 09:13:00.000000000 +01:00
+---
+I was roused from my blogging torpor this morning by an outstanding example of Not Getting It on the BBC breakfast show.
+
+The police, apparently, are appealing for people to send them any mobile camera photos or videos that might be used as evidence to track down the perpetrators of yesterday's attempted bombings in London.
+
+So that's bad enough: what's special about mobile phone cameras? Why not appeal for any photos or videos that might be relevant?
+
+But that wasn't what made me say Gah! out loud.
+
+It was when the presenter said "The police have issued an email address for you to send your photos and videos to, it's at the bottom of the screen now." What appeared at the bottom of the screen was <a href="http://www.police.uk">www.police.uk</a>
+
+So either the presenter or the person who writes what appears on his autocue doesn't know the difference between a website and an email address. Normally this is harmlessly amusing. We smile or grimace depending on our mood and forget about it. But this is different: here are the police trying to come to terms with the technology available in 2005 and the BBC are still stuck in an era when all this internet stuff was new-fangled and difficult.
+
+This is safety-critical information. What if there is a vital bit of digital evidence out there but the police never see it because the owner tries to send it to <a href="http://www.police.uk">www.police.uk</a> as an email address?
+
+None of this is the fault of the police. In fact their website doesn't make the mistake of asking for mobile phone material: they just ask for evidence and let you upload any file you want. It's the journalists who don't care about getting it right.
+
+As an organisation, the BBC is large and diverse. In one corner we have <a href="http://backstage.bbc.co.uk">http://backstage.bbc.co.uk</a> who manifestly Get It in a big way, and in the other corner we have "news" departments who apparently debate whether they should use mobile phone material at all in their news broadcasts because it's not broadcast quality. Time to wake up and smell the coffee, chaps.

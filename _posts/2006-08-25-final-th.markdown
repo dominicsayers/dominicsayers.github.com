@@ -1,0 +1,6 @@
+---
+layout: post
+title: Final thoughts on lock-in (for now)
+date: 2006-08-25 14:17:03.000000000 +01:00
+---
+<a href="http://www.economist.com/business/displaystory.cfm?story_id=E1_SNVVTPG" target="_blank">This article</a> in The Economist reminded me of <a href="http://en.wikipedia.org/wiki/Vincent_Ferrari" target="_blank">Vincent Ferrari</a>'s <a href="http://insignificantthoughts.com/2006/06/13/cancelling-aol/" target="_blank">attempts to cancel his AOL</a> account. 1034 comments on his blog later, plus appearances on several news programmes, it occurs to me that lock-in wasn't a particularly smart strategy from AOL's point of view.

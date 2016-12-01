@@ -1,0 +1,65 @@
+---
+layout: post
+title: 'The Decision Review System (DRS) - Part 1: Introduction'
+date: 2013-08-07 19:52:53.000000000 +01:00
+---
+<style type="text/css"><!--
+H2 {font-size:200%;}    H4 {font-weight:bold;}
+--></style><span style="color: #000000; font-size: 30px; font-weight: bold;">Contents</span>
+
+Part 1: Introduction &lt;- You are here
+Part 2: Technology
+Part 3: Reviews &amp; umpiring
+Part 4: Proposals &amp; conclusions
+
+<a href="http://www.telegraph.co.uk/sport/cricket/international/theashes/10217954/Ashes-2013-DRS-decision-to-give-out-Usman-Khawaja-branded-farcical-and-incompetent-by-Australia-media.html"><img class="aligncenter" alt="Ashes DRS horror show rolls on - Daily Telegraph" src="http://i.telegraph.co.uk/multimedia/archive/02633/drs_2633680b.jpg" width="620" height="388" /></a>
+<h2>Aims &amp; origin of the DRS</h2>
+<h4>TV replays</h4>
+Before the DRS was introduced we had two umpires on the field with nothing but their eyes and ears with which to make a decision. Television viewers, on the other hand, had the benefit of slow-motion replays and an increasing number of technology-led analysis tools that were developed to give the commentators something to talk about.
+
+It was becoming clear that umpires' on-field decisions were not as good as had hitherto been believed. Pressure grew for umpires to have access to the same technological aids that the TV commentators were using.
+<h4>Preventing the howler</h4>
+Eventually a compromise was reached. Technology would be made available to the umpires on the basis that it would enable them to correct the occasional grossly bad decision. Human error is always a possibility, went the theory, and if we can cut out some of the outliers then the average decision quality will be improved.
+
+The TV umpire was introduced, first to re-examine run outs and stumpings, then to check on bump-ball catches, finally to allow reviews of LBWs and caught behind decisions.
+
+And somewhere along the way the original message was lost. The DRS was seen now not as a way of highlighting grossly bad decisions but as an oracle that could determine the exact truth of any decision. I don't know how this happened but it is now firmly stuck in people's minds that the DRS is supposed to be 100% accurate.
+
+It demonstrably isn't of course. We'll go through some of its shortcomings below - there are many. But each time the DRS fails to give the viewer an unambiguous, incontrovertible report on what happened, the calls for its abolition grow louder. The pitchforks are brandished most vehemently of course by the supporters of whatever team was most recently "robbed" by the villainous DRS, but all the protests contribute to the noise and the background noise is growing.
+<h2>Perception &amp; complexity</h2>
+Perhaps the message of the DRS is too complicated? The DRS can say "Yes, it's out", "No, you're probably right" or "I don't know either, frankly". Simple messages to me but this is a world where journalists want to know "Is that beefburger safe?" and a cabinet minister has to push one into his daughters' face to answer the question. Because it's not "yes" or "no" but "in all likelihood, yes, to the extent that the minor risk to my daughter is bearable".
+
+Journalists and TV commentators seem unable to assume any numeracy at all in their audience. Although arts journalists are allowed to cite Goethe, Dvorak and Klimt without supporting explanations, any probability information that is presented to a viewer has to be reduced to a simple binary answer.
+
+Here's Jagmohan Dalmiya of the BCCI[1] pretending to be stupid (he isn't):
+<blockquote>We will accept DRS when technology is foolproof. There's nothing in between. Full stop. Let them come up with a system which is 100 per cent correct. They couldn't fix the Duckworth-Lewis problem in 15 years, what guarantee do we have about an error-free DRS? The Duckworth-Lewis method is beyond most of the players and administrators, let alone the common fans. I am still trying to figure out how can a team total be increased on basis of projection. The whole process is very complicated and confusing. And rather than solving the riddle, DRS creates more confusion in its present form.
+
+- <a title="Indian Express" href="http://www.indianexpress.com/news/jagmohan-dalmiya-doesnt-see-any-hope-for-drs-in-present-form/1152155/0" target="_blank">Jagmohan Dalmiya doesn't see any hope for DRS in present form</a></blockquote>
+There's a book to be written about the <em>real</em> reasons why the BCCI actually refuses to allow the DRS to be used in India's test matches[2], but concern for the fans is not one of them.
+
+Perhaps that is simply a timid reaction to a new situation that the administrators <em>fear</em> the viewer will not understand. Perhaps the viewer is more intelligent than she is given credit for.
+
+Here are some complex systems that seem to have survived despite the supposed ignorance of the sporting audience:
+<h4>The Duckworth-Lewis method</h4>
+The Duckworth-Lewis method is a way of adjusting the score of a limited overs cricket match that is affected by rain. Its aim is to ensure that the target that the team batting second is chasing is fair, taking into consideration all the factors that might have affected it.
+
+The Duckworth-Lewis method is a rational answer to a complex problem. It could not be simpler without being unfair. It's outcome is a single number which is easy to understand.
+
+It throws up some unusual results that are at first counter-intuitive (see Jagmohan Dalmiya's complaint above). These are easily explained by reference to the resources available to both teams, without any maths being needed.
+
+The current Duckworth-Lewis par score can be calculated on a ball-by-ball basis and modern scoreboards incorporate this in their design. Both teams and the crowd know where they stand at all times.
+
+Although the algorithm behind the Duckworth-Lewis method is opaque, it is now widely accepted by players and fans as a good approximation. Nobody is calling for it to be replaced by the previous crude adjustments based on average run-rate.
+<h4>LBW law</h4>
+The LBW law <a title="MCC Laws of cricket" href="http://www.lords.org/mcc/laws-of-cricket/laws/law-36-leg-before-wicket/" target="_blank">Law 36 (Leg before wicket)</a> is complex and could in theory be simplified. Trying to explain the law to a cricket neophyte is troubling. "You mean it has to pitch in line with the stumps?". "No, it can pitch outside the off stump but not the leg stump". "But it has to hit the pads in line with the stumps, right?". "No, only if the batsman is playing a shot". Exit neophyte.
+
+Calls for the LBW law to be reformed have existed throughout the history of cricket, and it <em>has</em> been reformed several times <a title="Wikipedia" href="http://en.wikipedia.org/wiki/Leg_before_wicket" target="_blank">Wikipedia - Leg before wicket</a>. But the law as it stands is widely respected despite its complexity and few, if any, are calling for change at the moment.
+<h4>Offside rule in football</h4>
+Cricket is not the only sport afflicted by irreducible complexity. Association Football's offside rule has always been a target for merriment based on people's poor understanding of it.
+
+The offside rule has been reformed several times too <a title="Wikipedia" href="http://en.wikipedia.org/wiki/Offside_(association_football)" target="_blank">Wikipedia - Offside (association football)</a>. But, while mocked, it has stood the test of time and will remain part of the game for the foreseeable future.
+<h4>Too complicated?</h4>
+So the evidence is that the DRS does not have to be presented as an infallible oracle. People (even "common fans") are willing to accept complexity if they know it is the minimum required for fairness. The DRS can produce and in some cases evaluate a body of evidence that can help a TV umpire assess a colleague's on-field decision. We can observe that process and appreciate the subtleties of what we are watching. It can be an interesting part of the game without patronising administrators and commentators telling us that we are too stupid to understand it.
+
+[1] Board of Control for Cricket in India
+[2] As Deep Throat said: follow the money.

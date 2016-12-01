@@ -1,0 +1,33 @@
+---
+layout: post
+title: Cluetrain 2.0
+date: 2006-06-28 11:16:07.000000000 +01:00
+---
+<blockquote>"You Know Something Is Wrong...
+
+With <strong>management theory</strong> when the Roman army established that ten subordinates per boss was the right number (decurions, centurions..), and now 2,000 years later, 100 years of management schools and 40,000 management handbooks in print we believe the right number is eight.
+
+With <strong>management practice</strong> when those 40,000 management handbooks does not help much.
+
+With <strong>management practice</strong> when it keeps alive a whole army of consultants that lives very well indeed and the results are barely noticeable over time.
+
+With <strong>organisational hierarchies</strong> when millions read and enjoy Dilbert every day. Worse, that most of his work is based on reality.
+
+With <strong>organisational hierarchies</strong> when society measures your success by "position" instead of what you created and did.
+
+With <strong>organisational hierarchies</strong> when the worst thing you can do to your boss or your subordinate is to bypass him/her.
+
+With <strong>tree structures</strong> when I forget where I put that file three weeks ago, and I do not even remember what the folder name was.
+
+With modern <strong>enterprise software</strong> when the must-have-tool for the very best and biggest systems is not even a part of the system: Excel.
+
+With modern <strong>enterprise software</strong> when reconciliation is still a major issue.
+
+..."</blockquote>
+I agree with a far higher proportion of <a href="http://www.rinde.com/" target="_blank">Sig</a>'s assertions in <a href="http://thingamy.typepad.com/sigs_blog/2006/06/yksiw.html" target="_blank">this list</a> than I do with the <a href="http://www.cluetrain.com/book/95-theses.html" target="_blank">Cluetrain Manifesto</a>'s 95 theses. Both lists contain good ideas and numbnuts ones. I guess Sig's strategy in limiting himself to 18 statements means his chances of success are higher than the scattergun approach of the <a href="http://www.cluetrain.com/ringleaders.html" target="_blank">Cluetrain authors</a>.
+
+I want to come back to some of the statements in detail when time permits. For the moment I will ask Sig for clarification on one:
+<blockquote>"With <strong>the whole system</strong> when on average I pay at least 50 percent for broadly defined information (think over what you pay for the actual product, it be a shirt, car or a good story) that could easily be replaced with cheap information and communication technology."</blockquote>
+This stands out as the least well expressed of the 18 statements. I'm just not sure what it means and I agree with so many of the other 17 that I want to know.
+
+Oh, and Sig: the first statement is even truer than you might think. We have come to the conclusion that the "right" number is <a href="http://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two" target="_blank">seven plus or minus two</a>. You say that the Romans worked on 10 subordinates per boss based on the literal translation of decurion and centurion. I believe a centurion in practice rarely had more than 70 or 80 soldiers under him and their actual working figure was much closer to ours. Progress.

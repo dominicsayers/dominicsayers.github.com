@@ -1,0 +1,10 @@
+---
+layout: post
+title: Bingo
+date: 2004-06-10 12:37:07.000000000 +01:00
+---
+Found <a href="http://labs.silverorange.com/archives/2003/july/privaterss">this handy list</a> of news aggregators that support SSL. In fact my own favourite NewzCrawler already does it if you download a library.
+
+The nice people at <a href="http://labs.silverorange.com/">silverorange</a> also provide some RSS feeds so you can test various flavours of authentication. <a href="https://secure3.silverorange.com/rsstest/rss_with_ssl.xml">Here is one that uses SSL but doesn't require name/password authentication</a>
+
+In case this is all techno mumbo jumbo to you, here is the point: <strong>blogging can be used as a secure channel for propagating confidentional information to selected readers</strong>

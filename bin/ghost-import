@@ -1,0 +1,5 @@
+#! /bin/sh
+ruby -rubygems -e 'require "jekyll-import";
+  JekyllImport::Importers::Ghost.run({
+    "dbfile"   => "ghost.db"
+  })'

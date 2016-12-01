@@ -1,0 +1,6 @@
+---
+layout: post
+title: '109629161449122896'
+date: 2004-09-27 15:26:54.000000000 +01:00
+---
+<a href="http://www.haloscan.com/" title="HaloScan Commenting and Trackback">Haloscan</a> commenting and trackback have been added to this blog.
