@@ -3,5 +3,5 @@ layout: post
 title: Hiatus
 date: 2005-08-16 09:10:00.000000000 +01:00
 ---
-Whenever I am chided by people for not updating this blog I turn to <a href="http://www.thenonist.com/downloads/thenonist_blog_depression.pdf">What everyone should know about blog depression</a>.
-<p align="center"><a href="http://www.thenonist.com/downloads/thenonist_blog_depression.pdf"><img border="0" src="http://photos1.blogger.com/blogger/1138/350/400/blogdepression.jpg" /></a></p>
+Whenever I am chided by people for not updating this blog I turn to <a href="https://www.thenonist.com/downloads/thenonist_blog_depression.pdf">What everyone should know about blog depression</a>.
+<p align="center"><a href="https://www.thenonist.com/downloads/thenonist_blog_depression.pdf"><img border="0" src="https://photos1.blogger.com/blogger/1138/350/400/blogdepression.jpg" /></a></p>

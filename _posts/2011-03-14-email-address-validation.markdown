@@ -3,19 +3,19 @@ layout: post
 title: Email address validation
 date: 2011-03-14 16:27:22.000000000 +00:00
 ---
-I've made an <a href="http://isemail.info" target="_blank">email address validation service</a> powered by the free PHP function <em><a href="http://code.google.com/p/isemail/" target="_blank">is_email()</a></em>.
+I've made an <a href="https://isemail.info" target="_blank">email address validation service</a> powered by the free PHP function <em><a href="https://code.google.com/p/isemail/" target="_blank">is_email()</a></em>.
 <h1>What is a valid email address?</h1>
 There's only one real answer to this: a valid email address is one that you can send emails to.
 
-There are acknowledged standards for what constitutes a valid email address. These are defined in the <a href="http://en.wikipedia.org/wiki/Request_for_comments" target="_blank">Request For Comments</a> documents (RFCs) written by the lords of the internet. These documents are not rules but simply statements of what some people feel is appropriate behaviour.
+There are acknowledged standards for what constitutes a valid email address. These are defined in the <a href="https://en.wikipedia.org/wiki/Request_for_comments" target="_blank">Request For Comments</a> documents (RFCs) written by the lords of the internet. These documents are not rules but simply statements of what some people feel is appropriate behaviour.
 
-Consequently, the people who make email software have often ignored the RFCs and done their own thing. Thus it is perfectly possible for you to have been issued an email address by your <a href="http://en.wikipedia.org/wiki/Internet_Service_Provider" target="_blank">internet service provider</a> (ISP) that flouts the RFC conventions and is in that sense <em>invalid</em>.
+Consequently, the people who make email software have often ignored the RFCs and done their own thing. Thus it is perfectly possible for you to have been issued an email address by your <a href="https://en.wikipedia.org/wiki/Internet_Service_Provider" target="_blank">internet service provider</a> (ISP) that flouts the RFC conventions and is in that sense <em>invalid</em>.
 
 But if your address works then why does it matter if it's invalid?
 
 That brings us onto the most important principle in distributed software.
 <h2>The Robustness Principle</h2>
-A <a href="http://en.wikipedia.org/wiki/Jon_Postel" target="_blank">very great man</a>, now sadly dead, once <a href="http://en.wikipedia.org/wiki/Robustness_principle" target="_blank">said</a>
+A <a href="https://en.wikipedia.org/wiki/Jon_Postel" target="_blank">very great man</a>, now sadly dead, once <a href="https://en.wikipedia.org/wiki/Robustness_principle" target="_blank">said</a>
 <blockquote>be conservative in what you do, be liberal in what you accept from others</blockquote>
 We take this to mean that all messages you send out should conform carefully to the accepted standards. Messages you receive should be interpreted as the sender intended so long as the meaning is clear.
 
@@ -37,9 +37,9 @@ But.
 
 Sadly, many websites won't let you register an address with a plus sign in it. Not because they are trying to defeat your tracking strategy but just because they are crap. They've copied a broken regular expression from a dodgy website and they are using it to validate email addresses. And losing customers as a result.
 
-How long can an email address be? A lot of people say 320 characters. A lot of people are wrong. <a href="http://www.rfc-editor.org/errata_search.php?rfc=3696&amp;eid=1690" target="_blank">It's 254 characters</a>.
+How long can an email address be? A lot of people say 320 characters. A lot of people are wrong. <a href="https://www.rfc-editor.org/errata_search.php?rfc=3696&amp;eid=1690" target="_blank">It's 254 characters</a>.
 
-What RFC is the authority for mailbox formats? <a href="http://tools.ietf.org/html/rfc822" target="_blank">RFC 822</a>? <a href="http://tools.ietf.org/html/rfc2822" target="_blank">RFC 2822</a>? Nope, it's <a href="http://tools.ietf.org/html/rfc5321" target="_blank">RFC 5321</a>.
+What RFC is the authority for mailbox formats? <a href="https://tools.ietf.org/html/rfc822" target="_blank">RFC 822</a>? <a href="https://tools.ietf.org/html/rfc2822" target="_blank">RFC 2822</a>? Nope, it's <a href="https://tools.ietf.org/html/rfc5321" target="_blank">RFC 5321</a>.
 
 Getting it right is hard because the RFCs that define the conventions are trying to serve many masters and they document conventions that grew up in the early wild west days of email.
 
@@ -53,10 +53,10 @@ Oh wait. You don't have to do that because I've done it for you.
 
 Packaged along with the free <em>is_email()</em> code is an XML file of 164 unit tests. If you can write a validator that passes all of them: congratulations, you've done something hard.
 
-See the tests and the results for <em>is_email()</em> <a href="http://isemail.info/_system/is_email/test/?all" target="_blank">here</a>.
+See the tests and the results for <em>is_email()</em> <a href="https://isemail.info/_system/is_email/test/?all" target="_blank">here</a>.
 
 If you think any of the test cases is wrong please leave a comment here.
 <h2>Downloading <em>is_email()</em></h2>
-I've written <em>is_email()</em> as a simple PHP function so it's easy to include in your project. <a href="http://code.google.com/p/isemail/downloads/list" target="_blank">Just download the package here</a>. The tests are included in the package.
+I've written <em>is_email()</em> as a simple PHP function so it's easy to include in your project. <a href="https://code.google.com/p/isemail/downloads/list" target="_blank">Just download the package here</a>. The tests are included in the package.
 
 &nbsp;

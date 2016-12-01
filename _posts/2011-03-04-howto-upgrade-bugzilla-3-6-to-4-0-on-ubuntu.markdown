@@ -16,7 +16,7 @@ Here's what I had to do (from memory - sorry).
 <pre>PerlSwitches -w -T
 PerlConfigRequire /var/www/bugzilla/mod_perl.pl</pre>
 </li>
-	<li>Edit the Apache conf file for the Bugzilla site (on my server it was <code>/etc/apache/sites-enabled/000-default</code>). Make sure there is a <code>&lt;Directory&gt;</code> entry for your Bugzilla installation. Make sure the <code>AllowOverride</code> line is correct according to the <a href="http://www.bugzilla.org/releases/4.0/release-notes.html#v40_upgrading" target="_blank">Bugzilla installation instructions</a>. Mine looked like this after:
+	<li>Edit the Apache conf file for the Bugzilla site (on my server it was <code>/etc/apache/sites-enabled/000-default</code>). Make sure there is a <code>&lt;Directory&gt;</code> entry for your Bugzilla installation. Make sure the <code>AllowOverride</code> line is correct according to the <a href="https://www.bugzilla.org/releases/4.0/release-notes.html#v40_upgrading" target="_blank">Bugzilla installation instructions</a>. Mine looked like this after:
 <pre>&lt;Directory /var/www/bugzilla&gt;
         AllowOverride Limit FileInfo Indexes
 &lt;/Directory&gt;</pre>

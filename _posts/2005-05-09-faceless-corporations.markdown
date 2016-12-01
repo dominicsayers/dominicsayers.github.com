@@ -17,4 +17,4 @@ I hope I'm past getting angry at faceless corporations represented by anonymous 
 
 What's the answer. Should I change my mobile phone operator? Are any of the others any different? Of course not. Should I take out some sort of legal action to recover my property? I would quickly use of £250 worth of my time and it probably wouldn't get anywhere.
 
-I tried <a href="http://www.orangesucks.com">www.orangesucks.com</a> but it's just a cybersquatter. Dead end. Pah.
+I tried <a href="https://www.orangesucks.com">www.orangesucks.com</a> but it's just a cybersquatter. Dead end. Pah.

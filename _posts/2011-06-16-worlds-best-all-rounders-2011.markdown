@@ -3,9 +3,9 @@ layout: post
 title: World's Best All-rounders 2011
 date: 2011-06-16 12:52:44.000000000 +01:00
 ---
-I haven't updated my World's Best All-rounders table since last year. This is because the <a href="http://en.wikipedia.org/wiki/Pakistan_cricket_spot-fixing_controversy" target="_blank">spot-fixing allegations</a> against the Pakistani tourists made me doubt the value of any current cricket statistics. My doubts still remain, but it doesn't look like there are going to be any revisions of historical data so I will have to work with what I've got.
+I haven't updated my World's Best All-rounders table since last year. This is because the <a href="https://en.wikipedia.org/wiki/Pakistan_cricket_spot-fixing_controversy" target="_blank">spot-fixing allegations</a> against the Pakistani tourists made me doubt the value of any current cricket statistics. My doubts still remain, but it doesn't look like there are going to be any revisions of historical data so I will have to work with what I've got.
 
-What's happened since <a href="http://blog.dominicsayers.com/2010/03/24/worlds-best-all-rounders-2/" target="_blank">last year</a>? Here's the current table:
+What's happened since <a href="https://blog.dominicsayers.com/2010/03/24/worlds-best-all-rounders-2/" target="_blank">last year</a>? Here's the current table:
 <table border="0">
 <tbody>
 <tr>
@@ -268,7 +268,7 @@ Notes:
 <ol>
 	<li>A reminder of the criteria: 500 runs at better than 30, 50 wickets at better than 35.</li>
 	<li>No more <a href="www.cricinfo.com/ci/content/player/20431.html" target="_blank">Graeme Swann</a>. His batting average has now fallen below my arbitrary threshold. Here's how his average has fared over his career:
-<p style="text-align: center;"><a href="http://res.cloudinary.com/dominicsayers/image/upload/v1399584836/swann-ave_jnapqd.jpg"><img class=" wp-image-647 aligncenter" title="swann-ave" src="http://res.cloudinary.com/dominicsayers/image/upload/v1399584836/swann-ave_jnapqd.jpg" alt="Graeme Swann's test match batting average over time" width="552" height="286" /></a></p>
+<p style="text-align: center;"><a href="https://res.cloudinary.com/dominicsayers/image/upload/v1399584836/swann-ave_jnapqd.jpg"><img class=" wp-image-647 aligncenter" title="swann-ave" src="https://res.cloudinary.com/dominicsayers/image/upload/v1399584836/swann-ave_jnapqd.jpg" alt="Graeme Swann's test match batting average over time" width="552" height="286" /></a></p>
 It now seems clear that his average will remain in the mid 20s for the remainder of his career. Opposing bowlers know how to bowl to him and he is unlikely to repeat his exploits of 2009.</li>
 	<li>We have a new leader: <a href="www.cricinfo.com/ci/content/player/45789.html" target="_blank">Jacques Kallis</a>. Is he a better all-rounder than <a href="www.cricinfo.com/ci/content/player/52946.html" target="_blank">Garry Sobers</a>? It seems like heresy to suggest it but his batting average is similar and his bowling average is lower. He takes as many catches per match as Sobers (around 1.15). On the other hand, Garry Sobers is a sensitive, intelligent man who can speak intelligently about cricket and life. Jacques Kallis reportedly once asked how far he was above sea level while jogging along the beach.</li>
 	<li>Kallis takes 1st place thanks to a change in my X-factor formula - the three components are now simply summed instead of multiplied. This has reduced the volatility that I complained about last year. X-factor = Batting average over 30 + Bowling average under 35 + catches per match.</li>

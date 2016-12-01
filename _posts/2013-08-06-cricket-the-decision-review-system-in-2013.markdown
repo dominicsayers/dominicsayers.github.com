@@ -9,12 +9,12 @@ H2 {font-size:200%;}    H4 {font-weight:bold;}
 
 I'll publish this in sections - it's turned out to be a bit longer than I thought...
 <h2>Contents</h2>
-<a href="http://blog.dominicsayers.com/2013/08/drs-1/">Part 1: Introduction</a>
+<a href="https://blog.dominicsayers.com/2013/08/drs-1/">Part 1: Introduction</a>
 Part 2: Technology
 Part 3: Reviews &amp; umpiring
 Part 4: Proposals &amp; conclusions
 
-<a href="http://www.telegraph.co.uk/sport/cricket/international/theashes/10217954/Ashes-2013-DRS-decision-to-give-out-Usman-Khawaja-branded-farcical-and-incompetent-by-Australia-media.html"><img class="aligncenter" alt="Ashes DRS horror show rolls on - Daily Telegraph" src="http://i.telegraph.co.uk/multimedia/archive/02633/drs_2633680b.jpg" width="620" height="388" /></a>
+<a href="https://www.telegraph.co.uk/sport/cricket/international/theashes/10217954/Ashes-2013-DRS-decision-to-give-out-Usman-Khawaja-branded-farcical-and-incompetent-by-Australia-media.html"><img class="aligncenter" alt="Ashes DRS horror show rolls on - Daily Telegraph" src="https://i.telegraph.co.uk/multimedia/archive/02633/drs_2633680b.jpg" width="620" height="388" /></a>
 
 &nbsp;
 
@@ -22,14 +22,14 @@ To be done:
 <h2><span style="color: #000000; font-size: 30px; font-weight: bold;">Hotspot</span></h2>
 <h4>Evidence of absence</h4>
 <ul>
-	<li><a style="font-style: normal;" href="http://en.wikipedia.org/wiki/Evidence_of_absence" target="_blank">Evidence of absence</a></li>
+	<li><a style="font-style: normal;" href="https://en.wikipedia.org/wiki/Evidence_of_absence" target="_blank">Evidence of absence</a></li>
 </ul>
 <h2></h2>
 <h2>Snicko</h2>
 <h4>Sources of noise</h4>
 <h4>Cum hoc ergo propter hoc</h4>
 <ul>
-	<li><a style="font-style: normal;" href="http://en.wikipedia.org/wiki/Correlation_does_not_imply_causation#General_pattern" target="_blank">Correlation does not imply causation</a></li>
+	<li><a style="font-style: normal;" href="https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation#General_pattern" target="_blank">Correlation does not imply causation</a></li>
 </ul>
 <h4>Real-time Snicko</h4>
 &nbsp;
@@ -46,8 +46,8 @@ To be done:
 <h2>Reviews</h2>
 <h4>Loss of reviews &amp; "umpire's call"</h4>
 <ul>
-	<li>Professional players' view: <a style="font-style: normal;" href="http://www.thetimes.co.uk/tto/sport/cricket/article3833797.ece" target="_blank">James Anderson calls for end to DRS reviews lost to ‘umpire’s call’</a></li>
-	<li>BCCI view: <a style="font-style: normal;" href="compromisehttp://www.espncricinfo.com/ci/content/story/658665.html" target="_blank">India in discussions over DRS</a></li>
+	<li>Professional players' view: <a style="font-style: normal;" href="https://www.thetimes.co.uk/tto/sport/cricket/article3833797.ece" target="_blank">James Anderson calls for end to DRS reviews lost to ‘umpire’s call’</a></li>
+	<li>BCCI view: <a style="font-style: normal;" href="compromisehttps://www.espncricinfo.com/ci/content/story/658665.html" target="_blank">India in discussions over DRS</a></li>
 </ul>
 <h4>Umpire-led reviews</h4>
 <h4>Current situation with run outs</h4>

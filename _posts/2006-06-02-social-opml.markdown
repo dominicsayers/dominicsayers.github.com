@@ -3,7 +3,7 @@ layout: post
 title: Social OPML
 date: 2006-06-02 14:00:11.000000000 +01:00
 ---
-Remember how you used to save your bookmarks in the browser (Favorites if you use Internet Explorer)? Then when you discovered <a target="_blank" href="http://del.icio.us">del.icio.us</a> you realised that you no longer had to maintain your bookmarks in two different browsers on three separate PCs. And you could use the fact that everybody else kept their bookmarks in the same place to make connections between your bookmarks and other people's
+Remember how you used to save your bookmarks in the browser (Favorites if you use Internet Explorer)? Then when you discovered <a target="_blank" href="https://del.icio.us">del.icio.us</a> you realised that you no longer had to maintain your bookmarks in two different browsers on three separate PCs. And you could use the fact that everybody else kept their bookmarks in the same place to make connections between your bookmarks and other people's
 
 You don't go back to using local bookmarks once you have seen the world of social bookmarking.
 

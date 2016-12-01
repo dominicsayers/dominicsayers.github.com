@@ -9,10 +9,10 @@ If I was writing a sports book and there was a existing sports author<span style
 
 If I was was writing a book about cricket and I had the same name as a famous cricketer<span style="color:#888888;">[3]</span>, I might consider the game was up and I had better start thinking of pseudonyms right away.
 
-Because what chance is there of finding the new <a href="http://www.amazon.co.uk/Rebel-Tours-Crickets-Crisis-Conscience/dp/1899807802" target="_blank">Peter May</a> on Google?
+Because what chance is there of finding the new <a href="https://www.amazon.co.uk/Rebel-Tours-Crickets-Crisis-Conscience/dp/1899807802" target="_blank">Peter May</a> on Google?
 
-[1] <a href="http://books.google.co.uk/books?id=q3UI9MWW6EYC" target="_blank">Peter May</a>
+[1] <a href="https://books.google.co.uk/books?id=q3UI9MWW6EYC" target="_blank">Peter May</a>
 
-[2] <a href="http://books.google.co.uk/books?id=Y0LnesGNlPQC" target="_blank">Peter May</a>
+[2] <a href="https://books.google.co.uk/books?id=Y0LnesGNlPQC" target="_blank">Peter May</a>
 
-[3] <a href="http://www.cricinfo.com/ci/content/player/16956.html" target="_blank">PBH May</a>
+[3] <a href="https://www.cricinfo.com/ci/content/player/16956.html" target="_blank">PBH May</a>

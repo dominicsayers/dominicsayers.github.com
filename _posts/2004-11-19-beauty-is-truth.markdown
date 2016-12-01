@@ -3,7 +3,7 @@ layout: post
 title: Beauty is Truth
 date: 2004-11-19 13:28:15.000000000 +00:00
 ---
-Finally got round to reading the latest chapter of <a href="http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001Xr&amp;topic_id=1">Beautiful Evidence</a>. This is what I wrote as a comment:
+Finally got round to reading the latest chapter of <a href="https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001Xr&amp;topic_id=1">Beautiful Evidence</a>. This is what I wrote as a comment:
 
 "Beauty is Truth, and Truth Beauty" (John Keats, I think).
 

@@ -3,7 +3,7 @@ layout: post
 title: Pedestrians and velocity
 date: 2008-08-08 13:32:00.000000000 +01:00
 ---
-<a href="http://bythebayou.com/" target="_blank">John Whiteside</a> made a perceptive comment about my post "<a title="Permanent Link to &quot;Cycling to work - why people hate cyclists, part 3&quot;" rel="bookmark" href="http://blog.dominicsayers.com/2008/01/30/cycling-to-work-why-people-hate-cyclists-part-3/">Cycling to work - why people hate cyclists, part 3</a>". I completely agree with him - what he said in his comment is what I intended to say in my post. Sorry it wasn't clear.
+<a href="https://bythebayou.com/" target="_blank">John Whiteside</a> made a perceptive comment about my post "<a title="Permanent Link to &quot;Cycling to work - why people hate cyclists, part 3&quot;" rel="bookmark" href="https://blog.dominicsayers.com/2008/01/30/cycling-to-work-why-people-hate-cyclists-part-3/">Cycling to work - why people hate cyclists, part 3</a>". I completely agree with him - what he said in his comment is what I intended to say in my post. Sorry it wasn't clear.
 
 The post talked about collisions between cyclists and pedestrians. I said
 <blockquote><em>The cyclist will see a pedestrian many metres ahead and will calculate his own trajectory and the pedestrian’s to ensure there is no collision.</em></blockquote>

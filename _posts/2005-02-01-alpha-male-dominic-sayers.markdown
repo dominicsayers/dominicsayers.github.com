@@ -22,4 +22,4 @@ LOL. All best, Karen
 Karen Kendall</blockquote>
 Nice of her to write back. I will try to get hold of a copy of the book when it is published and review it here, but I don't think it will be widely distributed in this country. Maybe if I'm in a US airport over the summer I'll scan the bodice-ripper shelves.
 
-The Karen Kendall website is <a href="http://www.karenkendall.com/">here</a>. She seems very nice.
+The Karen Kendall website is <a href="https://www.karenkendall.com/">here</a>. She seems very nice.

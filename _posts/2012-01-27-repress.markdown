@@ -4,4 +4,4 @@ title: RePress
 date: 2012-01-27 21:16:23.000000000 +00:00
 tags: repress
 ---
-I've installed <a href="http://wordpress.org/extend/plugins/repress/" target="_blank">RePress</a> on <a href="/repress">this blog</a>. Happy surfing with less censorship.
+I've installed <a href="https://wordpress.org/extend/plugins/repress/" target="_blank">RePress</a> on <a href="/repress">this blog</a>. Happy surfing with less censorship.

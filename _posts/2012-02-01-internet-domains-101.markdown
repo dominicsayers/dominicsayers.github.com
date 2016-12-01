@@ -30,7 +30,7 @@ This is important. Many registrars try to hide the fact that <strong>you don't h
 <ol>
 	<li>The domain registration should be managed by your organisation's legal or administrative department. This is the master key: in the event of a problem then the name servers can simply be changed to regain control of the domain.</li>
 	<li>Management of the DNS records can be delegated to a technical person, but it's really not difficult to do this yourself.</li>
-	<li>Specialist DNS service providers often add extra value: for instance <a href="http://www.cloudflare.com/">Cloudflare</a> will cache your web content and speed up web access for all your users.</li>
+	<li>Specialist DNS service providers often add extra value: for instance <a href="https://www.cloudflare.com/">Cloudflare</a> will cache your web content and speed up web access for all your users.</li>
 </ol>
 <h3>Summary</h3>
 So in a nutshell:

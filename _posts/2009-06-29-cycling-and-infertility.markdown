@@ -6,7 +6,7 @@ tags: imperial
 ---
 "According to a new study" is a phrase that should set your bullshit alarm ringing. Journalists don't in general understand either the methodology or conclusions of published studies and instead seize on the most lurid parts of the accompanying press release. So, with that in mind, here we go:
 
-According to a new study, cycling a lot can affect your fertility if you are a man. The latest study to suggest this is reported quite well here: <a href="http://news.bbc.co.uk/1/hi/health/8124458.stm" target="_blank">Elite cyclists 'risk infertility'</a>.
+According to a new study, cycling a lot can affect your fertility if you are a man. The latest study to suggest this is reported quite well here: <a href="https://news.bbc.co.uk/1/hi/health/8124458.stm" target="_blank">Elite cyclists 'risk infertility'</a>.
 
 The conclusions are sensible: "the average man cycling to work would be unlikely to suffer fertility problems because of their time in the saddle." and "40 years ago cycling was much more common but there is no evidence men then were less fertile". So there's nothing to worry about, right?
 

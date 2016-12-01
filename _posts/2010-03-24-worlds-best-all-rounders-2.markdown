@@ -4,7 +4,7 @@ title: World's Best All-Rounders - Dhaka & Wellington Tests
 date: 2010-03-24 16:35:32.000000000 +00:00
 tags: england
 ---
-Three members of my <a href="http://blog.dominicsayers.com/2010/02/17/shakib-al-hasan/" target="_blank">World's Best All-Rounders</a> table have been in action since my last post. Here's how the table stands today (all current players in <strong>bold</strong>):
+Three members of my <a href="https://blog.dominicsayers.com/2010/02/17/shakib-al-hasan/" target="_blank">World's Best All-Rounders</a> table have been in action since my last post. Here's how the table stands today (all current players in <strong>bold</strong>):
 <table border="0" cellspacing="0" cellpadding="0" width="470">
 <tbody>
 <tr>
@@ -259,4 +259,4 @@ Three members of my <a href="http://blog.dominicsayers.com/2010/02/17/shakib-al-
 </tr>
 </tbody>
 </table>
-<a href="http://www.cricinfo.com/ci/content/player/20431.html" target="_blank">Graeme Swann</a>'s X-factor has plummeted below 400 and he has slipped a couple of places in the table. <a href="http://www.cricinfo.com/ci/content/player/56143.html" target="_blank">Shakib's</a> runs did better justice to his batting skills and he has leap-frogged Andrew Flintoff. The match shows how volatile the X-factor is - perhaps it's a bit too highly leveraged.
+<a href="https://www.cricinfo.com/ci/content/player/20431.html" target="_blank">Graeme Swann</a>'s X-factor has plummeted below 400 and he has slipped a couple of places in the table. <a href="https://www.cricinfo.com/ci/content/player/56143.html" target="_blank">Shakib's</a> runs did better justice to his batting skills and he has leap-frogged Andrew Flintoff. The match shows how volatile the X-factor is - perhaps it's a bit too highly leveraged.

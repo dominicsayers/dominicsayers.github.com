@@ -5,7 +5,7 @@ date: 2011-04-04 16:42:04.000000000 +01:00
 ---
 I've been trying to find a source of data on cricket's Decision Review System (DRS or UDRS for Umpire Decision Review System). I have failed so far to find any raw data, having politely emailed or tweeted every cricket journalist and statistician I can find. Not one of them bothered to reply.
 
-Cricinfo's statistician has produced some analysis of the DRS at the 2011 World Cup <a href="http://j.mp/fQG3Un" target="_blank">here</a>.
+Cricinfo's statistician has produced some analysis of the DRS at the 2011 World Cup <a href="https://j.mp/fQG3Un" target="_blank">here</a>.
 
 Individual umpires' performance is given as follows:
 <table border="0">

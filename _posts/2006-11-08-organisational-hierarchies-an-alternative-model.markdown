@@ -15,6 +15,6 @@ Now all we need to do is define an individual's role in a process. More particul
 
 Being a "boss" encompasses several roles in a number of processes. Some of them are interdependent and there may be an advantage in one person handling a portfolio of process roles with respect to another person. But this should be informed by a thorough analysis of these processes and an understanding of the roles within them.
 
-<a target="_blank" href="http://thingamy.com/">Here's 30megs, now go run Germany. </a>
+<a target="_blank" href="https://thingamy.com/">Here's 30megs, now go run Germany. </a>
 
 This isn't an advert for Thingamy, but I'm sympathetic to the idea that we overcomplicate management issues by clinging to outdated models of military organisation.

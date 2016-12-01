@@ -29,7 +29,7 @@ Regards,
 
 Dominic Sayers
 
-[footnote - giving the benefit of the doubt to the batsman] This principle, which everybody believes is part of the game, is surprisingly difficult to track down in the Laws. The nearest I can find is Law 27.6, which says that if the other umpire is in a better position to adjudicate a decision then the umpires may consult and then, if there is still doubt, the batsman is not out. In other words, the principle only applies after a consultation. <a href="http://www.lords.org/laws-and-spirit/laws-of-cricket/laws/law-27-appeals,53,AR.html">http://www.lords.org/laws-and-spirit/laws-of-cricket/laws/law-27-appeals,53,AR.html</a>
+[footnote - giving the benefit of the doubt to the batsman] This principle, which everybody believes is part of the game, is surprisingly difficult to track down in the Laws. The nearest I can find is Law 27.6, which says that if the other umpire is in a better position to adjudicate a decision then the umpires may consult and then, if there is still doubt, the batsman is not out. In other words, the principle only applies after a consultation. <a href="https://www.lords.org/laws-and-spirit/laws-of-cricket/laws/law-27-appeals,53,AR.html">https://www.lords.org/laws-and-spirit/laws-of-cricket/laws/law-27-appeals,53,AR.html</a>
 
 &nbsp;
 

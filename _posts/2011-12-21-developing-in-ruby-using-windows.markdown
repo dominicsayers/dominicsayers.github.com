@@ -11,7 +11,7 @@ Otherwise, this post is not for you.
 
 Still here? OK, here's the nub: stop. You can't develop in Ruby on Windows.
 
-Why not? Read this: <a href="http://bugs.ruby-lang.org/issues/show/4291">http://bugs.ruby-lang.org/issues/show/4291</a>
+Why not? Read this: <a href="https://bugs.ruby-lang.org/issues/show/4291">https://bugs.ruby-lang.org/issues/show/4291</a>
 
 Status: Rejected
 

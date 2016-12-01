@@ -5,7 +5,7 @@ date: 2004-06-15 11:49:42.000000000 +01:00
 ---
 OK, well my understanding of the issues around secure RSS grows by the day. I am now up to the point where I am beginning to know how much I don't know.
 
-Where are we up to? Well, I have established that there are blog servers that can serve SSL pages. I have <a href="http://labs.silverorange.com/archives/2003/july/privaterss">established</a> that there are news aggregators that can establish an SSL connection, and also news aggregators that can do HTTP authentication in various ways.
+Where are we up to? Well, I have established that there are blog servers that can serve SSL pages. I have <a href="https://labs.silverorange.com/archives/2003/july/privaterss">established</a> that there are news aggregators that can establish an SSL connection, and also news aggregators that can do HTTP authentication in various ways.
 
 Except the right one.
 

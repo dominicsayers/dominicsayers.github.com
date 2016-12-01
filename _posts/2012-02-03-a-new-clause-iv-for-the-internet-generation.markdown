@@ -9,4 +9,4 @@ Times change.
 
 I think it's time we seized control of something just as important in the 21st Century: the means of communication. Here's the story:
 
-<a href="http://storify.com/dominicsayers/the-new-clause-iv" target="_blank">Dominic Sayers - The new Clause IV</a>
+<a href="https://storify.com/dominicsayers/the-new-clause-iv" target="_blank">Dominic Sayers - The new Clause IV</a>

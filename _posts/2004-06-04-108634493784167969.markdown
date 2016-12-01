@@ -3,4 +3,4 @@ layout: post
 title: '108634493784167969'
 date: 2004-06-04 12:28:57.000000000 +01:00
 ---
-<p>Interesting academic article about blogging: <a href="http://jodi.ecs.soton.ac.uk/Articles/v05/i01/Edmonds/">http://jodi.ecs.soton.ac.uk/Articles/v05/i01/Edmonds/</a></p>
+<p>Interesting academic article about blogging: <a href="https://jodi.ecs.soton.ac.uk/Articles/v05/i01/Edmonds/">https://jodi.ecs.soton.ac.uk/Articles/v05/i01/Edmonds/</a></p>

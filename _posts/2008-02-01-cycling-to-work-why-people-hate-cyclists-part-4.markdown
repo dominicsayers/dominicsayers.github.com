@@ -12,23 +12,23 @@ google_ad_height = 60;
 //-->
 </script>
 <script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 
 <div>The final post examining the four most common reasons for people hating cyclists. The usual reasons being given as:</div>
 <div>
 <ol>
 	<li>
-<div><a target="_blank" href="http://blog.dominicsayers.com/2008/01/28/cycling-to-work-why-people-hate-cyclists-part-1/"><strong>Ignoring red lights</strong></a></div>
+<div><a target="_blank" href="https://blog.dominicsayers.com/2008/01/28/cycling-to-work-why-people-hate-cyclists-part-1/"><strong>Ignoring red lights</strong></a></div>
 </li>
 	<li>
 <div>
-<div><a target="_blank" href="http://blog.dominicsayers.com/2008/01/29/cycling-to-work-why-people-hate-cyclists-part-2/"><strong>Riding on pavements</strong></a></div>
+<div><a target="_blank" href="https://blog.dominicsayers.com/2008/01/29/cycling-to-work-why-people-hate-cyclists-part-2/"><strong>Riding on pavements</strong></a></div>
 </div>
 </li>
 	<li>
 <div>
-<div><strong><a target="_blank" href="http://blog.dominicsayers.com/2008/01/30/cycling-to-work-why-people-hate-cyclists-part-3/">Assaulting innocent pedestrians</a></strong></div>
+<div><strong><a target="_blank" href="https://blog.dominicsayers.com/2008/01/30/cycling-to-work-why-people-hate-cyclists-part-3/">Assaulting innocent pedestrians</a></strong></div>
 </div>
 </li>
 	<li><strong>Wearing lycra </strong></li>
@@ -58,5 +58,5 @@ google_ad_height = 60;
 //-->
 </script>
 <script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>

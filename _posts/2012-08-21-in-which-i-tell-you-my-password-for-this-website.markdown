@@ -52,8 +52,8 @@ This isn't my actual algorithm, by the way. Just a little bit like it.
 
 Notes:
 <ol>
-	<li>Please don't tell me about the <a href="http://www.explainxkcd.com/2011/08/10/password-strength/" target="_blank">XKCD cartoon</a>. I know about it. I'm not going to type in a 28-character password on my phone.</li>
+	<li>Please don't tell me about the <a href="https://www.explainxkcd.com/wiki/index.php/Password_Strength" target="_blank">XKCD cartoon</a>. I know about it. I'm not going to type in a 28-character password on my phone.</li>
 	<li>A password using this algorithm doesn't lend itself to dictionary attacks or even rainbow table attacks. A brute force attack using today's hardware would take an inordinate amount of time according to this chart:</li>
 </ol>
-<p style="text-align: center;"><a href="http://arstechnica.com/security/2012/08/passwords-under-assault/4/"><img class="aligncenter" title="Brute force attack time by password length" src="http://cdn.arstechnica.net/wp-content/uploads/2012/08/exponential-wall2-640x398.png" alt="" width="480" height="299" /></a></p>
+<p style="text-align: center;"><a href="https://arstechnica.com/security/2012/08/passwords-under-assault/4/"><img class="aligncenter" title="Brute force attack time by password length" src="https://cdn.arstechnica.net/wp-content/uploads/2012/08/exponential-wall2-640x398.png" alt="" width="480" height="299" /></a></p>
 &nbsp;

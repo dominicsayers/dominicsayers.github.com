@@ -3,7 +3,7 @@ layout: post
 title: Mudhsuden Singh Panesar
 date: 2006-05-30 15:06:33.000000000 +01:00
 ---
-Monty Panesar's fielding was memorably described as "<a target="_blank" href="http://www.telegraph.co.uk/sport/main.jhtml?xml=/sport/2006/05/30/scprin30.xml">slapstick</a>" by Derek Pringle in the Telegraph today. He seems prone to fumbles and spilled chances (Panesar as well, boom boom). Anybody who has played cricket knows a talentless fielder when they see one. When Kevin Pietersen dropped his first six chances in Test cricket it was clearly a blip, one that he has since rectified by catching everything that has come to him.
+Monty Panesar's fielding was memorably described as "<a target="_blank" href="https://www.telegraph.co.uk/sport/main.jhtml?xml=/sport/2006/05/30/scprin30.xml">slapstick</a>" by Derek Pringle in the Telegraph today. He seems prone to fumbles and spilled chances (Panesar as well, boom boom). Anybody who has played cricket knows a talentless fielder when they see one. When Kevin Pietersen dropped his first six chances in Test cricket it was clearly a blip, one that he has since rectified by catching everything that has come to him.
 
 No such expectations accompany Panesar's fielding which will remain for the remainder of his career a weak part of his game. Some commentators are warning that his fielding is so weak that the remainder of his career may not stretch to the Ashes campaign this winter. It's my opinion that this would be an enormous error on the part of the selectors, if indeed they are contemplating dropping him.
 

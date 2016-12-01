@@ -67,5 +67,5 @@ containing <code>&lt;%= link_to 'Edit', edit_mom_path(@mom) %&gt; |</code>
 &lt;% end %&gt;</pre>
 </li>
 	<li><code>rails s</code></li>
-	<li>Point your browser to <code>http://localhost:3000/moms</code>.</li>
+	<li>Point your browser to <code>https://localhost:3000/moms</code>.</li>
 </ol>

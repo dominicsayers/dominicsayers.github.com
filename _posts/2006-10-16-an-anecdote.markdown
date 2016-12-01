@@ -9,4 +9,4 @@ His competitors are Massey Ferguson, John Deere and Ford. His is a small busines
 
 So I kind of believe him when he says that these dealerships are not about to start buying their tractor parts over the internet any time soon. He knows them and their shops better than I do. There are people that would have us believe we are on the verge of a global transition to a web-based economy, and that "high-touch" sales and marketing techniques for low-value accounts will be made obsolete by automation. Don't believe everything you read.
 
-It's not a recipe for getting <a href="http://news.bbc.co.uk/1/hi/business/6034577.stm">massively wealthy in 18 months</a> but it is sustainable for the time being. And I believe there will always be a place for human relationships in business, even for low-value transactions.
+It's not a recipe for getting <a href="https://news.bbc.co.uk/1/hi/business/6034577.stm">massively wealthy in 18 months</a> but it is sustainable for the time being. And I believe there will always be a place for human relationships in business, even for low-value transactions.

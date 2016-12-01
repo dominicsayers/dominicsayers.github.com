@@ -23,9 +23,9 @@ I Googled my search for a Ruby on Rails CMS. I eliminated opinion pieces from 20
 
 The list was
 <ul>
-	<li><a href="http://www.locomotivecms.com/" target="_blank">Locomotive</a></li>
-	<li><a href="http://refinerycms.com/" target="_blank">Refinery</a></li>
-	<li><a href="http://radiantcms.org/" target="_blank">Radiant</a></li>
+	<li><a href="https://www.locomotivecms.com/" target="_blank">Locomotive</a></li>
+	<li><a href="https://refinerycms.com/" target="_blank">Refinery</a></li>
+	<li><a href="https://radiantcms.org/" target="_blank">Radiant</a></li>
 </ul>
 <h3>3. Final selection</h3>
 To select a winner, I read the marketing fluff on each website. I then forgot everything I'd read and got on with making a rational decision.

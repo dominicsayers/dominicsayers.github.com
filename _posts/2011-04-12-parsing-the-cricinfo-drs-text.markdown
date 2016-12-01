@@ -5,7 +5,7 @@ date: 2011-04-12 12:53:11.000000000 +01:00
 ---
 NB this post may be of limited interest (read: zero interest) to anybody but me.
 
-<a title="Cricinfo website" href="http://cricinfo.com" target="_blank">Cricinfo</a> records <a title="Wikipedia article" href="http://en.wikipedia.org/wiki/Umpire_Decision_Review_System" target="_blank">Umpire Decision Review System</a> (DRS or UDRS) outcomes in its match notes. Here are a few examples:
+<a title="Cricinfo website" href="https://cricinfo.com" target="_blank">Cricinfo</a> records <a title="Wikipedia article" href="https://en.wikipedia.org/wiki/Umpire_Decision_Review_System" target="_blank">Umpire Decision Review System</a> (DRS or UDRS) outcomes in its match notes. Here are a few examples:
 <ul>
 	<li>Over 18.2: Refferal by South Africa, Umpire- SJ Davis, Batsman- AG Prince(Upheld)</li>
 	<li>Over 39.2: Referral by England, Umpire- Aleem Dar, Batsman- JH Kallis (Struck down)</li>

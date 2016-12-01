@@ -3,7 +3,7 @@ layout: post
 title: Installing Gitorious on Ubuntu Server 10.10 (Maverick Meerkat)
 date: 2011-02-03 15:26:20.000000000 +00:00
 ---
-Thanks to Christian Johansen for the excellent detailed instructions on setting up Gitorious <a href="http://cjohansen.no/en/ruby/setting_up_gitorious_on_your_own_server" target="_blank">here</a>. I eventually got it working, which I would not have done without this help. Here are some notes from setting it up on the following versions:
+Thanks to Christian Johansen for the excellent detailed instructions on setting up Gitorious <a href="https://cjohansen.no/en/ruby/setting_up_gitorious_on_your_own_server" target="_blank">here</a>. I eventually got it working, which I would not have done without this help. Here are some notes from setting it up on the following versions:
 <pre>Ubuntu Server 10.10 as a VMware VM
 ruby 1.8.7 (2010-06-23 patchlevel 299) [i686-linux]
 RubyGems 1.5.0
@@ -18,7 +18,7 @@ Your config/gitorious.yml does not have an entry for your current Rails environm
 which I fixed by doing
 <pre>sudo rake gems:install RAILS_ENV=production</pre>
 </li>
-	<li>Then I got an error "<code>undefined local variable or method `version_requirements'</code>" which had me stuck for a while (being a Rails n00b). Google eventually led me to this: <a href="http://www.redmine.org/issues/7516" target="_blank">http://www.redmine.org/issues/7516</a> and the <code>environment.rb</code> hack from Phillip Koebbe fixed it for me.</li>
+	<li>Then I got an error "<code>undefined local variable or method `version_requirements'</code>" which had me stuck for a while (being a Rails n00b). Google eventually led me to this: <a href="https://www.redmine.org/issues/7516" target="_blank">https://www.redmine.org/issues/7516</a> and the <code>environment.rb</code> hack from Phillip Koebbe fixed it for me.</li>
 	<li>When adding the first user, the command
 <pre>script/console</pre>
 gave me the following messages

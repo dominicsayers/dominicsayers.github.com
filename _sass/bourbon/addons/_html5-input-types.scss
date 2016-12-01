@@ -1,7 +1,7 @@
 //************************************************************************//
 // Generate a variable ($all-text-inputs) with a list of all html5
 // input types that have a text-based input, excluding textarea.
-// http://diveintohtml5.org/forms.html
+// https://diveintohtml5.org/forms.html
 //************************************************************************//
 $inputs-list: 'input[type="email"]',
               'input[type="number"]',

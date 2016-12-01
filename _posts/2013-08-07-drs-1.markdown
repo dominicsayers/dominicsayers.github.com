@@ -12,7 +12,7 @@ Part 2: Technology
 Part 3: Reviews &amp; umpiring
 Part 4: Proposals &amp; conclusions
 
-<a href="http://www.telegraph.co.uk/sport/cricket/international/theashes/10217954/Ashes-2013-DRS-decision-to-give-out-Usman-Khawaja-branded-farcical-and-incompetent-by-Australia-media.html"><img class="aligncenter" alt="Ashes DRS horror show rolls on - Daily Telegraph" src="http://i.telegraph.co.uk/multimedia/archive/02633/drs_2633680b.jpg" width="620" height="388" /></a>
+<a href="https://www.telegraph.co.uk/sport/cricket/international/theashes/10217954/Ashes-2013-DRS-decision-to-give-out-Usman-Khawaja-branded-farcical-and-incompetent-by-Australia-media.html"><img class="aligncenter" alt="Ashes DRS horror show rolls on - Daily Telegraph" src="https://i.telegraph.co.uk/multimedia/archive/02633/drs_2633680b.jpg" width="620" height="388" /></a>
 <h2>Aims &amp; origin of the DRS</h2>
 <h4>TV replays</h4>
 Before the DRS was introduced we had two umpires on the field with nothing but their eyes and ears with which to make a decision. Television viewers, on the other hand, had the benefit of slow-motion replays and an increasing number of technology-led analysis tools that were developed to give the commentators something to talk about.
@@ -34,7 +34,7 @@ Journalists and TV commentators seem unable to assume any numeracy at all in the
 Here's Jagmohan Dalmiya of the BCCI[1] pretending to be stupid (he isn't):
 <blockquote>We will accept DRS when technology is foolproof. There's nothing in between. Full stop. Let them come up with a system which is 100 per cent correct. They couldn't fix the Duckworth-Lewis problem in 15 years, what guarantee do we have about an error-free DRS? The Duckworth-Lewis method is beyond most of the players and administrators, let alone the common fans. I am still trying to figure out how can a team total be increased on basis of projection. The whole process is very complicated and confusing. And rather than solving the riddle, DRS creates more confusion in its present form.
 
-- <a title="Indian Express" href="http://www.indianexpress.com/news/jagmohan-dalmiya-doesnt-see-any-hope-for-drs-in-present-form/1152155/0" target="_blank">Jagmohan Dalmiya doesn't see any hope for DRS in present form</a></blockquote>
+- <a title="Indian Express" href="https://www.indianexpress.com/news/jagmohan-dalmiya-doesnt-see-any-hope-for-drs-in-present-form/1152155/0" target="_blank">Jagmohan Dalmiya doesn't see any hope for DRS in present form</a></blockquote>
 There's a book to be written about the <em>real</em> reasons why the BCCI actually refuses to allow the DRS to be used in India's test matches[2], but concern for the fans is not one of them.
 
 Perhaps that is simply a timid reaction to a new situation that the administrators <em>fear</em> the viewer will not understand. Perhaps the viewer is more intelligent than she is given credit for.
@@ -51,13 +51,13 @@ The current Duckworth-Lewis par score can be calculated on a ball-by-ball basis 
 
 Although the algorithm behind the Duckworth-Lewis method is opaque, it is now widely accepted by players and fans as a good approximation. Nobody is calling for it to be replaced by the previous crude adjustments based on average run-rate.
 <h4>LBW law</h4>
-The LBW law <a title="MCC Laws of cricket" href="http://www.lords.org/mcc/laws-of-cricket/laws/law-36-leg-before-wicket/" target="_blank">Law 36 (Leg before wicket)</a> is complex and could in theory be simplified. Trying to explain the law to a cricket neophyte is troubling. "You mean it has to pitch in line with the stumps?". "No, it can pitch outside the off stump but not the leg stump". "But it has to hit the pads in line with the stumps, right?". "No, only if the batsman is playing a shot". Exit neophyte.
+The LBW law <a title="MCC Laws of cricket" href="https://www.lords.org/mcc/laws-of-cricket/laws/law-36-leg-before-wicket/" target="_blank">Law 36 (Leg before wicket)</a> is complex and could in theory be simplified. Trying to explain the law to a cricket neophyte is troubling. "You mean it has to pitch in line with the stumps?". "No, it can pitch outside the off stump but not the leg stump". "But it has to hit the pads in line with the stumps, right?". "No, only if the batsman is playing a shot". Exit neophyte.
 
-Calls for the LBW law to be reformed have existed throughout the history of cricket, and it <em>has</em> been reformed several times <a title="Wikipedia" href="http://en.wikipedia.org/wiki/Leg_before_wicket" target="_blank">Wikipedia - Leg before wicket</a>. But the law as it stands is widely respected despite its complexity and few, if any, are calling for change at the moment.
+Calls for the LBW law to be reformed have existed throughout the history of cricket, and it <em>has</em> been reformed several times <a title="Wikipedia" href="https://en.wikipedia.org/wiki/Leg_before_wicket" target="_blank">Wikipedia - Leg before wicket</a>. But the law as it stands is widely respected despite its complexity and few, if any, are calling for change at the moment.
 <h4>Offside rule in football</h4>
 Cricket is not the only sport afflicted by irreducible complexity. Association Football's offside rule has always been a target for merriment based on people's poor understanding of it.
 
-The offside rule has been reformed several times too <a title="Wikipedia" href="http://en.wikipedia.org/wiki/Offside_(association_football)" target="_blank">Wikipedia - Offside (association football)</a>. But, while mocked, it has stood the test of time and will remain part of the game for the foreseeable future.
+The offside rule has been reformed several times too <a title="Wikipedia" href="https://en.wikipedia.org/wiki/Offside_(association_football)" target="_blank">Wikipedia - Offside (association football)</a>. But, while mocked, it has stood the test of time and will remain part of the game for the foreseeable future.
 <h4>Too complicated?</h4>
 So the evidence is that the DRS does not have to be presented as an infallible oracle. People (even "common fans") are willing to accept complexity if they know it is the minimum required for fairness. The DRS can produce and in some cases evaluate a body of evidence that can help a TV umpire assess a colleague's on-field decision. We can observe that process and appreciate the subtleties of what we are watching. It can be an interesting part of the game without patronising administrators and commentators telling us that we are too stupid to understand it.
 

@@ -3,9 +3,9 @@ layout: post
 title: World's Best All-rounders 2011 - new entry
 date: 2011-11-11 21:09:49.000000000 +00:00
 ---
-Lots of excitement at Newlands in the <a href="http://www.espncricinfo.com/ci/engine/match/514029.html" target="_blank">first Test</a> between South Africa and Australia. A cynic might note a number of unlikely events that could have been the subject of wagers. But nonetheless, we are long overdue an update on the World's Best All-rounder table.
+Lots of excitement at Newlands in the <a href="https://www.espncricinfo.com/ci/engine/match/514029.html" target="_blank">first Test</a> between South Africa and Australia. A cynic might note a number of unlikely events that could have been the subject of wagers. But nonetheless, we are long overdue an update on the World's Best All-rounder table.
 
-And we have a new entry! As predicted in my last table back in June, <a href="http://www.espncricinfo.com/ci/content/player/8180.html" target="_blank">Shane Watson</a> has hurtled into the table at no.8. He is undoubtedly a fine all-rounder and deserves his place in the list. Is he a better bowler than, say, the Waugh brothers were at his age? Well if averages mean anything then we must say yes. Is he a better all-rounder than <a href="http://www.espncricinfo.com/ci/content/player/46774.html" target="_blank">Shaun Pollock</a>? It's close, but Watson's better batting average and catching record just put him marginally ahead.
+And we have a new entry! As predicted in my last table back in June, <a href="https://www.espncricinfo.com/ci/content/player/8180.html" target="_blank">Shane Watson</a> has hurtled into the table at no.8. He is undoubtedly a fine all-rounder and deserves his place in the list. Is he a better bowler than, say, the Waugh brothers were at his age? Well if averages mean anything then we must say yes. Is he a better all-rounder than <a href="https://www.espncricinfo.com/ci/content/player/46774.html" target="_blank">Shaun Pollock</a>? It's close, but Watson's better batting average and catching record just put him marginally ahead.
 <table border="0">
 <tbody>
 <tr>
@@ -270,8 +270,8 @@ And we have a new entry! As predicted in my last table back in June, <a href="ht
 </tr>
 </tbody>
 </table>
-What of the spinners at the lower end of the table? <a href="http://www.espncricinfo.com/ci/content/player/38710.html" target="_blank">Daniel Vettori</a> clings on at the bottom of the table, an all-rounder just. <a href="http://www.espncricinfo.com/ci/content/player/56143.html" target="_blank">Shakib al Hasan</a> has improved his stats markedly since June and vaulted above such illustrious all-rounders as <a href="http://www.espncricinfo.com/ci/content/player/12856.html" target="_blank">Andrew Flintoff</a> and <a href="http://www.espncricinfo.com/ci/content/player/30028.html" target="_blank">Kapil Dev</a>.
+What of the spinners at the lower end of the table? <a href="https://www.espncricinfo.com/ci/content/player/38710.html" target="_blank">Daniel Vettori</a> clings on at the bottom of the table, an all-rounder just. <a href="https://www.espncricinfo.com/ci/content/player/56143.html" target="_blank">Shakib al Hasan</a> has improved his stats markedly since June and vaulted above such illustrious all-rounders as <a href="https://www.espncricinfo.com/ci/content/player/12856.html" target="_blank">Andrew Flintoff</a> and <a href="https://www.espncricinfo.com/ci/content/player/30028.html" target="_blank">Kapil Dev</a>.
 
-The table waits impatiently for the resumption of <a href="http://www.espncricinfo.com/ci/content/player/42639.html" target="_blank">Shahid Afridi</a>'s test career (also predicted back in June). Two more wickets and we have him.
+The table waits impatiently for the resumption of <a href="https://www.espncricinfo.com/ci/content/player/42639.html" target="_blank">Shahid Afridi</a>'s test career (also predicted back in June). Two more wickets and we have him.
 
 A reminder of the simple X-factor formula: it's just the player's batting average over 30 + Bowling average under 35 + catches per match.

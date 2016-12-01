@@ -18,6 +18,6 @@ Is it still necessary today, or are we using a model that was only appropriate w
 
 <strong>Links:</strong>
 <ul>
-	<li>GE/Durham: <a href="http://www.fastcompany.com/online/28/ge.html" target="_blank" title="(external link)">http://www.fastcompany.com/online/28/ge.html</a></li>
-	<li>SchoolTool (Mark Shuttleworth): <a href="http://mscom.rabbithole.co.za/archives/4" target="_blank" title="(external link)">http://mscom.rabbithole.co.za/archives/4</a></li>
+	<li>GE/Durham: <a href="https://www.fastcompany.com/online/28/ge.html" target="_blank" title="(external link)">https://www.fastcompany.com/online/28/ge.html</a></li>
+	<li>SchoolTool (Mark Shuttleworth): <a href="https://mscom.rabbithole.co.za/archives/4" target="_blank" title="(external link)">https://mscom.rabbithole.co.za/archives/4</a></li>
 </ul>

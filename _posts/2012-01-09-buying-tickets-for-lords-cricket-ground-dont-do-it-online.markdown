@@ -5,7 +5,7 @@ date: 2012-01-09 10:47:15.000000000 +00:00
 ---
 First of all, IANASC. That is, I Am Not A Security Consultant.
 
-But I have used technology for a while. And I was surprised to see an e-commerce site for a serious commercial organisation presented to the public in the state that http://tickets.lords.org was in last week.
+But I have used technology for a while. And I was surprised to see an e-commerce site for a serious commercial organisation presented to the public in the state that https://tickets.lords.org was in last week.
 
 This is a site through which I am expected to buy tickets for international cricket matches in 2012. I bailed out before I got to the point where I entered my credit card details, for the following reasons:
 <h3>Alarm #1</h3>
@@ -45,7 +45,7 @@ Simples.
 
 It's not actually that difficult to get a digital certificate that authoritatively identifies who you are. Any serious technology organization should be very familiar with this process.
 
-Once you've got a certificate and installed it on your server, you are ready to communicate with your users over SSL. They will see a URL beginning https:// instead of http:// and they will see a reassuring green padlock (or something similar) next to the URL in the address bar.
+Once you've got a certificate and installed it on your server, you are ready to communicate with your users over SSL. They will see a URL beginning https:// instead of https:// and they will see a reassuring green padlock (or something similar) next to the URL in the address bar.
 
 This communication will be encrypted.
 

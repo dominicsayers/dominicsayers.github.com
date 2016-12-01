@@ -4,7 +4,7 @@ title: HOWTO install Ruby on Rails on Windows and deploy to Heroku
 date: 2011-01-21 15:30:14.000000000 +00:00
 ---
 <h2>Why I'm writing this</h2>
-I tried for over two days to install <a href="http://guides.rubyonrails.org/getting_started.html" target="_blank">Ruby on Rails</a> on my Windows 7 machine so that I could deploy an app to <a href="http://docs.heroku.com/quickstart" target="_blank">Heroku</a>. Eventually I did it - it wasn't hard but I needed to collate information that wasn't easily to be found in one place. So I'm collating it here.
+I tried for over two days to install <a href="https://guides.rubyonrails.org/getting_started.html" target="_blank">Ruby on Rails</a> on my Windows 7 machine so that I could deploy an app to <a href="https://docs.heroku.com/quickstart" target="_blank">Heroku</a>. Eventually I did it - it wasn't hard but I needed to collate information that wasn't easily to be found in one place. So I'm collating it here.
 
 This is the record of an installation at a particular moment in time: January 2011. By the time you read this, the situation may have changed. If so, please let me know and I'll update this page.
 
@@ -18,7 +18,7 @@ Problem 1 will probably go away quite soon when Heroku update their widget. Prob
 What follows is the step-by-step guide to how I got a working install. If you're too impatient to follow this the executive summary is: (1) Install stuff using RailsInstaller, (2) edit the Gemfile before deployment to let Heroku use its own database. Here's the detail:
 <ol>
 	<li>You need compatible versions of Ruby, Rails and Git. If you have any of these currently installed then I suggest you uninstall them before you go on.</li>
-	<li><a href="http://railsinstaller.org/" target="_blank">Download</a> and run the RailsInstaller kit. Follow the defaults unless you want to install it elsewhere. I installed mine to <code>E:AppsRailsInstaller</code> and it works fine.</li>
+	<li><a href="https://railsinstaller.org/" target="_blank">Download</a> and run the RailsInstaller kit. Follow the defaults unless you want to install it elsewhere. I installed mine to <code>E:AppsRailsInstaller</code> and it works fine.</li>
 	<li>From a command window, enter <code><strong>ruby -v</strong></code>
 You should see something like this <code>ruby 1.8.7 (2010-12-23 patchlevel 330) [i386-mingw32]</code></li>
 	<li>Enter <code><strong>gem -v</strong></code>
@@ -29,7 +29,7 @@ You should see something like this <code>Rails 3.0.3</code></li>
 You should see something like this <code>git version 1.7.3.1.msysgit.0</code></li>
 	<li>Enter <code><strong>sqlite3 --version</strong></code>
 You should see something like this <code>3.7.3</code></li>
-	<li>OK, we have a basic platform. Now to install the Heroku gem. This is described <a href="http://docs.heroku.com/heroku-command" target="_blank">here</a>: please look at this if you have problems with public keys etc. Hopefully you will just have to enter <code><strong>gem install heroku</strong></code>
+	<li>OK, we have a basic platform. Now to install the Heroku gem. This is described <a href="https://docs.heroku.com/heroku-command" target="_blank">here</a>: please look at this if you have problems with public keys etc. Hopefully you will just have to enter <code><strong>gem install heroku</strong></code>
 With a little luck you will see something like this:
 <code>Successfully installed rest-client-1.6.1
 Successfully installed configuration-1.2.0
@@ -127,7 +127,7 @@ Installing RDoc documentation for heroku-1.17.8...
 </li>
 	<li>Enter <code><strong>cd tutorialapp</strong></code> to move to your app's folder</li>
 	<li>Enter <code><strong>bundle install</strong></code>and gem will install anything your app needs
-<pre>Fetching source index for http://rubygems.org/
+<pre>Fetching source index for https://rubygems.org/
 Using rake (0.8.7)
 Using abstract (1.0.0)
 Using activesupport (3.0.3)
@@ -159,14 +159,14 @@ Your bundle is complete! Use `bundle show [gemname]` to see where a bundled gem 
 	<li>Enter <code><strong>rails server</strong></code> and the mini web server will start your application on port 3000.
 You should see this in the command window
 <code>=&gt; Booting WEBrick
-=&gt; Rails 3.0.3 application starting in development on http://0.0.0.0:3000
+=&gt; Rails 3.0.3 application starting in development on https://0.0.0.0:3000
 =&gt; Call with -d to detach
 =&gt; Ctrl-C to shutdown server
 [2011-01-21 14:33:22] INFO WEBrick 1.3.1
 [2011-01-21 14:33:22] INFO ruby 1.8.7 (2010-12-23) [i386-mingw32]
 [2011-01-21 14:33:22] INFO WEBrick::HTTPServer#start: pid=8932 port=3000</code>
-and this in a web browser when you navigate to <em>http://localhost:3000</em>
-<a href="http://blog-dominicsayers.rhcloud.com/wp-content/uploads/2011/01/webpagelocal.png"><img class="aligncenter  wp-image-551" title="Rails new app" src="http://res.cloudinary.com/dominicsayers/image/upload/v1399584839/webpagelocal_xakuln.png" alt="" /></a></li>
+and this in a web browser when you navigate to <em>https://localhost:3000</em>
+<a href="https://blog-dominicsayers.rhcloud.com/wp-content/uploads/2011/01/webpagelocal.png"><img class="aligncenter  wp-image-551" title="Rails new app" src="https://res.cloudinary.com/dominicsayers/image/upload/v1399584839/webpagelocal_xakuln.png" alt="" /></a></li>
 	<li>Enter <strong>Ctrl-C</strong> in the command window to terminate the local web server</li>
 	<li>Enter <code><strong>git init</strong></code> and git will initialize a repository in the current folder.
 <code>Initialized empty Git repository in C:/Path/to/your/dev/folder/tutorialapp/.git/</code></li>
@@ -225,7 +225,7 @@ Email: joe@example.com
 Password:
 Uploading ssh public key /Users/joe/.ssh/id_rsa.pub
 Creating blooming-wind-752..... done
-http://blooming-wind-752.heroku.com/ | git@heroku.com:blooming-wind-752.git
+https://blooming-wind-752.heroku.com/ | git@heroku.com:blooming-wind-752.git
 Git remote heroku added</code></li>
 	<li>This is the only time Heroku will ask for your credentials. If you have an existing <code>id_rsa.pub</code> file in the <code>.ssh</code> folder in your home directory then Heroku will use it. Otherwise it will create one for you (if I remember correctly).</li>
 	<li>There is now a Heroku app ready for your code. We just need to upload the code we commited to git. To do this enter <code><strong>git push heroku master</strong></code>and you will see this
@@ -242,7 +242,7 @@ Total 63 (delta 3), reused 0 (delta 0)
        Installing rails3_serve_static_assets... done
 -----&gt; Gemfile detected, running Bundler version 1.0.3
        Unresolved dependencies detected; Installing...
-       Fetching source index for http://rubygems.org/
+       Fetching source index for https://rubygems.org/
        Installing rake (0.8.7)
        Installing abstract (1.0.0)
        Installing activesupport (3.0.3)
@@ -271,14 +271,14 @@ Total 63 (delta 3), reused 0 (delta 0)
        Your bundle is complete! It was installed into ./.bundle/gems/
        Compiled slug size is 3.7MB
 -----&gt; Launching... done
-       http://blooming-wind-752.heroku.com deployed to Heroku
+       https://blooming-wind-752.heroku.com deployed to Heroku
 
 To git@heroku.com:blooming-wind-752.git
  * [new branch]      master -&gt; master</pre>
 </li>
 	<li>Now enter <code>h<strong>eroku open</strong></code>and the app will open in your browser. Unfortunately you will get the dreaded App Crashed message:
 
-[caption id="attachment_552" align="aligncenter" width="300" caption="App crashed. Please check your Heroku logs for the backtrace."]<a href="http://blog-dominicsayers.rhcloud.com/wp-content/uploads/2011/01/webpageherokubad.png"><img class="size-medium wp-image-552" title="Heroku app crashed. Heroku sad." src="http://res.cloudinary.com/dominicsayers/image/upload/h_93,w_300/v1399584838/webpageherokubad_fzkvw2.png" alt="" width="300" height="93" /></a>[/caption]</li>
+[caption id="attachment_552" align="aligncenter" width="300" caption="App crashed. Please check your Heroku logs for the backtrace."]<a href="https://blog-dominicsayers.rhcloud.com/wp-content/uploads/2011/01/webpageherokubad.png"><img class="size-medium wp-image-552" title="Heroku app crashed. Heroku sad." src="https://res.cloudinary.com/dominicsayers/image/upload/h_93,w_300/v1399584838/webpageherokubad_fzkvw2.png" alt="" width="300" height="93" /></a>[/caption]</li>
 	<li>To fix this, edit the file <code>Gemfile</code>in the root folder of your app. Change the following line
 <pre>gem 'sqlite3-ruby', :require =&gt; 'sqlite3'</pre>
 to look like this
@@ -302,7 +302,7 @@ Total 3 (delta 2), reused 0 (delta 0)
        Installing rails3_serve_static_assets... done
 -----&gt; Gemfile detected, running Bundler version 1.0.3
        Unresolved dependencies detected; Installing...
-       Fetching source index for http://rubygems.org/
+       Fetching source index for https://rubygems.org/
        Installing rake (0.8.7)
        Installing abstract (1.0.0)
        Installing activesupport (3.0.3)
@@ -331,14 +331,14 @@ Total 3 (delta 2), reused 0 (delta 0)
        Your bundle is complete! It was installed into ./.bundle/gems/
        Compiled slug size is 3.7MB
 -----&gt; Launching... done
-       http://blooming-wind-752.heroku.com deployed to Heroku
+       https://blooming-wind-752.heroku.com deployed to Heroku
 
 To git@heroku.com:blooming-wind-752.git
    fd8c17d..d0bfbc5  master -&gt; master</pre>
 </li>
 	<li>With luck and a following wind, when you now try <code><strong>heroku open</strong></code> your Heroku-hosted app will now look like this:
-<a href="http://blog-dominicsayers.rhcloud.com/wp-content/uploads/2011/01/webpagelocal.png"><img class="aligncenter  wp-image-551" title="Rails new app" src="http://res.cloudinary.com/dominicsayers/image/upload/v1399584839/webpagelocal_xakuln.png" alt="" /></a></li>
+<a href="https://blog-dominicsayers.rhcloud.com/wp-content/uploads/2011/01/webpagelocal.png"><img class="aligncenter  wp-image-551" title="Rails new app" src="https://res.cloudinary.com/dominicsayers/image/upload/v1399584839/webpagelocal_xakuln.png" alt="" /></a></li>
 	<li>That's it from me. You're now on your own making the app do something useful...</li>
 </ol>
 There are plenty of other tutorials on Getting Started with Ruby on Rails and Heroku. This is just to get you over a hurdle that I faced and which took me a lot of effort to get over. Hopefully I've saved you some time.
-Thanks to <a href="http://www.oozou.com/" target="_blank">Jan Jones</a> for the RailsInstaller tip.
+Thanks to <a href="https://www.oozou.com/" target="_blank">Jan Jones</a> for the RailsInstaller tip.

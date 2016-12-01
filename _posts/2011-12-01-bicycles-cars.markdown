@@ -4,7 +4,7 @@ title: Bicycles = cars
 date: 2011-12-01 10:22:34.000000000 +00:00
 tags: roads
 ---
-A recent commenter on one of my <a href="http://blog.dominicsayers.com/2008/01/28/cycling-to-work-why-people-hate-cyclists-part-1/" target="_blank">old posts</a> suggests that using a bicycle on the road should be subject to the same regulations as those governing car use, i.e.
+A recent commenter on one of my <a href="https://blog.dominicsayers.com/2008/01/28/cycling-to-work-why-people-hate-cyclists-part-1/" target="_blank">old posts</a> suggests that using a bicycle on the road should be subject to the same regulations as those governing car use, i.e.
 <ul>
 	<li>Compulsory vehicle testing</li>
 	<li>A tax to use the road</li>

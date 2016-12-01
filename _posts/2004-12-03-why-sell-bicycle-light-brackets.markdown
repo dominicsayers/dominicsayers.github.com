@@ -19,4 +19,4 @@ That must be why the cycle shops carry so much stock of brackets. All those bits
 
 Or perhaps its because the FUCKERS who STEAL lights off unattended bicycles can go in and get a cheap replacement bracket to attach the STOLEN lights to their own, probably STOLEN, bicycles.
 
-Do not buy stuff from any bicycle shop that stocks replacement brackets. <a href="http://www.evanscycles.com/product.jsp?style=29359">Evans Cycles</a>, this means you for a start. Any others?
+Do not buy stuff from any bicycle shop that stocks replacement brackets. <a href="https://www.evanscycles.com/product.jsp?style=29359">Evans Cycles</a>, this means you for a start. Any others?

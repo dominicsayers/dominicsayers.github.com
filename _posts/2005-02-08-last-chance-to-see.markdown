@@ -3,7 +3,7 @@ layout: post
 title: Last Chance To See...
 date: 2005-02-08 07:01:07.000000000 +00:00
 ---
-Today's Last Chance To See is about a <a href="http://www.londonfieldworks.com/little/index.html">video installation</a> at The Wapping Project by Bruce Gilchrist and Jo Joelson. You can see it until 12 February 2005.
+Today's Last Chance To See is about a <a href="https://www.londonfieldworks.com/little/index.html">video installation</a> at The Wapping Project by Bruce Gilchrist and Jo Joelson. You can see it until 12 February 2005.
 
 The Wapping Project is a disused pumping station and has a lot of the original pumping equipment still left inside, so it's a fantastic space to be in in it's own right. Very atmospheric and probably the most desirable place I've seen for an apartment (if you could afford a 10,000 sq ft bungalow in Wapping riverside with 50ft ceilings).
 

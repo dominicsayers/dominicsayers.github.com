@@ -20,7 +20,7 @@ How am I supposed to know that the next station this train arrives at is Slough?
 We apologise for any inconvenience caused. You will need to go to the Live Departure Boards, input the starting station and the time of departure. Click on the journey you require, this then takes you to a page which displays the journey and the estimated times of arrival at each station. It is then possible to go to each stations departure board to find out whether this train is on schedule. Once again we apologise for any inconvenience caused, and trust that this information is of use to you.
 
 <strong>Me:</strong>
-Hi, and thanks very much for your prompt reply.You are asking me to go to the Live Departure Boards and input the starting station and the time of departure. However, I can't input thetime of departure on the screen available to me: <a target="_blank" href="http://ldb.nationalrail.co.uk/ldb/livedepartures.asp">http://ldb.nationalrail.co.uk/ldb/livedepartures.asp</a>
+Hi, and thanks very much for your prompt reply.You are asking me to go to the Live Departure Boards and input the starting station and the time of departure. However, I can't input thetime of departure on the screen available to me: <a target="_blank" href="https://ldb.nationalrail.co.uk/ldb/livedepartures.asp">https://ldb.nationalrail.co.uk/ldb/livedepartures.asp</a>
 
 Maybe you have access to a screen that I can't find?
 

@@ -6,7 +6,7 @@ date: 2008-07-14 09:55:16.000000000 +01:00
 <script type="text/javascript">// < ![CDATA[
  google_ad_client = "ca-pub-2148551173170619"; /* Hotmail account compromised */ google_ad_slot = "7289443389"; google_ad_width = 468; google_ad_height = 60;
 // ]]></script>
-<script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+<script src="https://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
 </script>
 
 [Edited to add: Microsoft Live support resolved this issue very swiftly and professionally. I now have control of my Hotmail account back.]
@@ -21,9 +21,9 @@ Inconvenient then, and I'd like to get it back if possible. And I'd certainly li
 
 <strong>Attempt 1</strong>
 
-I click on the Help link on the Hotmail home page. Yay! there's a link for "<a class="tlhelplink" href="http://help.live.com/EN_US/frameset.asp?lc=2057&amp;vv=550&amp;format=b1&amp;SEARCHTERM=plehdievil&amp;v2=%3Fwa%3Dwsignin1.0%26rpsnv%3D10%26ct%3D1216019625%26rver%3D4.5.2130.0%26wp%3DMBI%26wreply%3Dhttp%3A%252F%252Fmail.live.com%252Fdefault.aspx%26id%3D64855&amp;tmt=&amp;v4=DH_PP%2C2057&amp;H_APP=Windows%20Live%20ID&amp;S_TEXT=Search%20Windows%20Live%20ID%20Help:&amp;H_VER=2.6&amp;v1=http%3A//login.live.com&amp;INI=LiveIDv1.ini#sr2">What do I do if I think someone is using my Windows Live ID? </a>". I click it. It gives me another link to "<a href="http://g.live.com/0HE_TRACKSTAR_ENUS9/25344" target="_blank">Report to Microsoft</a>" any suspicious activity.
+I click on the Help link on the Hotmail home page. Yay! there's a link for "<a class="tlhelplink" href="https://help.live.com/EN_US/frameset.asp?lc=2057&amp;vv=550&amp;format=b1&amp;SEARCHTERM=plehdievil&amp;v2=%3Fwa%3Dwsignin1.0%26rpsnv%3D10%26ct%3D1216019625%26rver%3D4.5.2130.0%26wp%3DMBI%26wreply%3Dhttp%3A%252F%252Fmail.live.com%252Fdefault.aspx%26id%3D64855&amp;tmt=&amp;v4=DH_PP%2C2057&amp;H_APP=Windows%20Live%20ID&amp;S_TEXT=Search%20Windows%20Live%20ID%20Help:&amp;H_VER=2.6&amp;v1=http%3A//login.live.com&amp;INI=LiveIDv1.ini#sr2">What do I do if I think someone is using my Windows Live ID? </a>". I click it. It gives me another link to "<a href="https://g.live.com/0HE_TRACKSTAR_ENUS9/25344" target="_blank">Report to Microsoft</a>" any suspicious activity.
 
-I click it. It leads to a Technet page with another link telling me to fill in a form on this page: <a href="http://support.passport.net/eform.aspx?productKey=passporteasi&amp;page=support_home_options_form_byemail&amp;ct=eformts">Helpful Information for Microsoft Passport Network</a>
+I click it. It leads to a Technet page with another link telling me to fill in a form on this page: <a href="https://support.passport.net/eform.aspx?productKey=passporteasi&amp;page=support_home_options_form_byemail&amp;ct=eformts">Helpful Information for Microsoft Passport Network</a>
 
 I click the link. It takes me back to the Hotmail help page.
 
@@ -31,7 +31,7 @@ Presumably Microsoft think their customers are so stupid they will continue roun
 
 <strong>Attempt 2</strong>
 
-I call Microsoft UK. After patiently navigating their call centre menus, I arrive at the Hotmail options. For billing enquiries please press 1. For all other enquiries please go to <a href="http://uk.msn.com">http://uk.msn.com</a>
+I call Microsoft UK. After patiently navigating their call centre menus, I arrive at the Hotmail options. For billing enquiries please press 1. For all other enquiries please go to <a href="https://uk.msn.com">https://uk.msn.com</a>
 
 My first reaction is Gaaah! But surprisingly there is a form on the MSN site that allows you to report Hotmail security issues. I filled in the form and submitted it. The waiting begins.
 
@@ -44,5 +44,5 @@ google_ad_height = 60;
 //-->
 </script>
 <script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>

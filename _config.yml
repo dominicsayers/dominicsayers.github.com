@@ -21,7 +21,7 @@ author_image: "/assets/images/dominicsayers.jpg"
 paginate:	5
 permalink: :title/
 
-url: "http://new.dominicsayers.com" # the base hostname & protocol for your site
+url: "https://blog.dominicsayers.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@dominicsayers'
@@ -34,7 +34,7 @@ social:
   - icon:	twitter
     url:	https://twitter.com/dominicsayers
     desc: Follow me on twitter
-    share_url: http://twitter.com/share
+    share_url: https://twitter.com/share
     share_title: '?text='
     share_link: "&amp;url="
 

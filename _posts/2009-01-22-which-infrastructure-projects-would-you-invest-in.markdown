@@ -6,7 +6,7 @@ tags: keynes
 ---
 Firstly, IANAE (I am not an economist).
 
-There seems to be some sympathy for the Keynesian <a href="http://en.wikipedia.org/wiki/Keynesian" target="_blank">notion</a> that one way out of recession is to (a) reduce interest rates and (b) make substantial investments with public money into infrastructure projects. Well in the UK we've done <em>(a)</em> to the extent that interest rates are at a record low. It would appear the only thing left is to start with the infrastructure investments.
+There seems to be some sympathy for the Keynesian <a href="https://en.wikipedia.org/wiki/Keynesian" target="_blank">notion</a> that one way out of recession is to (a) reduce interest rates and (b) make substantial investments with public money into infrastructure projects. Well in the UK we've done <em>(a)</em> to the extent that interest rates are at a record low. It would appear the only thing left is to start with the infrastructure investments.
 
 So what would you do to stimulate the UK economy? Here's my list:
 <ol>

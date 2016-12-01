@@ -11,7 +11,7 @@ What I'm getting at is this: taking a hand off the handlebars of your bike is a 
 
 But you need to communicate with other road users sometimes. It's impossible to flick the Vs at somebody when you have both hands on the handlebars, for instance. Unless you are deformed in some way.
 
-This is where your <a target="_blank" href="http://www.rada.org/">RADA</a> training comes in. If you make eye contact with your target audience you can communicate all sorts of messages without resorting to gesticulation. Let's take changing lanes as an example. Conventional wisdom has it that you should gracefully extend an arm in the direction you want to go and manoeuvre across when convenient. In reality, if you try this you'll just get your arm hit by a wing mirror. Then you'll hit a pothole and the rest of you will get hit by the rest of the vehicle.
+This is where your <a target="_blank" href="https://www.rada.org/">RADA</a> training comes in. If you make eye contact with your target audience you can communicate all sorts of messages without resorting to gesticulation. Let's take changing lanes as an example. Conventional wisdom has it that you should gracefully extend an arm in the direction you want to go and manoeuvre across when convenient. In reality, if you try this you'll just get your arm hit by a wing mirror. Then you'll hit a pothole and the rest of you will get hit by the rest of the vehicle.
 
 No, the answer is to look over the shoulder where you want to move. Fix the nearest driver with a stare that says "I believe you are in my lane, sir" and move across in a manner that brooks no argument. Safer for you and less inconvenient for him since he won't have to extract your mangled bike from his bumper this way.
 

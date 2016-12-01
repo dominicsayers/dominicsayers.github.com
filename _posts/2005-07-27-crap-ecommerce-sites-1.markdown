@@ -3,7 +3,7 @@ layout: post
 title: 'Crap ecommerce sites #1'
 date: 2005-07-27 14:52:00.000000000 +01:00
 ---
-<a href="http://www.bloomingmarvellous.co.uk">Blooming Marvellous</a>
+<a href="https://www.bloomingmarvellous.co.uk">Blooming Marvellous</a>
 
 No it blooming isn't.
 

@@ -3,7 +3,7 @@ layout: post
 title: Environmental cooking
 date: 2008-12-08 12:54:25.000000000 +00:00
 ---
-It's a well-known fact that you can <a href="http://www.google.co.uk/search?q=dishwasher+cooking" target="_blank">cook salmon in your dishwasher</a>. And cooking with your car's engine is so common <a href="http://books.google.com/books?id=tZIFAAAACAAJ" target="_blank">there's even a book about it</a>. Me, I'm heating a pie on the radiator in my office. Look it works, alright. I don't want haute cuisine for my lunch, just a hot pie. Well warm anyway. Warmish.
+It's a well-known fact that you can <a href="https://www.google.co.uk/search?q=dishwasher+cooking" target="_blank">cook salmon in your dishwasher</a>. And cooking with your car's engine is so common <a href="https://books.google.com/books?id=tZIFAAAACAAJ" target="_blank">there's even a book about it</a>. Me, I'm heating a pie on the radiator in my office. Look it works, alright. I don't want haute cuisine for my lunch, just a hot pie. Well warm anyway. Warmish.
 
 Environmental cooking. It's the latest Thing. There must be alternative uses for the steam dispenser on that coffee machine you never use any more. What about that 3GHz processor in your PC? It generates enough heat to roast an aurochs.
 

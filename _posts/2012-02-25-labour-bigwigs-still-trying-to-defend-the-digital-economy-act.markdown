@@ -30,13 +30,13 @@ Harriet bloody Harman made me write to my MP, Jim Fizpatrick, today. FWIW.
 </ul>
 <em>The last point is key. Perhaps I could include some comparisons between the user's experience of piracy compared to a legitimate purchase:</em>
 
-<img src="http://i.imgur.com/GxzeV.jpg" alt="" />
+<img src="https://i.imgur.com/GxzeV.jpg" alt="" />
 
-<img class="aligncenter" src="http://imgs.xkcd.com/comics/steal_this_comic.png" alt="" width="498" height="469" />
+<img class="aligncenter" src="https://imgs.xkcd.com/comics/steal_this_comic.png" alt="" width="498" height="469" />
 
 <em>Just to reiterate, I'm not supporting piracy. I'm saying if the content owners gave customers what they wanted, made it as easy as pirating it, and didn't try to retain an inappropriate level of control over what the customer did with the content then they might still have a business model.</em>
 
-<em>I could go on; I'm quite angry about this. The Digital Economy Act will have no effect on piracy (or child pornography or anything else it's supposed to fix). I can think of ten ways of defeating its measures, so the bad guys can doubtless think of 100. Harriet Harman (and by implication your party) appears still to think otherwise: <a href="http://j.mp/zyvlFC">http://j.mp/zyvlFC</a></em>
+<em>I could go on; I'm quite angry about this. The Digital Economy Act will have no effect on piracy (or child pornography or anything else it's supposed to fix). I can think of ten ways of defeating its measures, so the bad guys can doubtless think of 100. Harriet Harman (and by implication your party) appears still to think otherwise: <a href="https://j.mp/zyvlFC">https://j.mp/zyvlFC</a></em>
 
 <em>The Digital Economy Act reinforces the principal of a censored internet and adds disconnection for suspected infringers. What legislators should actually be doing is ensuring a free internet with access provided on a the same basis as other utilities.</em>
 

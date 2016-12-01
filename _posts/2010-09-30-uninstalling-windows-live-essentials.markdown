@@ -13,7 +13,7 @@ Search microsoft.com, live.com, msdn.com. Nothing, of course.
 
 Here's what I did to get rid of it:
 
-1. Downloaded the installer from <a href="http://explore.live.com/windows-live-essentials">http://explore.live.com/windows-live-essentials</a>
+1. Downloaded the installer from <a href="https://explore.live.com/windows-live-essentials">https://explore.live.com/windows-live-essentials</a>
 
 2. Ran it
 

@@ -3,8 +3,8 @@ layout: post
 title: Email validation version 2.1
 date: 2010-08-18 15:46:49.000000000 +01:00
 ---
-<h4>Quick links: <a href="http://code.google.com/p/isemail/source/browse/#svn/trunk" target="_blank">Source code</a> | <a href="http://www.dominicsayers.com/isemail/" target="_blank">Email address validators head-to-head</a></h4>
-I've had a lot of correspondence about <em><a href="http://code.google.com/p/isemail/source/browse/#svn/trunk" target="_blank">is_email()</a></em>, the free PHP email address validation software that I maintain. The principle topics of debate were the edge cases where an email address is technically valid but extremely unlikely in the real world.
+<h4>Quick links: <a href="https://code.google.com/p/isemail/source/browse/#svn/trunk" target="_blank">Source code</a> | <a href="https://www.dominicsayers.com/isemail/" target="_blank">Email address validators head-to-head</a></h4>
+I've had a lot of correspondence about <em><a href="https://code.google.com/p/isemail/source/browse/#svn/trunk" target="_blank">is_email()</a></em>, the free PHP email address validation software that I maintain. The principle topics of debate were the edge cases where an email address is technically valid but extremely unlikely in the real world.
 
 Examples of this sort of address would be <em>""@example.com</em> or <em>benedictXIII@va</em> - the first because it doesn't contain any text to identify the mailbox and the second because it's at a Top Level Domain.
 
@@ -18,5 +18,5 @@ But I wanted to identify unlikely addresses without declaring them invalid. For 
 
 This has allowed me to make it a true validator - it follows the RFCs as precisely as I can make it - without losing real-world usefulness.
 
-<a href="http://code.google.com/p/isemail/source/browse/#svn/trunk" target="_blank"><em>is_email()</em> version 2.1</a> was released yesterday. Try it. Let me know if it works for you.
-<h4>Quick links: <a href="http://code.google.com/p/isemail/source/browse/#svn/trunk" target="_blank">Source code</a> | <a href="http://www.dominicsayers.com/isemail/" target="_blank">Email address validators head-to-head</a></h4>
+<a href="https://code.google.com/p/isemail/source/browse/#svn/trunk" target="_blank"><em>is_email()</em> version 2.1</a> was released yesterday. Try it. Let me know if it works for you.
+<h4>Quick links: <a href="https://code.google.com/p/isemail/source/browse/#svn/trunk" target="_blank">Source code</a> | <a href="https://www.dominicsayers.com/isemail/" target="_blank">Email address validators head-to-head</a></h4>

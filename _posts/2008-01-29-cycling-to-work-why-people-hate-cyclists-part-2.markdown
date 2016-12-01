@@ -12,14 +12,14 @@ google_ad_height = 60;
 //-->
 </script>
 <script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 
 <div>The second in a series of posts examining the four most common reasons for people hating cyclists. The usual reasons being given as:</div>
 <div>
 <ol>
 	<li>
-<div><a target="_blank" href="http://blog.dominicsayers.com/2008/01/28/cycling-to-work-why-people-hate-cyclists-part-1/">Ignoring red lights</a></div>
+<div><a target="_blank" href="https://blog.dominicsayers.com/2008/01/28/cycling-to-work-why-people-hate-cyclists-part-1/">Ignoring red lights</a></div>
 </li>
 	<li>
 <div>
@@ -35,7 +35,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </ol>
 </div>
 <strong>Riding on pavements</strong>
-This is a complete no-no in my book. I would ride on a pavement about as often as I would drive a car on one, i.e. never. However, it is not unknown for cyclists to do this. There is <a target="_blank" href="http://www.timeout.com/london/features/4129/2.html">an article</a> in this week's Time Out by a cyclist attempting to justify doing this regularly on her particular commute. Silly woman.
+This is a complete no-no in my book. I would ride on a pavement about as often as I would drive a car on one, i.e. never. However, it is not unknown for cyclists to do this. There is <a target="_blank" href="https://www.timeout.com/london/features/4129/2.html">an article</a> in this week's Time Out by a cyclist attempting to justify doing this regularly on her particular commute. Silly woman.
 
 Cyclists who do this invade a space that is reserved for another class of road user. And by doing so they undermine all cycling campaigns aimed at getting such a space for cyclists themselves. Drivers who park (sometimes legally) in cycle lanes, road work contractors who block cycle lanes unnecessarily, planners who think 10 yards of cycle lane is worth installing so they can add to their cycle lane mileage for PR purposes: all these idiots are given succour by cyclists who ride on pavements.
 
@@ -47,19 +47,19 @@ So we cyclists are 0 for 2. Guilty on the first two charges. Can we recover? See
 <h2>Posts in this series</h2>
 <ol>
 	<li>
-<div><a target="_blank" href="http://blog.dominicsayers.com/2008/01/28/cycling-to-work-why-people-hate-cyclists-part-1/"><strong>Ignoring red lights</strong></a></div>
+<div><a target="_blank" href="https://blog.dominicsayers.com/2008/01/28/cycling-to-work-why-people-hate-cyclists-part-1/"><strong>Ignoring red lights</strong></a></div>
 </li>
 	<li>
 <div>
-<div><a target="_blank" href="http://blog.dominicsayers.com/2008/01/29/cycling-to-work-why-people-hate-cyclists-part-2/"><strong>Riding on pavements</strong></a></div>
+<div><a target="_blank" href="https://blog.dominicsayers.com/2008/01/29/cycling-to-work-why-people-hate-cyclists-part-2/"><strong>Riding on pavements</strong></a></div>
 </div>
 </li>
 	<li>
 <div>
-<div><a target="_blank" href="http://blog.dominicsayers.com/2008/01/30/cycling-to-work-why-people-hate-cyclists-part-3/">Assaulting innocent pedestrians</a></div>
+<div><a target="_blank" href="https://blog.dominicsayers.com/2008/01/30/cycling-to-work-why-people-hate-cyclists-part-3/">Assaulting innocent pedestrians</a></div>
 </div>
 </li>
-	<li><a target="_blank" href="http://blog.dominicsayers.com/2008/01/30/cycling-to-work-why-people-hate-cyclists-part-a/">Wearing lycra</a></li>
+	<li><a target="_blank" href="https://blog.dominicsayers.com/2008/01/30/cycling-to-work-why-people-hate-cyclists-part-a/">Wearing lycra</a></li>
 </ol>
 </div>
 
@@ -72,5 +72,5 @@ google_ad_height = 60;
 //-->
 </script>
 <script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>

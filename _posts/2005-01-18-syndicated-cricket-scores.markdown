@@ -5,7 +5,7 @@ date: 2005-01-18 09:11:07.000000000 +00:00
 ---
 Finally, the killer app that syndication has been waiting for!
 
-You can now get <a href="http://www.ecb.co.uk/live-scores.xml">syndicated cricket score updates</a> from the <a href="http://www.ecb.co.uk/">ECB website</a> (in RSS 0.91 for syndication nerds).
+You can now get <a href="https://www.ecb.co.uk/live-scores.xml">syndicated cricket score updates</a> from the <a href="https://www.ecb.co.uk/">ECB website</a> (in RSS 0.91 for syndication nerds).
 
 Why is this important? Well if you have to ask then you'll never know, as Louis Armstrong once said.
 

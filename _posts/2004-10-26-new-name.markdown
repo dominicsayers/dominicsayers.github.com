@@ -3,4 +3,4 @@ layout: post
 title: New name
 date: 2004-10-26 08:41:02.000000000 +01:00
 ---
-You can now call me <a href="http://public.2idi.com/=Dominic">=Dominic</a>
+You can now call me <a href="https://public.2idi.com/=Dominic">=Dominic</a>

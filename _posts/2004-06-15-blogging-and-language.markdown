@@ -3,7 +3,7 @@ layout: post
 title: Blogging and language
 date: 2004-06-15 20:21:36.000000000 +01:00
 ---
-I'm reading a new book called <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0713997524/ref=sr_aps_books_1_2/202-1036251-4751043">The Stories of English by David Crystal</a>. He
+I'm reading a new book called <a href="https://www.amazon.co.uk/exec/obidos/ASIN/0713997524/ref=sr_aps_books_1_2/202-1036251-4751043">The Stories of English by David Crystal</a>. He
 makes the valid point that a particular style of English tends to spring up
 where there is a good deal of social interaction in a tight network. His
 example is the scriveners of Paternoster Row near St Pauls cathedral in

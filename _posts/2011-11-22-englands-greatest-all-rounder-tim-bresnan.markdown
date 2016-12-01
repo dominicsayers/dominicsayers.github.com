@@ -34,6 +34,6 @@ And don't forget, Bresnan's figures have been achieved in an Ashes series in Aus
 
 Footnotes:
 
-1. He doesn't yet qualify for my World's Greatest All-rounders table (<a href="http://cricdata.org/players/xfactor">http://cricdata.org/players/xfactor</a>) because he has neither 500 runs nor 50 wickets. But he will
+1. He doesn't yet qualify for my World's Greatest All-rounders table (<a href="https://cricdata.org/players/xfactor">https://cricdata.org/players/xfactor</a>) because he has neither 500 runs nor 50 wickets. But he will
 
 2. If you look at the table, England's greatest all-rounders are actually Ted Dexter and Tony Greig. But who cares about them?

@@ -3,7 +3,7 @@ layout: post
 title: Managing by metric
 date: 2009-07-22 13:30:38.000000000 +01:00
 ---
-Somebody sent me a link to a talk by Bill Gates on improving education in schools by monitoring their performance. Here is the link: <a href="http://www.google.com/hostednews/ap/article/ALeqM5ix7-MYYtK9WbKEwgeUxdamW-sOBAD99J1L185" target="_blank">Bill Gates: Better data mean better schools</a>
+Somebody sent me a link to a talk by Bill Gates on improving education in schools by monitoring their performance. Here is the link: <a href="https://www.google.com/hostednews/ap/article/ALeqM5ix7-MYYtK9WbKEwgeUxdamW-sOBAD99J1L185" target="_blank">Bill Gates: Better data mean better schools</a>
 <blockquote>"The way I see forward is to use measurement to drive quality," Gates said.</blockquote>
 Really? Most teachers seem to think we over-measure in this country, and that measurement leads to management-by-metric which leads to gaming the system. In other words the school is run so as to provide the best metrics at least cost regardless of the actual needs of the children.
 
@@ -13,4 +13,4 @@ They must keep a separate unofficial waiting list somewhere and only transfer pa
 
 This is OK when it’s me with a minor ailment but I don’t want this sort of culture in my children’s schools.
 
-ps Malcolm has talked about this too: <a href="http://www.accidental-light.com/?p=228" target="_blank">All in the game yo, all in the game</a>
+ps Malcolm has talked about this too: <a href="https://www.accidental-light.com/?p=228" target="_blank">All in the game yo, all in the game</a>

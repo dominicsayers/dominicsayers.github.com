@@ -3,7 +3,7 @@ layout: post
 title: Another good experience
 date: 2009-02-11 12:52:52.000000000 +00:00
 ---
-Following hard on the heels of my good experience <a href="http://blog.dominicsayers.com/2007/01/25/a-surprisingly-pleasant-user-experience/" target="_blank">cancelling my Sky subscription</a> (i.e. only 2 years after) comes another successful conversation with a "retention team", this time at Orange.
+Following hard on the heels of my good experience <a href="https://blog.dominicsayers.com/2007/01/25/a-surprisingly-pleasant-user-experience/" target="_blank">cancelling my Sky subscription</a> (i.e. only 2 years after) comes another successful conversation with a "retention team", this time at Orange.
 
 You don't hear much good about Orange, and certainly my user experience of their services has been pretty ordinary in the 10 years or more I have been a customer of theirs. But credit where it's due - I just got a Porting Authorisation Code (PAC) from them in exactly 10 minutes.
 

@@ -3,13 +3,13 @@ layout: post
 title: Shakib Al Hasan
 date: 2010-02-17 13:32:05.000000000 +00:00
 ---
-After my recent post about the <a href="http://blog.dominicsayers.com/2010/01/04/worlds-best-all-rounders/" target="_blank">World's Best All-Rounders</a> a reader asked me why I hadn't included <a href="http://www.cricinfo.com/ci/content/player/56143.html" target="_blank">Shakib Al Hasan</a> of Bangladesh in my list. The reason was simple: he had not qualified. At the time he lacked 2 wickets for the 50 wicket qualification, and his batting average was 29.79, meaning he just missed out on the batting average qualification too.
+After my recent post about the <a href="https://blog.dominicsayers.com/2010/01/04/worlds-best-all-rounders/" target="_blank">World's Best All-Rounders</a> a reader asked me why I hadn't included <a href="https://www.cricinfo.com/ci/content/player/56143.html" target="_blank">Shakib Al Hasan</a> of Bangladesh in my list. The reason was simple: he had not qualified. At the time he lacked 2 wickets for the 50 wicket qualification, and his batting average was 29.79, meaning he just missed out on the batting average qualification too.
 
-Since then he has played 2 more tests against India and is competing in a <a href="http://www.cricinfo.com/ci/engine/match/423786.html" target="_blank">third against New Zealand</a>. His bowling continues to impress and he has another 10 wickets to his name since I last wrote, meaning he now easily qualifies for his bowling both on aggregate and average. Not bad for a 22-year-old.
+Since then he has played 2 more tests against India and is competing in a <a href="https://www.cricinfo.com/ci/engine/match/423786.html" target="_blank">third against New Zealand</a>. His bowling continues to impress and he has another 10 wickets to his name since I last wrote, meaning he now easily qualifies for his bowling both on aggregate and average. Not bad for a 22-year-old.
 
-His batting, however, wasn't doing him any favours as an all-rounder with scores of 17, 17, 34 and 7 in the games against India. All this changed yesterday when he enjoyed a whirlwind partnership of 145 with <a href="http://www.cricinfo.com/ci/content/current/player/56025.html" target="_self">Mahmudullah</a> and was unlucky to be dismissed for 87, bringing his test average up to 30.24. As I write, then, he is one of the World's Best All-Rounders.
-<p style="text-align: center;"><img class="alignnone" src="http://static.cricinfo.com/db/PICTURES/CMS/104300/104303.1.jpg" alt="Shakib Al Hasan" /></p>
-He is joined as a debutant in the table by <a href="http://www.cricinfo.com/ci/content/player/20431.html" target="_blank">Graeme Swann</a>, who has also qualified since my last post:
+His batting, however, wasn't doing him any favours as an all-rounder with scores of 17, 17, 34 and 7 in the games against India. All this changed yesterday when he enjoyed a whirlwind partnership of 145 with <a href="https://www.cricinfo.com/ci/content/current/player/56025.html" target="_self">Mahmudullah</a> and was unlucky to be dismissed for 87, bringing his test average up to 30.24. As I write, then, he is one of the World's Best All-Rounders.
+<p style="text-align: center;"><img class="alignnone" src="https://static.cricinfo.com/db/PICTURES/CMS/104300/104303.1.jpg" alt="Shakib Al Hasan" /></p>
+He is joined as a debutant in the table by <a href="https://www.cricinfo.com/ci/content/player/20431.html" target="_blank">Graeme Swann</a>, who has also qualified since my last post:
 <table border="0" cellspacing="0" cellpadding="0" width="470"><colgroup><col span="1" width="178"></col> <col span="1" width="47"></col> <col span="1" width="37"></col> <col span="1" width="44"></col> <col span="1" width="31"></col> <col span="1" width="51"></col> <col span="1" width="25"></col> <col span="1" width="57"></col> </colgroup>
 <tbody>
 <tr>
@@ -266,4 +266,4 @@ He is joined as a debutant in the table by <a href="http://www.cricinfo.com/ci/c
 </table>
 (I've omitted the pre-war players this time)
 
-<a href="http://www.cricinfo.com/ci/content/player/38710.html" target="_blank">Dan Vettori</a> has slipped down a place. There are now four current players in the table. I don't know of anybody else who's near to qualifying except perhaps <a href="http://www.cricinfo.com/ci/content/player/10617.html" target="_blank">Stuart Broad</a>. Any suggestions?
+<a href="https://www.cricinfo.com/ci/content/player/38710.html" target="_blank">Dan Vettori</a> has slipped down a place. There are now four current players in the table. I don't know of anybody else who's near to qualifying except perhaps <a href="https://www.cricinfo.com/ci/content/player/10617.html" target="_blank">Stuart Broad</a>. Any suggestions?

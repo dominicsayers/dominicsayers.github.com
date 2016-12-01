@@ -5,7 +5,7 @@ date: 2007-09-07 12:02:39.000000000 +01:00
 ---
 If you have a last.fm account, one thing you can do is listen to tracks that it recommends for you based on your listening habits. Last time I tried this it gave me a farrago of lowest-common denominator stuff that meant nothing to me.
 
-Today I tried it again and I'm loving what it is piping into my ears. <a target="_blank" href="http://www.last.fm/listen/user/DominicSayers/recommended/100">This</a> is what it recommends for me. What has happened to change this into something useful? There are a number of possibilities:
+Today I tried it again and I'm loving what it is piping into my ears. <a target="_blank" href="https://www.last.fm/listen/user/DominicSayers/recommended/100">This</a> is what it recommends for me. What has happened to change this into something useful? There are a number of possibilities:
 
 <strong>1. last.fm has more information about me
 </strong>I've now got my favourite tracks in a playlist and I've been playing them a lot. That's a couple of hundred eclectic tunes that represent what I like hearing. last.fm learns from this.

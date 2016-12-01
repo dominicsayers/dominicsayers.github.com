@@ -47,7 +47,7 @@ Would appreciate an explanation.</td>
 I've just checked and the website noo.gs works fine. Our server has been up for
 66 days already. The causes could be different. If you still have the problem,
 please, provide us with the screen shot of the error.
-<a href="http://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows" target="_blank">http://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows</a>
+<a href="https://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows" target="_blank">https://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows</a>
 
 Let us know if you need any help.
 
@@ -108,7 +108,7 @@ accessing your website. We can check only your current connection to our
 server.
 You may  check the hosting of your website via the following link:
 
-<a href="http://host-tracker.com/" target="_blank">http://host-tracker.com/</a>
+<a href="https://host-tracker.com/" target="_blank">https://host-tracker.com/</a>
 
 Let us know if you need any help.
 
@@ -143,7 +143,7 @@ was breached.
 Sorry Marcus but you have so far come up with two possible explanations
 based on no evidence. Do I understand from this that the 24/7 network
 monitoring that is promised on your sales pages
-&lt;<a href="http://www.justhost.com/guarantees#ic&gt;" target="_blank">http://www.justhost.com/guarantees#ic&gt;</a> amounts to nothing that is
+&lt;<a href="https://www.justhost.com/guarantees#ic&gt;" target="_blank">https://www.justhost.com/guarantees#ic&gt;</a> amounts to nothing that is
 useful for diagnosing the root cause of my problem?
 
 Regards,
@@ -312,7 +312,7 @@ Here are traceroutes from Madrid and Washington DC during the outage
 <td valign="top" bgcolor="#f1f1fe">Dear Dominic Sayers,
 
 Please also show me your WAN IP address:
-<a href="http://mywanip.com/" target="_blank">http://mywanip.com/</a>
+<a href="https://mywanip.com/" target="_blank">https://mywanip.com/</a>
 It's necessary to check if your IP address wasn't blocked on the server.
 
 --
