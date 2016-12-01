@@ -2,9 +2,8 @@
 layout: post
 title: In which I tell you my password for this website
 date: 2012-08-21 16:22:19.000000000 +01:00
+tags: featured
 ---
-&nbsp;
-
 I exaggerate. I'm not really going to tell you my password but I am going to tell you roughly how I created it. You may find it useful when thinking about your own passwords.
 
 Over the years I got into the habit of using the same weakish password for every website I registered on. This was OK for a while then one of the sites I use got its password hashes published and within a few days they were cracked and my password was there for all to see.

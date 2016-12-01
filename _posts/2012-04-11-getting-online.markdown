@@ -2,6 +2,7 @@
 layout: post
 title: Getting online
 date: 2012-04-11 13:48:44.000000000 +01:00
+tags: featured
 ---
 <em>I've been asked a few times recently for general advice about getting a new business or project online. Here's the skinny.</em>
 
