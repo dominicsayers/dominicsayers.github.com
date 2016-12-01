@@ -7,4 +7,4 @@ permalink: /readme/
 dominicsayers.com
 =================
 
-A personal space
+A personal space for my stuff
