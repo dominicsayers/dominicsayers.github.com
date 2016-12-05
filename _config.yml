@@ -1,3 +1,5 @@
+host: 0.0.0.0
+
 # Build settings
 gems:
   - jemoji
@@ -7,7 +9,6 @@ gems:
 title: "Dominic Sayers"
 description: > # this means to ignore newlines until "email:"
    CTO
-
 email: dominic@sayers.cc
 #blog logo
 logo: "/assets/images/home.png"
@@ -22,7 +23,7 @@ paginate:	5
 permalink: :title/
 
 url: "https://blog.dominicsayers.com" # the base hostname & protocol for your site
-baseurl: ""
+# baseurl: "/"
 #used to display twitter cards
 twitter_handle: '@dominicsayers'
 
@@ -66,4 +67,4 @@ tag_feed_layout: tag_feed
 tag_feed_dir: tag
 tag_permalink_style: pretty
 tag_page_data:
-  sitemap: false
+  sitemap: true

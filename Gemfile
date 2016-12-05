@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # 'github-pages' includes 'jekyll' gem
-gem 'github-pages'
+gem 'github-pages', '105'
 gem 'bourbon'
 gem 'jemoji'
-gem 'jekyll-tagging'
+gem 'jekyll-tagging', '1.0.1'
