@@ -4,12 +4,15 @@ host: 0.0.0.0
 gems:
   - jemoji
   - jekyll-paginate
-  - jekyll/tagging # Github pages won't use this because it's not whitelisted
+
+collections:
+  tag_pages:
+    output: true
+    permalink: /tag/:name/
 
 # Site settings
 title: "Dominic Sayers"
-description: > # this means to ignore newlines until "email:"
-   CTO
+description: 'CTO'
 email: dominic@sayers.cc
 #blog logo
 logo: "/assets/images/home.png"
@@ -60,12 +63,3 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
-
-# Tagging
-tag_page_layout: tag_page
-tag_page_dir: tag
-tag_feed_layout: tag_feed
-tag_feed_dir: tag
-tag_permalink_style: pretty
-tag_page_data:
-  sitemap: true
