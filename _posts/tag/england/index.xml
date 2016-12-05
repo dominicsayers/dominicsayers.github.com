@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+ <title>Your Title - england</title>
+ <link href="https://example.com/tag/england/index.xml" rel="self"/>
+ <link href="https://example.com/tag/england.html"/>
+ <updated>2016-12-05T13:31:33+00:00</updated>
+ <id>https://example.com/tag/england.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Post-Strauss England</title>
+   <link href="https://example.com/post-strauss-england/"/>
+   <updated>2012-08-20T15:13:35+01:00</updated>
+   <id>https://example.com/post-strauss-england</id>
+   <content type="html">&lt;p&gt;Assuming Andrew Strauss resigns the captaincy after the current Test and chooses not to tour this winter, my team for the first Test in Ahmedabad in November would be as follows:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Alastair Cook*&lt;/li&gt;
+  &lt;li&gt;Joe Root&lt;/li&gt;
+  &lt;li&gt;Jonathan Trott&lt;/li&gt;
+  &lt;li&gt;Ian Bell&lt;/li&gt;
+  &lt;li&gt;James Taylor&lt;/li&gt;
+  &lt;li&gt;Jonny Bairstow&lt;/li&gt;
+  &lt;li&gt;Matt Prior†&lt;/li&gt;
+  &lt;li&gt;Stuart Broad&lt;/li&gt;
+  &lt;li&gt;Graeme Swann&lt;/li&gt;
+  &lt;li&gt;James Anderson&lt;/li&gt;
+  &lt;li&gt;Steven Finn&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And the rest of the first-class squad:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;James Tredwell&lt;/li&gt;
+  &lt;li&gt;Graham Onions&lt;/li&gt;
+  &lt;li&gt;Eoin Morgan&lt;/li&gt;
+  &lt;li&gt;Tim Bresnan&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Not 100% fit (mentally or physically) so not included: Ravi Bopara, Chris Tremlett&lt;/p&gt;
+
+&lt;p&gt;Unlucky: Monty Panesar, Chris Woakes, Samit Patel, Nick Compton&lt;/p&gt;
+
+&lt;p&gt;A bit boring and predictable for me, but I think that’s a testament to the good stuff coming from Andy Flower and Geoff Miller.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>World's Best All-Rounders - Dhaka & Wellington Tests</title>
+   <link href="https://example.com/worlds-best-all-rounders-2/"/>
+   <updated>2010-03-24T16:35:32+00:00</updated>
+   <id>https://example.com/worlds-best-all-rounders-2</id>
+   <content type="html">&lt;p&gt;Three members of my &lt;a href=&quot;https://blog.dominicsayers.com/2010/02/17/shakib-al-hasan/&quot; target=&quot;_blank&quot;&gt;World’s Best All-Rounders&lt;/a&gt; table have been in action since my last post. Here’s how the table stands today (all current players in &lt;strong&gt;bold&lt;/strong&gt;):&lt;/p&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;470&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width=&quot;178&quot; height=&quot;17&quot;&gt;Player&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;Matches&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;Runs&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;Bat Av&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;Wkts&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;Bowl Av&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;Ct&lt;/td&gt;
+&lt;td width=&quot;57&quot;&gt;X-factor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;GS Sobers (WI)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;93&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;8032&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;57.78&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;235&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;34.03&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;109&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;3370&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;&lt;strong&gt;JH Kallis (ICC/SA)&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;&lt;strong&gt;137&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;&lt;strong&gt;10843&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;&lt;strong&gt;54.76&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;&lt;strong&gt;261&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;&lt;strong&gt;31.55&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;&lt;strong&gt;155&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;strong&gt;3192&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;AW Greig (Eng)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;58&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;3599&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;40.43&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;141&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;32.20&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;87&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;1985&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;TL Goddard (SA)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;41&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;2516&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;34.46&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;123&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;26.22&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;48&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;1550&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;BM McMillan (SA)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;38&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;1968&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;39.36&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;75&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;33.82&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;49&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;1359&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;KR Miller (Aus)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;55&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;2958&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;36.97&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;170&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;22.97&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;38&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;1313&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;IT Botham (Eng)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;102&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;5200&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;33.54&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;383&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;28.40&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;120&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;1193&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;Mushtaq Mohammad (Pak)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;57&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;3643&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;39.17&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;79&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;29.22&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;42&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;1102&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;Asif Iqbal (Pak)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;58&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;3575&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;38.85&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;53&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;28.33&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;36&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;963&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;SM Pollock (SA)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;108&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;3781&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;32.31&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;421&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;23.11&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;72&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;947&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;ER Dexter (Eng)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;62&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;4502&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;47.89&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;66&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;34.93&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;29&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;840&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;ST Jayasuriya (SL)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;110&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;6973&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;40.07&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;98&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;34.34&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;78&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;761&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;Imran Khan (Pak)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;88&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;3807&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;37.69&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;362&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;22.81&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;28&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;633&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;GE Gomez (WI)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;29&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;1243&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;30.31&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;58&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;27.41&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;18&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;490&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;JDP Oram (NZ)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;33&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;1780&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;36.32&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;60&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;33.05&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;15&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;376&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;JR Reid (NZ)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;58&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;3428&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;33.28&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;85&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;33.35&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;43&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;374&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;&lt;strong&gt;Graeme Swann (Eng)&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;&lt;strong&gt;18&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;&lt;strong&gt;563&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;&lt;strong&gt;31.27&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;&lt;strong&gt;85&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;&lt;strong&gt;29.67&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;&lt;strong&gt;10&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;strong&gt;367&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;N Kapil Dev (India)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;131&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;5248&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;31.05&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;434&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;29.64&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;64&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;313&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;MH Mankad (India)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;44&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;2109&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;31.47&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;162&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;32.32&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;33&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;311&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;&lt;strong&gt;Shakib Al Hasan (Ban)&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;&lt;strong&gt;19&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;&lt;strong&gt;1127&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;&lt;strong&gt;33.14&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;&lt;strong&gt;67&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;&lt;strong&gt;31.82&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;&lt;strong&gt;8&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;strong&gt;266&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;A Flintoff (Eng/ICC)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;79&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;3845&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;31.77&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;226&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;32.78&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;52&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;263&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;CL Cairns (NZ)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;62&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;3320&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;33.53&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;218&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;29.40&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;14&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;206&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;IK Pathan (India)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;29&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;1105&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;31.57&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;100&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;32.26&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;8&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;119&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;&lt;strong&gt;DL Vettori (ICC/NZ)&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;&lt;strong&gt;99&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;&lt;strong&gt;3925&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;&lt;strong&gt;30.90&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;&lt;strong&gt;319&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;&lt;strong&gt;33.95&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;&lt;strong&gt;55&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;strong&gt;108&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.cricinfo.com/ci/content/player/20431.html&quot; target=&quot;_blank&quot;&gt;Graeme Swann&lt;/a&gt;’s X-factor has plummeted below 400 and he has slipped a couple of places in the table. &lt;a href=&quot;https://www.cricinfo.com/ci/content/player/56143.html&quot; target=&quot;_blank&quot;&gt;Shakib’s&lt;/a&gt; runs did better justice to his batting skills and he has leap-frogged Andrew Flintoff. The match shows how volatile the X-factor is - perhaps it’s a bit too highly leveraged.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Results from the Chittagong test match</title>
+   <link href="https://example.com/results-from-the-chittagong-test-match/"/>
+   <updated>2010-03-16T13:30:45+00:00</updated>
+   <id>https://example.com/results-from-the-chittagong-test-match</id>
+   <content type="html">&lt;p&gt;Two members of my &lt;a href=&quot;https://blog.dominicsayers.com/2010/02/17/shakib-al-hasan/&quot; target=&quot;_blank&quot;&gt;World’s Best All-Rounders&lt;/a&gt; table were in action in &lt;a href=&quot;https://www.cricinfo.com/bdeshveng2010/engine/current/match/426423.html&quot; target=&quot;_blank&quot;&gt;the test match at Chittagong&lt;/a&gt; that finished this morning. Here’s how the table stands after the match:&lt;/p&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;470&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width=&quot;178&quot; height=&quot;17&quot;&gt;Player&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;Matches&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;Runs&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;Bat Av&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;Wkts&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;Bowl Av&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;Ct&lt;/td&gt;
+&lt;td width=&quot;57&quot;&gt;X-factor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;GS Sobers (WI)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;93&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;8032&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;57.78&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;235&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;34.03&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;109&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;3370&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;JH Kallis (ICC/SA)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;137&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;10843&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;54.76&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;261&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;31.55&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;155&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;3192&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;AW Greig (Eng)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;58&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;3599&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;40.43&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;141&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;32.20&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;87&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;1985&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;TL Goddard (SA)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;41&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;2516&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;34.46&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;123&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;26.22&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;48&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;1550&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;BM McMillan (SA)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;38&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;1968&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;39.36&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;75&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;33.82&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;49&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;1359&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;KR Miller (Aus)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;55&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;2958&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;36.97&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;170&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;22.97&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;38&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;1313&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;IT Botham (Eng)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;102&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;5200&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;33.54&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;383&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;28.40&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;120&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;1193&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;Mushtaq Mohammad (Pak)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;57&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;3643&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;39.17&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;79&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;29.22&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;42&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;1102&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;Asif Iqbal (Pak)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;58&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;3575&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;38.85&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;53&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;28.33&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;36&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;963&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;SM Pollock (SA)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;108&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;3781&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;32.31&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;421&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;23.11&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;72&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;947&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;ER Dexter (Eng)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;62&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;4502&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;47.89&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;66&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;34.93&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;29&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;840&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;ST Jayasuriya (SL)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;110&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;6973&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;40.07&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;98&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;34.34&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;78&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;761&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;Imran Khan (Pak)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;88&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;3807&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;37.69&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;362&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;22.81&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;28&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;633&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;GE Gomez (WI)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;29&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;1243&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;30.31&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;58&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;27.41&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;18&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;490&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;&lt;strong&gt;Graeme Swann (Eng)&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;&lt;strong&gt;17&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;&lt;strong&gt;557&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;&lt;strong&gt;32.76&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;&lt;strong&gt;79&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;&lt;strong&gt;29.55&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;&lt;strong&gt;10&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;strong&gt;483&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;JDP Oram (NZ)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;33&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;1780&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;36.32&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;60&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;33.05&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;15&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;376&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;JR Reid (NZ)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;58&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;3428&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;33.28&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;85&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;33.35&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;43&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;374&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;N Kapil Dev (India)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;131&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;5248&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;31.05&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;434&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;29.64&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;64&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;313&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;MH Mankad (India)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;44&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;2109&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;31.47&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;162&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;32.32&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;33&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;311&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;A Flintoff (Eng/ICC)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;79&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;3845&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;31.77&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;226&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;32.78&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;52&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;263&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;&lt;strong&gt;Shakib Al Hasan (Ban)&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;&lt;strong&gt;18&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;&lt;strong&gt;982&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;&lt;strong&gt;30.68&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;&lt;strong&gt;63&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;&lt;strong&gt;31.38&lt;/strong&gt;&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;&lt;strong&gt;8&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;&lt;strong&gt;191&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;CL Cairns (NZ)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;62&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;3320&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;33.53&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;218&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;29.40&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;14&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;206&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;IK Pathan (India)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;29&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;1105&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;31.57&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;100&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;32.26&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;8&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;119&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td height=&quot;17&quot;&gt;DL Vettori (ICC/NZ)&lt;/td&gt;
+&lt;td width=&quot;47&quot;&gt;98&lt;/td&gt;
+&lt;td width=&quot;37&quot;&gt;3789&lt;/td&gt;
+&lt;td width=&quot;44&quot;&gt;30.55&lt;/td&gt;
+&lt;td width=&quot;31&quot;&gt;316&lt;/td&gt;
+&lt;td width=&quot;51&quot;&gt;33.56&lt;/td&gt;
+&lt;td width=&quot;25&quot;&gt;55&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;112&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Both players enhanced their reputation as bowlers, particularly &lt;a href=&quot;https://www.cricinfo.com/bdeshveng2010/content/current/player/20431.html&quot; target=&quot;_blank&quot;&gt;Swann&lt;/a&gt; with 10 wickets in the match. Neither did much for their all-rounder credentials though. &lt;a href=&quot;https://www.cricinfo.com/bdeshveng2010/content/current/player/56143.html&quot; target=&quot;_blank&quot;&gt;Shakib’s&lt;/a&gt; 5 runs in the match in particular being a poor reflection of his batting skills.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Graeme Swann</title>
+   <link href="https://example.com/graeme-swann/"/>
+   <updated>2010-02-19T16:07:10+00:00</updated>
+   <id>https://example.com/graeme-swann</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://search.cricinfo.com/ci/content/player/56143.html&quot; target=&quot;_blank&quot;&gt;Shakib Al Hasan&lt;/a&gt;’s century in the &lt;a href=&quot;https://www.cricinfo.com/ci/engine/match/423786.html&quot; target=&quot;_blank&quot;&gt;recent test match&lt;/a&gt; against New Zealand means that &lt;a href=&quot;https://www.cricinfo.com/ci/content/player/20431.html&quot; target=&quot;_blank&quot;&gt;Graeme Swann&lt;/a&gt; is now the only member of &lt;a href=&quot;https://blog.dominicsayers.com/2010/01/04/worlds-best-all-rounders/&quot; target=&quot;_blank&quot;&gt;my all-rounders table&lt;/a&gt; without a test match hundred to his name.&lt;/p&gt;
+
+&lt;p&gt;This brings into question whether Swann’s presence in the table is due to his being a genuine world-class all-rounder or, on the other hand, a statistical anomaly.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;https://static.cricinfo.com/db/PICTURES/CMS/104100/104199.1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;In my first post I talked about what makes an all-rounder. The underlying principle is that the player should merit selection as either a batsman or a bowler. If he is unable to do one or the other for a given match, is he still worth picking?&lt;/p&gt;
+
+&lt;p&gt;On this basis I think calling Swann an all-rounder is a bit of a stretch. If he couldn’t bowl he wouldn’t play. His usual batting position is 9, which he may feel is unfair but reflects the consistent opinion of a number of captains and coaches since 2008.&lt;/p&gt;
+
+&lt;p&gt;So why is he in the table? My batting criterion is an average over 30. If I raised this to (say) 35 I would be excluding &lt;a href=&quot;https://search.cricinfo.com/ci/content/player/9163.html&quot; target=&quot;_blank&quot;&gt;Ian Botham&lt;/a&gt;, &lt;a href=&quot;https://search.cricinfo.com/ci/content/player/46774.html&quot; target=&quot;_blank&quot;&gt;Shaun Pollock&lt;/a&gt;, &lt;a href=&quot;https://search.cricinfo.com/ci/content/player/46774.html&quot; target=&quot;_blank&quot;&gt;Andrew Flintoff&lt;/a&gt;, &lt;a href=&quot;https://search.cricinfo.com/ci/content/player/30028.html&quot; target=&quot;_blank&quot;&gt;Kapil Dev&lt;/a&gt; and &lt;a href=&quot;https://search.cricinfo.com/ci/content/player/36597.html&quot; target=&quot;_blank&quot;&gt;Chris Cairns&lt;/a&gt;. All world class all-rounders according to conventional wisdom.&lt;/p&gt;
+
+&lt;p&gt;His average reflects the number of not outs in his 21 test innings. Here is how his average has changed since the start of his career:&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_489” align=”aligncenter” width=”500” caption=”Graeme Swann's batting average”]&lt;a href=&quot;https://res.cloudinary.com/dominicsayers/image/upload/v1399584840/swann_batting_average_eguxi1.png&quot;&gt;&lt;img class=&quot;size-full wp-image-489&quot; title=&quot;Graeme Swann's batting average&quot; src=&quot;https://res.cloudinary.com/dominicsayers/image/upload/v1399584840/swann_batting_average_eguxi1.png&quot; alt=&quot;Graeme Swann's batting average&quot; width=&quot;500&quot; height=&quot;307&quot; /&gt;&lt;/a&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;I think it will settle in the low- to mid-thirties for the remainder of his career. The peak of 45 was a result of two significant not-out innings in 2009 (&lt;a href=&quot;https://stats.cricinfo.com/ci/engine/match/380712.html&quot; target=&quot;_blank&quot;&gt;63* against West Indies&lt;/a&gt; and &lt;a href=&quot;https://stats.cricinfo.com/ci/engine/match/345970.html&quot; target=&quot;_blank&quot;&gt;47* against Australia&lt;/a&gt;) and I don’t think he’ll approach those heights again. But if he keeps above 30 he’ll stay in my table.&lt;/p&gt;
+
+&lt;p&gt;So are the criteria wrong? How can I exclude a player like Swann when his figures bear comparison with the best of all time? All I can think of is  excluding players who bat at 9, 10 or 11 in the batting order. This seems even more arbitrary than my existing criteria and I don’t like it much.&lt;/p&gt;
+
+&lt;p&gt;Any ideas?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Monty Panesar, Hove to</title>
+   <link href="https://example.com/monty-panesar-hove-to/"/>
+   <updated>2009-11-22T13:44:12+00:00</updated>
+   <id>https://example.com/monty-panesar-hove-to</id>
+   <content type="html">&lt;p&gt;So let’s say what we know about Monty Panesar so far:&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;Anybody who's seen him bowl can see that he's a marvellously natural bowler. He has a gift for controlling his length and enough of an innate variation in pace to deceive world-class batsmen. He doesn't turn it much, but half a bat's width is all you need.&lt;/li&gt;
+	&lt;li&gt;He has taken &lt;a href=&quot;https://www.cricinfo.com/ci/content/player/18655.html&quot; target=&quot;_blank&quot;&gt;126 wickets in 39 Test Matches&lt;/a&gt;. That's  very good. He's a very good bowler. &lt;a href=&quot;https://www.cricinfo.com/ci/content/player/13368.html&quot; target=&quot;_blank&quot;&gt;Ashley Giles&lt;/a&gt;, until then England's main spinner, retired at the young age of 33 within 9 months of Panesar's debut. The writing was clearly on the wall.&lt;/li&gt;
+	&lt;li&gt;In 2008 England appointed Mushtaq Ahmed as spin bowling coach, to &quot;&lt;a href=&quot;https://www.timesonline.co.uk/tol/sport/cricket/article5001426.ece&quot; target=&quot;_blank&quot;&gt;mentor our leading spin bowlers&lt;/a&gt;&quot;.&lt;/li&gt;
+	&lt;li&gt;Since then, Panesar's career has gone into a steep decline. He lost his England place to Graeme Swann and at the end of the 2009 season Northamptonshire &lt;a href=&quot;https://news.bbc.co.uk/sport1/hi/cricket/counties/sussex/8344403.stm&quot; target=&quot;_blank&quot;&gt;admitted&lt;/a&gt; he was a luxury they could no longer afford having taken only 18 first class wickets in the season.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;So what’s gone wrong with this gifted cricketer? I’m afraid the clue may be No.3 above.&lt;/p&gt;
+
+&lt;p&gt;Panesar’s limiting factor is his lack of guile. His naivety reveals itself in his self-conscious and clumsy fielding and batting. Only with a ball in his hand does he become a creature of grace and beauty. He doesn’t have the imagination to plot the downfall of a batsman like a chess game, he lets the batsman do this himself. And most batsmen will ultimately think themselves out if they can’t score runs and they don’t know why. So his limiting factor is also one of his unique strengths.&lt;/p&gt;
+
+&lt;p&gt;Panesar’s lack of ego is a contributing element to this. If he gets hit for a boundary it is not revenge that is uppermost in his mind but a desire to correct the minor fault that caused the lapse. To his credit, his response is not to bowl a flat defensive ball nor a cunning trick delivery but to bowl the same ball again with his natural minor variations. This is what gets good batsmen out.&lt;/p&gt;
+
+&lt;p&gt;What he needs is help in understanding this. Help to retain the natural gifts over time and help to see why they are his main weapons.&lt;/p&gt;
+
+&lt;p&gt;What do we give him? Mushtaq Ahmed. The other sort of spinner.&lt;/p&gt;
+
+&lt;p&gt;Mushy is cunning. He has a wide variety of deliveries, each more perfidious than the last. He is clever and aggressive. He is so not what Monty needs. And now he will have his advice not just with England but with Sussex, Panesar’s new county and Mushtaq’s old one. &lt;a href=&quot;https://news.bbc.co.uk/sport1/hi/cricket/counties/sussex/8344403.stm&quot; target=&quot;_blank&quot;&gt;Here’s&lt;/a&gt; the Sussex manager Mark Robinson:&lt;/p&gt;
+&lt;blockquote&gt;&lt;em&gt;We have got Mushtaq working with us a little bit, who is anything but a technical coach, to preach the love of the game and use of the imagination&lt;/em&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;span style=&quot;background-color:#ffffff;&quot;&gt;And Monty &lt;a href=&quot;https://www.testmatchextra.com/Blogs.aspx?BlogView=Post&amp;amp;PostID=195a7d04-0096-49ea-99c5-4c7b53bf15dc&amp;amp;BloggerID=e7006e8f-7d67-46a1-9c0f-a1c0f94edf21&quot; target=&quot;_blank&quot;&gt;loves him&lt;/a&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;span style=&quot;background-color:#ffffff;&quot;&gt;&lt;em&gt;I spoke to Mushy who still thinks of Sussex as his county and he was keen to have me at Hove. He said that there was a real family feel to the club and Mike Yardy, who I have toured with, was also very persuasive.&lt;/em&gt;&lt;/span&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;span style=&quot;background-color:#ffffff;&quot;&gt;There’s your answer. Monty needs technical help in retaining and exploiting his natural gifts. The last thing he needs is somebody to give him an imagination. Mushy’s input will be entirely towards this destructive goal and not at all with the technical thing.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;background-color:#ffffff;&quot;&gt;I see no way back for Monty at this point.&lt;/span&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Schism</title>
+   <link href="https://example.com/schism/"/>
+   <updated>2009-02-10T18:29:24+00:00</updated>
+   <id>https://example.com/schism</id>
+   <content type="html">&lt;p&gt;I haven’t missed an England tour to the Caribbean since 1990. I won’t be able to make it this time, which irks me, but I’ve had two children since the last tour. And the global financial system has virtually collapsed which makes paying my mortgage more of a priority than jaunts to balmy islands.&lt;/p&gt;
+
+&lt;p&gt;So I won’t be in a position to tell you what ails the England team at the moment. I’d like to be able to report back from their training sessions and tell you exactly what Kevin Pietersen and Andrew Flintoff’s body language tells you about their rival factions within the team. Sorry.&lt;/p&gt;
+
+&lt;p&gt;I was there when &lt;a href=&quot;https://www.cricinfo.com/db/ARCHIVE/1993-94/ENG_IN_WI/ENG_WI_T3_25-30MAR1994.html&quot; target=&quot;_blank&quot;&gt;Curtly Ambrose bowled England out for 46&lt;/a&gt;. In the next match Alec Stewart scored a century in both innings and England won by 208 runs. I hope that’s some comfort.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

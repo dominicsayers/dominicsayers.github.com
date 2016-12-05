@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+ <title>Your Title - siteground</title>
+ <link href="https://example.com/tag/siteground/index.xml" rel="self"/>
+ <link href="https://example.com/tag/siteground.html"/>
+ <updated>2016-12-05T13:31:33+00:00</updated>
+ <id>https://example.com/tag/siteground.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Moving this blog to a new host was a bit of a kerfuffle</title>
+   <link href="https://example.com/moving-this-blog-to-a-new-host-was-a-bit-of-a-kerfuffle/"/>
+   <updated>2010-03-09T10:42:43+00:00</updated>
+   <id>https://example.com/moving-this-blog-to-a-new-host-was-a-bit-of-a-kerfuffle</id>
+   <content type="html">&lt;p&gt;Sorry for the outage since Sunday. I moved the contents of this blog away from wordpress.com because I didn’t want to pay for another year’s hosting there when I have a perfectly good host elsewhere.&lt;/p&gt;
+
+&lt;p&gt;The move of the blog contents took 5 minutes.&lt;/p&gt;
+
+&lt;p&gt;Releasing the sub-domain blog.dominicsayers.com from the clutches of wordpress.com and getting SiteGround to set it up took 48 hours.&lt;/p&gt;
+
+&lt;p&gt;Lessons learned:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you’re thinking of choosing a new hosting provider, try to get a look at the hosting control panel first. I’ve now had three faults with SiteGround that were simply because their tools don’t work.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I chose to keep my Name Server management away from SiteGround because their tools (a) didn’t work and (b) didn’t let me view or edit my DNS records explicitly. Don’t nanny me if I don’t want to be nannied. Because my name servers are not under their control, this broke some of their other tools. How about testing this stuff before releasing it, people?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;SiteGround tech support are helpful and responsive.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Other things I’ve noticed: some of the Wordpress plug-in writers have stopped maintaining their plug-ins. Is Wordpress a dying platform? Is blogging a dying art?&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

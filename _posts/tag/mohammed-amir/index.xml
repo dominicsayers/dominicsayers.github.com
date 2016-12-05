@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+ <title>Your Title - mohammed-amir</title>
+ <link href="https://example.com/tag/mohammed-amir/index.xml" rel="self"/>
+ <link href="https://example.com/tag/mohammed-amir.html"/>
+ <updated>2016-12-05T13:31:33+00:00</updated>
+ <id>https://example.com/tag/mohammed-amir.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>5 reasons why you shouldn't watch international cricket</title>
+   <link href="https://example.com/5-reasons-why-you-shouldnt-watch-international-cricket/"/>
+   <updated>2010-08-31T11:09:53+01:00</updated>
+   <id>https://example.com/5-reasons-why-you-shouldnt-watch-international-cricket</id>
+   <content type="html">&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tickets are expensive&lt;/strong&gt;. If you want to watch a pre-determined outcome try professional wrestling, it’s a lot better value.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Spot fixing will lead to match fixing&lt;/strong&gt;. Once you’ve got the players to accept illegitimate money for anything then you’ve got them. Their moral compass is compromised already and you can always blackmail them if they refuse.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;The governing bodies are incapable of restoring order&lt;/strong&gt;. They’ve proved this time and time again. When it comes to raising money from television, or from you and me, they are slick professionals. When it comes to acting in the interests of &lt;em&gt;sport&lt;/em&gt; they are clueless.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;The governing bodies have no interest in restoring order&lt;/strong&gt;. Cricket is a small and incestuous world. The governing bodies are run by people with commercial interests in particular outcomes. This is inherently unhealthy but it has been institutionalized so nothing is done about it. No player or paying customer has any say in who governs the sport they love.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;The only recourse we have is financial&lt;/strong&gt;. Throwing eggs at players won’t achieve very much. A drop in income for the ICC would achieve a great deal. If people stop paying to watch cricket because they are disgusted at what they are watching then something will be done. The governing bodies will act to protect their revenue stream.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This is all we can do. It’s a dangerous policy; once people turn off from cricket it will be hard work to restore interest. But the paying customer has no other lever to pull except withdrawing his custom.&lt;/p&gt;
+
+&lt;p&gt;I don’t have a Sky Sports subscription but if I did I wouldn’t be renewing it until I knew what I was paying for. I certainly won’t be buying tickets for international cricket matches until the game is in a better state.&lt;/p&gt;
+
+&lt;p&gt;Next: what can be achieved by a cricket boycott?&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

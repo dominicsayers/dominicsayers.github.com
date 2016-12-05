@@ -4,7 +4,7 @@ host: 0.0.0.0
 gems:
   - jemoji
   - jekyll-paginate
-  - jekyll/tagging
+  - jekyll/tagging # Github pages won't use this because it's not whitelisted
 
 # Site settings
 title: "Dominic Sayers"

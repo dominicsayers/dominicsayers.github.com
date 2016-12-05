@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+ <title>Your Title - justhost</title>
+ <link href="https://example.com/tag/justhost/index.xml" rel="self"/>
+ <link href="https://example.com/tag/justhost.html"/>
+ <updated>2016-12-05T13:31:33+00:00</updated>
+ <id>https://example.com/tag/justhost.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Lobster Hatstand</title>
+   <link href="https://example.com/lobster-hatstand/"/>
+   <updated>2011-03-23T14:21:29+00:00</updated>
+   <id>https://example.com/lobster-hatstand</id>
+   <content type="html">&lt;p&gt;I’ve had a few minor outages of this blog and other sites hosted by JustHost. I’m not particularly worried so long as they get to the bottom of it and stop it happening again.&lt;/p&gt;
+
+&lt;p&gt;My uptime over the last 12 months has been 99.97%, which I’m perfectly happy with.&lt;/p&gt;
+
+&lt;p&gt;But I’m a bit bemused by the attitude of their support people, who seem to be satisfied that the server is up when they look at it. No attempt to check if it has an internet connection, no intention to do root cause analysis, not even an admission that there is a problem.&lt;/p&gt;
+
+&lt;p&gt;I reproduce here my entire conversation with them over the last few days: there are some masterpieces of surreal logic. I sort of suspect they are all native English speakers who are trying to wind me up deliberately. If so, they succeeded.&lt;/p&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#ffffff&quot;&gt;&lt;strong&gt;Received&lt;/strong&gt; on &lt;strong&gt;Mar/21/2011 10:29:11AM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#ffffff&quot;&gt;Domain: noo.gs
+
+Pingdom and Altertra are reporting that my websites on cx52.justhost.com are
+unavailable.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#ffffff&quot;&gt;&lt;strong&gt;Received&lt;/strong&gt; on &lt;strong&gt;Mar/21/2011 10:32:13AM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#ffffff&quot;&gt;OK, they're back.
+
+Would appreciate an explanation.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#f1f1fe&quot;&gt;&lt;strong&gt;Sent&lt;/strong&gt; to &lt;a title=&quot;Dominic Sayers &amp;lt;dominic@sayers.cc&amp;gt;&quot; href=&quot;mailto:Dominic Sayers &amp;lt;dominic@sayers.cc&amp;gt;&quot;&gt;Dominic Sayers&lt;/a&gt; on &lt;strong&gt;Mar/21/2011 12:33:07PM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#f1f1fe&quot;&gt;Hi Dominic,
+
+I've just checked and the website noo.gs works fine. Our server has been up for
+66 days already. The causes could be different. If you still have the problem,
+please, provide us with the screen shot of the error.
+&lt;a href=&quot;https://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows&quot; target=&quot;_blank&quot;&gt;https://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows&lt;/a&gt;
+
+Let us know if you need any help.
+
+--
+Kind regards,
+Marcus Gervaise
+Just Host&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#ffffff&quot;&gt;&lt;strong&gt;Received&lt;/strong&gt; on &lt;strong&gt;Mar/21/2011 12:57:58PM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#ffffff&quot;&gt;Hi Marcus,
+
+As I said in my update several hours ago, I know the service is working
+again now.
+
+Two separate monitoring services (Pingdom and Alertra) notified me of
+the interruption from monitoring points worldwide. Attached is the
+detailed Pingdom log for the error.
+
+I'm looking for two things from you:
+
+(1) An acknowledgement of the service interruption.
+(2) An indication of your intention to do root cause analysis and inform
+me of the results
+
+I'm aware of your terms of service, but I'd like you to take this
+seriously. Your uptime figure is not a proof that connectivity has been
+continuously maintained.
+
+What does &quot;The causes could be different&quot; mean, please? The causes of
+what? Different from what?
+
+Regards,
+
+Dominic Sayers&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#f1f1fe&quot;&gt;&lt;strong&gt;Sent&lt;/strong&gt; to &lt;a title=&quot;Dominic Sayers &amp;lt;dominic@sayers.cc&amp;gt;&quot; href=&quot;mailto:Dominic Sayers &amp;lt;dominic@sayers.cc&amp;gt;&quot;&gt;Dominic Sayers&lt;/a&gt; on &lt;strong&gt;Mar/21/2011 2:01:56PM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#f1f1fe&quot;&gt;Hi Dominic,
+
+There was no interruption on the server. One of the possible causes could be
+blocking of your WAN IP, because of to many parallel connections. I can't tell
+you for sure what causes the problem, because I don't see any error and you
+don't too, because as far as I understand you don't have any problem with the
+accessing your website. We can check only your current connection to our
+server.
+You may  check the hosting of your website via the following link:
+
+&lt;a href=&quot;https://host-tracker.com/&quot; target=&quot;_blank&quot;&gt;https://host-tracker.com/&lt;/a&gt;
+
+Let us know if you need any help.
+
+--
+Kind regards,
+Marcus Gervaise
+Just Host&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#ffffff&quot;&gt;&lt;strong&gt;Received&lt;/strong&gt; on &lt;strong&gt;Mar/21/2011 5:19:40PM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#ffffff&quot;&gt;Hello Marcus,
+
+&quot;To [sic] many parallel connections&quot; - what is the limit on parallel
+connections? Could you also point me to the clause in your Ts &amp;amp; Cs that
+limits the parallel connections I am allowed? Which of your Cpanel
+monitoring tools allows me to track the peaks in parallel connections?
+
+By the way, I am not unhappy with your service in general, just with
+your response to this incident. You do not seem to be taking seriously
+the demonstrable failure in the service I pay for.
+
+Looking at the total traffic across all my sites, this was another very
+low volume day. I think it unlikely that any parallel connections limit
+was breached.
+
+Sorry Marcus but you have so far come up with two possible explanations
+based on no evidence. Do I understand from this that the 24/7 network
+monitoring that is promised on your sales pages
+&amp;lt;&lt;a href=&quot;https://www.justhost.com/guarantees#ic&amp;gt;&quot; target=&quot;_blank&quot;&gt;https://www.justhost.com/guarantees#ic&amp;gt;&lt;/a&gt; amounts to nothing that is
+useful for diagnosing the root cause of my problem?
+
+Regards,
+
+Dominic Sayers&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#f1f1fe&quot;&gt;&lt;strong&gt;Sent&lt;/strong&gt; to &lt;a title=&quot;Dominic Sayers &amp;lt;dominic@sayers.cc&amp;gt;&quot; href=&quot;mailto:Dominic Sayers &amp;lt;dominic@sayers.cc&amp;gt;&quot;&gt;Dominic Sayers&lt;/a&gt; on &lt;strong&gt;Mar/21/2011 7:02:59PM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#f1f1fe&quot;&gt;Dear  Dominic,
+
+Please take my apologies but, the maximum allowed quota of the connection to
+the server is 50. We use a couple of monitoring systems that use this limit as
+rule and if it is overloaded they just send warning messages. That action
+allows us to discover DDoS attacks. As you probably understand it would be too
+hard to block those IPs manually so we use our custom scripts and scripts that
+cPanel offers by default. Some of that IPs are blocked temporary. ( from 1 to
+30 min)
+Each of those scripts monitor its own part of our system moreover they
+contacting each other in order to block the problematic part in the system and
+in the end they make the entire firewall system.
+As for this incident: I can confirm that cx52 was not down. Current uptime of
+your server is: 18:00:15 up 66 days, 11:56,  1 user,  load average: 2.76, 2.00,
+1.94
+
+Let me know if you have more questions.
+- - - - - - -
+Kind regards,
+Yates Stebljanko
+Just Host&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#ffffff&quot;&gt;&lt;strong&gt;Received&lt;/strong&gt; on &lt;strong&gt;Mar/21/2011 7:06:35PM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#ffffff&quot;&gt;Thanks for the quick reply.
+
+If the cause of the outage was not (1) connection quota or (2) server
+downtime then what do you think it was?
+
+Will it happen again?
+
+Regards,
+
+Dominic&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#f1f1fe&quot;&gt;&lt;strong&gt;Sent&lt;/strong&gt; to &lt;a title=&quot;Dominic Sayers &amp;lt;dominic@sayers.cc&amp;gt;&quot; href=&quot;mailto:Dominic Sayers &amp;lt;dominic@sayers.cc&amp;gt;&quot;&gt;Dominic Sayers&lt;/a&gt; on &lt;strong&gt;Mar/21/2011 8:11:10PM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#f1f1fe&quot;&gt;Dear  Dominic,
+
+Unfortunately I can't say what the real problem was.
+I hope this never happen again.
+Sorry for caused inconveniences.
+Thank you
+- - - - - - -
+Kind regards,
+Yates Stebljanko&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#ffffff&quot;&gt;&lt;strong&gt;Received&lt;/strong&gt; on &lt;strong&gt;Mar/22/2011 5:27:26AM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#ffffff&quot;&gt;I hoped so too. Unfortunately the sites were unavailable again this
+morning from 04:33 to 05:44. Attached is the log from my monitoring
+service Pingdom.
+
+Can you say what the reason for this extended outage was?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#f1f1fe&quot;&gt;&lt;strong&gt;Sent&lt;/strong&gt; to &lt;a title=&quot;Dominic Sayers &amp;lt;dominic@sayers.cc&amp;gt;&quot; href=&quot;mailto:Dominic Sayers &amp;lt;dominic@sayers.cc&amp;gt;&quot;&gt;Dominic Sayers&lt;/a&gt; on &lt;strong&gt;Mar/22/2011 6:06:43AM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#f1f1fe&quot;&gt;HI Dominic,
+
+Sorry, but we were forced to restart our server that time
+(as it was a necessary kernel update there)
+thank you for the understanding.
+Please let me know if you need more help.
+--
+Kind regards,
+Max Pinner
+
+Just Host&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#ffffff&quot;&gt;&lt;strong&gt;Received&lt;/strong&gt; on &lt;strong&gt;Mar/22/2011 7:38:33AM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#ffffff&quot;&gt;Why was it down for over an hour?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#f1f1fe&quot;&gt;&lt;strong&gt;Sent&lt;/strong&gt; to &lt;a title=&quot;Dominic Sayers &amp;lt;dominic@sayers.cc&amp;gt;&quot; href=&quot;mailto:Dominic Sayers &amp;lt;dominic@sayers.cc&amp;gt;&quot;&gt;Dominic Sayers&lt;/a&gt; on &lt;strong&gt;Mar/22/2011 8:16:14AM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#f1f1fe&quot;&gt;HI Dominic,
+
+It was not for an hour , it was just for 20-30 min from our end.
+It would be better to provide us with the traceroute result from your end.
+traceroute noo.gs
+It would be helpful to investigate this issue for that moment.
+As it might be the connect brake down from your end also.
+--
+Kind regards,
+Max Pinner
+
+Just Host&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#ffffff&quot;&gt;&lt;strong&gt;Received&lt;/strong&gt; on &lt;strong&gt;Mar/22/2011 8:25:28AM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#ffffff&quot;&gt;Sorry, I don't understand your English.
+
+I provided you with a log of monitoring from many different cities that
+shows the web sites were unavailable for 1 hour 11 minutes. I do not pay
+just for the server to be up, I pay for it to be on the internet.
+
+Here are traceroutes from Madrid and Washington DC during the outage
+(03/22/2011 04:34:50AM)
+
+[traceroutes omitted for brevity (!)]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#f1f1fe&quot;&gt;&lt;strong&gt;Sent&lt;/strong&gt; to &lt;a title=&quot;Dominic Sayers &amp;lt;dominic@sayers.cc&amp;gt;&quot; href=&quot;mailto:Dominic Sayers &amp;lt;dominic@sayers.cc&amp;gt;&quot;&gt;Dominic Sayers&lt;/a&gt; on &lt;strong&gt;Mar/22/2011 10:32:43AM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#f1f1fe&quot;&gt;Dear Dominic Sayers,
+
+Please also show me your WAN IP address:
+&lt;a href=&quot;https://mywanip.com/&quot; target=&quot;_blank&quot;&gt;https://mywanip.com/&lt;/a&gt;
+It's necessary to check if your IP address wasn't blocked on the server.
+
+--
+Kind regards,
+Vadim Dodds
+Just Host&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#ffffff&quot;&gt;&lt;strong&gt;Received&lt;/strong&gt; on &lt;strong&gt;Mar/22/2011 10:37:27AM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#ffffff&quot;&gt;In my last two messages I explained that the service was unavailable
+from multiple locations. I provided 2 kinds of evidence that this was
+the case.
+
+Why would the IP address from another location help?
+
+It's 217.144.158.42 here but that's irrelevant: the service is available
+to everyone now, including here.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#f1f1fe&quot;&gt;&lt;strong&gt;Sent&lt;/strong&gt; to &lt;a title=&quot;Dominic Sayers &amp;lt;dominic@sayers.cc&amp;gt;&quot; href=&quot;mailto:Dominic Sayers &amp;lt;dominic@sayers.cc&amp;gt;&quot;&gt;Dominic Sayers&lt;/a&gt; on &lt;strong&gt;Mar/22/2011 12:04:44PM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#f1f1fe&quot;&gt;Dear Dominic Sayers,
+
+1) I have added your IP to white list of our server - please check your access
+to site now and inform me about results.
+
+2) FSCK process was completed and now your site is working well. We apologize
+for the inconveniences caused to you.
+
+--
+Kind regards,
+Vadim Dodds
+Just Host&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#ffffff&quot;&gt;&lt;strong&gt;Received&lt;/strong&gt; on &lt;strong&gt;Mar/22/2011 12:29:35PM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#ffffff&quot;&gt;This IP address was already on the whitelist.
+
+What was the cause of the 1 hour outage this morning?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#f1f1fe&quot;&gt;&lt;strong&gt;Sent&lt;/strong&gt; to &lt;a title=&quot;Dominic Sayers &amp;lt;dominic@sayers.cc&amp;gt;&quot; href=&quot;mailto:Dominic Sayers &amp;lt;dominic@sayers.cc&amp;gt;&quot;&gt;Dominic Sayers&lt;/a&gt; on &lt;strong&gt;Mar/22/2011 9:22:47PM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#f1f1fe&quot;&gt;Hi Dominic
+
+Thank you for your email.
+
+I am sorry to hear of the recent experience you have had with Just Host, I can
+assure you was an isolated event and we pride ourselves on exceptional uptime.
+
+
+Just Host is committed to providing a secure and reliable hosting environment.
+Customer websites are hosted on high performance quad processor servers, and
+our data center is equipped with a UPS power back-up generator. We perform 24/7
+network monitoring, so if an issue does arise, we can address it immediately.
+
+Thank you in advance for your patience and understanding and apologies for any
+inconvenience caused.
+
+Kind regards,
+Aiden
+
+--
+Aiden Pilcher&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#ffffff&quot;&gt;&lt;strong&gt;Received&lt;/strong&gt; on &lt;strong&gt;Mar/23/2011 6:29:09AM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#ffffff&quot;&gt;Hi Aidan,
+
+The ironic thing is that you sent this during another period of
+downtime. There have now been four incidents, starting on Monday after a
+long period of uptime (several months). This is no longer an isolated
+incident.
+
+I'm disappointed in the technical staff's ability to read the
+information I am giving them, often asking me to supply information that
+was in a previous email. Each shift seems to start the process from
+scratch as if it was a new incident.
+
+Several times they have assured me that the server is up and I must be
+mistaken. My point is that I am buying an internet-connected service and
+it is the connectivity that appears to be the issue. The monitoring
+attached is from Pingdom, which checks uptime from many cities around
+the world. All their monitoring locations found my sites unavailable at
+the times you can see.
+
+I do not understand why it takes up to 71 minutes to restore
+connectivity when it is lost. I do not understand why no root cause
+analysis has been done on what is clearly a systematic problem.
+
+I have had 99.97% uptime in the last 12 months. That is very good and I
+am happy with that level of service. Please don't let yourselves down now.
+
+Regards,
+
+Dominic Sayers&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#f1f1fe&quot;&gt;&lt;strong&gt;Sent&lt;/strong&gt; to &lt;a title=&quot;Dominic Sayers &amp;lt;dominic@sayers.cc&amp;gt;&quot; href=&quot;mailto:Dominic Sayers &amp;lt;dominic@sayers.cc&amp;gt;&quot;&gt;Dominic Sayers&lt;/a&gt; on &lt;strong&gt;Mar/23/2011 12:24:47PM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#f1f1fe&quot;&gt;
+&lt;pre&gt;Hi Dominic,
+
+Thank you for your reply.
+
+The Just Host team are always happy to help out, please do not hesitate to contact us if you have any other questions or queries in the future. As always, feedback is greatly appreciated.
+
+This ticket will now be closed.
+
+Kind regards,
+&lt;div&gt;--
+Izzy
+
+Izzy Sturgess&lt;/div&gt;&lt;/pre&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;4&quot; width=&quot;100%&quot; bgcolor=&quot;#CCCCCC&quot;&gt;
+&lt;tbody&gt;
+&lt;tr height=&quot;10&quot;&gt;
+&lt;td bgcolor=&quot;#ffffff&quot;&gt;&lt;strong&gt;Received&lt;/strong&gt; on &lt;strong&gt;Mar/23/2011 12:31:35PM&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign=&quot;top&quot; bgcolor=&quot;#ffffff&quot;&gt;I just told you about a serious ongoing problem. On what basis are you  closing this ticket?
+
+1. Please keep the ticket open until the root cause analysis has been  completed
+2. Please let me know what you have done to prevent any further outages&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&amp;lt;silence&amp;gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

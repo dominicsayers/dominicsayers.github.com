@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+ <title>Your Title - locomotive</title>
+ <link href="https://example.com/tag/locomotive/index.xml" rel="self"/>
+ <link href="https://example.com/tag/locomotive.html"/>
+ <updated>2016-12-05T13:31:33+00:00</updated>
+ <id>https://example.com/tag/locomotive.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Technology selection 2012 - a sketch</title>
+   <link href="https://example.com/technology-selection-2012-a-sketch/"/>
+   <updated>2012-01-11T15:37:38+00:00</updated>
+   <id>https://example.com/technology-selection-2012-a-sketch</id>
+   <content type="html">&lt;p&gt;I’m not suggesting this is the right way to choose your multinational’s ERP suite, but I’ve just made a technology choice. The success of my decision is yet to become apparent - I’m documenting this without the benefit of hindsight.&lt;/p&gt;
+
+&lt;p&gt;I hope I’m brave enough to do a follow-up post when it becomes clear whether I made the right choice.&lt;/p&gt;
+&lt;h3&gt;1. Identify the constraints&lt;/h3&gt;
+&lt;p&gt;I have chosen a Content Management System for a small company’s website. We may have to integrate with an app already written in Ruby on Rails, and that’s the programming language my developers are happiest in.&lt;/p&gt;
+
+&lt;p&gt;We’ll almost certainly deploy to Heroku, which adds additional constraints like a limited selection of databases.&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Constraint: Ruby on Rails, specifically Rails 3+&lt;/li&gt;
+	&lt;li&gt;Constraint: Heroku-compatible&lt;/li&gt;
+	&lt;li&gt;Constraint: MongoDB, Postgres, MySQL  and a few others&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Draw up a shortlist&lt;/h3&gt;
+&lt;p&gt;Aside: I’m starting to mistrust Google because of their evil attempts to promote Google-hosted content over other services. Boo. But Bing is no less evil so I still use Google for the moment.&lt;/p&gt;
+
+&lt;p&gt;I Googled my search for a Ruby on Rails CMS. I eliminated opinion pieces from 2009 and earlier. I made a list of CMSes that matched my constraints.&lt;/p&gt;
+
+&lt;p&gt;The list was&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.locomotivecms.com/&quot; target=&quot;_blank&quot;&gt;Locomotive&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://refinerycms.com/&quot; target=&quot;_blank&quot;&gt;Refinery&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://radiantcms.org/&quot; target=&quot;_blank&quot;&gt;Radiant&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;3. Final selection&lt;/h3&gt;
+&lt;p&gt;To select a winner, I read the marketing fluff on each website. I then forgot everything I’d read and got on with making a rational decision.&lt;/p&gt;
+
+&lt;p&gt;I made a subjective judgement about how easy my users would find it to create &amp;amp; maintain content using the admin tools for each CMS. In fact they were all OK. I couldn’t rule any of them out on this basis.&lt;/p&gt;
+
+&lt;p&gt;I then looked at the GitHub repository for each tool. I looked at three things:&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;How active the codebase was&lt;/li&gt;
+	&lt;li&gt;How many people were contributing to the project&lt;/li&gt;
+	&lt;li&gt;How successfully they dealt with issues that had been raised&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;All the projects had been updated in the last week but had already gone through several releases. All looked to be quite mature code under active development. A good sign.&lt;/p&gt;
+
+&lt;p&gt;All the tools had a wide range of contributors: &lt;a href=&quot;https://github.com/locomotivecms/engine&quot; target=&quot;_blank&quot;&gt;Locomotive&lt;/a&gt; 29, &lt;a href=&quot;https://github.com/resolve/refinerycms&quot; target=&quot;_blank&quot;&gt;Refinery&lt;/a&gt; 199, &lt;a href=&quot;https://github.com/radiant/radiant&quot; target=&quot;_blank&quot;&gt;Radiant&lt;/a&gt; 59.&lt;/p&gt;
+
+&lt;p&gt;All the tools seemed to be using GitHub to manage issues, which helped speed up my research. Here there was a clear winner&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Tool&lt;/th&gt;
+&lt;th&gt;Open issues&lt;/th&gt;
+&lt;th&gt;Closed issues&lt;/th&gt;
+&lt;th&gt;Ratio&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Locomotive&lt;/td&gt;
+&lt;td&gt;38&lt;/td&gt;
+&lt;td&gt;232&lt;/td&gt;
+&lt;td&gt;16%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Refinery&lt;/td&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;1196&lt;/td&gt;
+&lt;td&gt;1%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Radiant&lt;/td&gt;
+&lt;td&gt;41&lt;/td&gt;
+&lt;td&gt;267&lt;/td&gt;
+&lt;td&gt;15%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Admittedly a crude measure, but I like Refinery’s clear-up rate. And I even like that they have had more issues - it matches with their wider community involvement.&lt;/p&gt;
+
+&lt;p&gt;We’re going with Refinery, but the others are respectable choices too. If we discover a showstopper early on with Refinery I’d have no qualms trying one of the other two.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

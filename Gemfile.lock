@@ -150,7 +150,7 @@ PLATFORMS
 DEPENDENCIES
   bourbon
   github-pages (= 105)
-  jekyll-tagging (= 1.0.1)
+  jekyll-tagging
   jemoji
 
 BUNDLED WITH

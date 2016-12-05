@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+ <title>Your Title - ssh-keygen</title>
+ <link href="https://example.com/tag/ssh-keygen/index.xml" rel="self"/>
+ <link href="https://example.com/tag/ssh-keygen.html"/>
+ <updated>2016-12-05T13:31:33+00:00</updated>
+ <id>https://example.com/tag/ssh-keygen.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Using multiple accounts (and public keys) with Unfuddle</title>
+   <link href="https://example.com/using-multiple-accounts-and-public-keys-with-unfuddle/"/>
+   <updated>2011-07-19T14:37:51+01:00</updated>
+   <id>https://example.com/using-multiple-accounts-and-public-keys-with-unfuddle</id>
+   <content type="html">&lt;p&gt;If you develop on more than one Unfuddle account you’ll probably need separate identities for each account. Unfortunately git by default will only offer a single public key to authenticate you, and each Unfuddle account needs its own public key.&lt;/p&gt;
+
+&lt;p&gt;Here’s how to configure your SSH client to offer more than one public key to Unfuddle when you come to authenticate:&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;Make sure you have a key pair for each Unfuddle account you will be using. To generate a new key pair, use &lt;code&gt;ssh-keygen&lt;/code&gt; and give each key pair a unique name&lt;/li&gt;
+	&lt;li&gt;Create a file called &lt;code&gt;config&lt;/code&gt; in your &lt;code&gt;~/.ssh&lt;/code&gt; folder&lt;/li&gt;
+	&lt;li&gt;Edit it to look something like this:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;# Tell SSH to different key pairs for different hosts
+# Useful for e.g. Unfuddle when using several accounts
+# because you can only use your default public key
+# for one of the accounts
+Host other.unfuddle.com
+IdentityFile ~/.ssh/other_id_rsa
+
+Host other2.unfuddle.com
+IdentityFile ~/.ssh/other2_id_rsa
+
+Host *
+IdentityFile ~/.ssh/id_rsa&lt;/pre&gt;
+
+&lt;p&gt;There should be a &lt;code&gt;Host&lt;/code&gt; entry for each Unfuddle account for which you have used a different key pair. The final &lt;code&gt;*&lt;/code&gt; section tells SSH to use your default key pair for all other connections.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

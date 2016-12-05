@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+ <title>Your Title - brightkite</title>
+ <link href="https://example.com/tag/brightkite/index.xml" rel="self"/>
+ <link href="https://example.com/tag/brightkite.html"/>
+ <updated>2016-12-05T13:31:33+00:00</updated>
+ <id>https://example.com/tag/brightkite.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>Initial thoughts on my new social data flow</title>
+   <link href="https://example.com/initial-thoughts-on-my-new-social-data-flow/"/>
+   <updated>2008-07-31T10:38:10+01:00</updated>
+   <id>https://example.com/initial-thoughts-on-my-new-social-data-flow</id>
+   <content type="html">&lt;p&gt;Firstly, apologies to anybody who couldn’t see the social data flow diagram in my &lt;a href=&quot;https://blog.dominicsayers.com/2008/07/28/my-social-data-flow/&quot; target=&quot;_blank&quot;&gt;earlier post&lt;/a&gt; - I’ve now hosted it on my own server so it shouldn’t disappear quite so often.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dominicsayers.com/socialdataflow/&quot; target=&quot;_blank&quot;&gt;&lt;img style=&quot;margin-top:16px;margin-bottom:16px;border-width:0;&quot; src=&quot;https://www.dominicsayers.com/socialdataflow/SocialDataFlowThumb.png&quot; alt=&quot;&quot; width=&quot;480&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;font-size:x-small;&quot;&gt;(Click on the image for a bigger version)&lt;/p&gt;
+
+&lt;p&gt;The new data flow, using &lt;a href=&quot;https://ping.fm&quot; target=&quot;_blank&quot;&gt;ping.fm&lt;/a&gt; to syndicate my status updates and micro-blogs and &lt;a href=&quot;https://friendfeed.com/dominicsayers&quot; target=&quot;_blank&quot;&gt;FriendFeed&lt;/a&gt; to aggregate my other activity and consolidate everything into a coherent set of feeds, is working quite well. I would like to be able to have more control over the format of what both ping.fm and FriendFeed do for each target system, but the defaults are adequate for now.&lt;/p&gt;
+
+&lt;p&gt;Here are the issues I’m experiencing:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Using &lt;a href=&quot;https://twitterfeed.com/&quot; target=&quot;_blank&quot;&gt;Twitterfeed&lt;/a&gt; to take my &lt;a href=&quot;https://friendfeed.com/dominicsayers?format=atom&quot; target=&quot;_blank&quot;&gt;FriendFeed RSS&lt;/a&gt; and pipe it into &lt;a href=&quot;https://twitter.com/dominicsayers&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt; introduces a degree of latency that’s a bit inappropriate for Twitter. Twitter should be near real-time and conversational (whilst not being an instant messaging system), but Twitterfeed only reads my FriendFeed every half an hour. If I get ping.fm to update Twitter directly then I’m going to get some updates twice, which is exactly what I’m trying to avoid.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Some of the connected systems (&lt;a href=&quot;https://identi.ca/dominicsayers&quot; target=&quot;_blank&quot;&gt;identi.ca&lt;/a&gt; for example) are Twitter-like, and I’d like to treat them the same way as Twitter: as an output device for all my activity. But Twitterfeed is Twitter-specific and I haven’t found an equivalent for identi.ca etc. yet. In any case I don’t want a different Social ETL tool for each output system; I want Twitterfeed (or something) to do this for a number of target systems.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;There’s no class solution for location-based systems yet. Obviously I’d like to be able to update my location and travel plans in one place and have it propagate to &lt;a href=&quot;https://www.tripit.com/people/dominicsayers&quot; target=&quot;_blank&quot;&gt;TripIt&lt;/a&gt;, &lt;a href=&quot;https://www.dopplr.com/traveller/DominicSayers&quot; target=&quot;_blank&quot;&gt;Dopplr&lt;/a&gt;, &lt;a href=&quot;https://brightkite.com/people/dominicsayers&quot; target=&quot;_blank&quot;&gt;BrightKite&lt;/a&gt; etc. I think &lt;a href=&quot;https://fireeagle.yahoo.net/&quot; target=&quot;_blank&quot;&gt;FireEagle&lt;/a&gt; may be trying to do this but it’s short of two things at the moment: co-operation from the other systems and an invitation for me. If anybody has access to FireEagle I would appreciate a way in.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Now I need to do the other thing - deduplicate my profligate friends’ updates. When &lt;a href=&quot;https://www.flickr.com/people/mlazopoulou/&quot; target=&quot;_blank&quot;&gt;Myrto&lt;/a&gt; uploads a picture to Flickr, for instance, I get notified about it four times. I can rationalise this a bit but I can’t ignore her FriendFeed or Twitter because I would miss some of her updates, so I’m condemned to hearing about her new pictures multiple times unless (a) she adopts a version of my social data flow or (b) I find a solution to deduplicating the same update coming through multiple channels. This duplicate filter is necessary until everybody adopts my architecture, i.e. for ever. Does anybody know of a solution out there?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This all seems quite difficult to manage and well beyond anybody who is either busy or technically challenged. There’s no real way of developing a packaged solution until all the social systems adopt a single sign-on technology like &lt;a href=&quot;https://openid.net/&quot; target=&quot;_blank&quot;&gt;OpenID&lt;/a&gt;, and many of them have sound technical reasons for not doing so (OpenIDs can be created by anybody anywhere so it’s a bit like expecting system owners to trust a digital certificate that has no trusted root certification authority).&lt;/p&gt;
+
+&lt;p&gt;Anyway, that’s the state of play at the moment. More to come I’m sure.&lt;/p&gt;
+</content>
+ </entry>
+ 
+</feed>

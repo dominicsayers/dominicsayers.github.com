@@ -5,5 +5,5 @@ group :jekyll_plugins do
   gem 'github-pages', '105'
   gem 'bourbon'
   gem 'jemoji'
-  gem 'jekyll-tagging', '1.0.1'
+  gem 'jekyll-tagging' # Github pages won't use this because it's not whitelisted
 end
