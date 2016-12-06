@@ -1,9 +1,13 @@
-host: 0.0.0.0
+# Local server settings
+host: 0.0.0.0 # Ignored by Github Pages
 
 # Build settings
+url: "https://blog.dominicsayers.com" # the base hostname & protocol for your site
+permalink: :title/
+
 gems:
   - jemoji
-  - jekyll-paginate
+  - jekyll-sitemap
 
 collections:
   tag_pages:
@@ -14,24 +18,14 @@ collections:
 title: "Dominic Sayers"
 description: 'CTO'
 email: dominic@sayers.cc
-#blog logo
 logo: "/assets/images/home.png"
-# blog cover
 cover: "/assets/images/bg_landing_page.jpg"
 
 name: 'Dominic Sayers'
 author: 'Dominic Sayers'
 author_image: "/assets/images/dominicsayers.jpg"
 
-paginate:	5
-permalink: :title/
-
-url: "https://blog.dominicsayers.com" # the base hostname & protocol for your site
-# baseurl: "/"
-#used to display twitter cards
 twitter_handle: '@dominicsayers'
-
-#fill in disqus shortname to use disqus
 disqus: dominicsayers
 
 # social icons and sharing options
