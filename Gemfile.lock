@@ -144,7 +144,7 @@ PLATFORMS
 
 DEPENDENCIES
   bourbon
-  github-pages (= 105)
+  github-pages
   jemoji
 
 BUNDLED WITH

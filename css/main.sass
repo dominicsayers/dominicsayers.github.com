@@ -380,7 +380,7 @@ body
       line-height: 1.2
       padding-top: 31px
       margin-bottom: 4px
-    p
+    p, table
       font-weight: 400
       font-style: normal
       font-size: 22px
@@ -391,9 +391,25 @@ body
       -webkit-hyphens: auto
       -moz-hyphens: auto
       hyphens: auto
+    table
+      line-height: 40px
+      border-spacing: 0
+    td, th
+      padding-right: 14px
+      vertical-align: top
+    table.six-column
+      td, th
+        width: 106px
+    tr>td:last-child, tr>th:last-child
+      padding-right: 0
     a
       color: #333
       text-decoration: underline
+    h3>a
+      color: #666
+      text-decoration: none
+      &:hover
+        color: #3b94d9
     img
       max-width: 100%
       margin: 0 auto
