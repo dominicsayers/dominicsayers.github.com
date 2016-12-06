@@ -34,7 +34,7 @@ permalink: /about/
     </tr>
     <tr>
       <td>I live in <em>London</em></td>
-      <td><img src="http://icons.iconarchive.com/icons/iconka/landmarks/256/london-bridge-icon.png" height="27" /></td>
+      <td><img src="/assets/article_images{{ page.url }}london-bridge-icon.png" height="27" /></td>
     </tr>
   </tbody>
 </table>
@@ -89,7 +89,7 @@ permalink: /about/
       </td>
       <td colspan="3">
         <h3><a target="_blank" href="http://isemail.info">Isemail</a></h3>
-        <p>Service for checking email address syntax</p>
+        <p>Checking email address syntax</p>
       </td>
     </tr>
   </tbody>
