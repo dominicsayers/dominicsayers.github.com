@@ -9,8 +9,8 @@ permalink: /about/
 <table>
   <tbody>
     <tr>
-      <td>I like <em>technology</em></td>
-      <td>🔧</td>
+      <td>I like <em>technology</em> and <em>cats</em></td>
+      <td>🔧🐈</td>
     </tr>
     <tr>
       <td>I get about on a <em>bicycle</em></td>
@@ -38,6 +38,10 @@ permalink: /about/
     </tr>
   </tbody>
 </table>
+
+I expect policies to be based on evidence. I am skeptical about decisions made on conviction or intuition but that doesn't always make them wrong.
+
+I am proud of my wife who runs her own business in the construction industry. I have two small but rapidly growing children who make me happy.
 
 ---
 
