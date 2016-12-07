@@ -30,26 +30,52 @@ disqus: dominicsayers
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dominicsayers
+  - icon: linkedin
+    url:  https://uk.linkedin.com/in/dominicsayers
+    desc: Connect with me on LinkedIn
+
+  - icon: twitter
+    url:  https://twitter.com/dominicsayers
     desc: Follow me on twitter
     share_url: https://twitter.com/share
     share_title: '?text='
     share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+  - icon:	facebook
+    url:	https://facebook.com/dominicsayers
+    desc: Connect with me facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: "?t="
+    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/dominicsayers
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
+  - icon: github
+    url:  https://github.com/dominicsayers
+    desc: Fork me on github
+
+  - icon: stack-overflow
+    url:  http://stackoverflow.com/users/63349/dominic-sayers
+    desc: Follow me on StackOverflow
+
+  - icon: quora
+    url:  https://www.quora.com/profile/Dominic-Sayers
+    desc: Follow me on Quora
+
+  - icon: angellist
+    url:  https://angel.co/dominicsayers
+    desc: Follow me on AngelList
+
+  - icon: medium
+    url: https://medium.com/@dominic.sayers
+    desc: Follow me on Medium
+
+  - icon: wikipedia-w
+    url: https://en.wikipedia.org/wiki/User:Dominic_Sayers
+    desc: My contributions to Wikipedia
+
+  - icon: flickr
+    url: https://www.flickr.com/photos/dominicsayers/
+    desc: My photos on Flickr
+
 
 #  - icon:	google-plus
 #    url:	https://google.com/???

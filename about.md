@@ -39,9 +39,9 @@ permalink: /about/
   </tbody>
 </table>
 
-I expect policies to be based on evidence. I am skeptical about decisions made on conviction or intuition but that doesn't always make them wrong.
+I expect policies to be based on [evidence](https://en.wikipedia.org/wiki/Evidence-based_policy){:target="_blank"}. My moral reasoning is [post-conventional](https://en.wikipedia.org/wiki/Lawrence_Kohlberg's_stages_of_moral_development#Post-Conventional){:target="_blank"}.
 
-I am proud of my wife who runs her own business in the construction industry. I have two small but rapidly growing children who make me happy.
+I am proud of my wife who runs [her own business](http://insitearts.com){:target="_blank"} in the construction industry. I have two small but rapidly growing children who make me happy.
 
 ---
 
@@ -56,7 +56,10 @@ I am proud of my wife who runs her own business in the construction industry. I 
         </a>
       </td>
       <td colspan="2">
-        <a href="https://twitter.com/dominicsayers" class="twitter-follow-button" data-show-count="false">@dominicsayers</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <a href="https://twitter.com/dominicsayers" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="false">
+          @dominicsayers
+        </a>
+        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
       </td>
       <td>
         <a target="_blank" href="https://www.quora.com/profile/Dominic-Sayers">
