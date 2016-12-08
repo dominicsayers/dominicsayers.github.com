@@ -21,10 +21,21 @@ defaults:
   -
     scope:
       path: ''
+    values:
+      layout: 'default'
+      author: Dominic Sayers
+  -
+    scope:
+      path: ''
       type: posts
     values:
       layout: post
-      author: dominic
+  -
+    scope:
+      path: ''
+      type: pages
+    values:
+      layout: page
 
 # Site settings
 title: "Dominic Sayers"
@@ -87,11 +98,3 @@ social:
   - icon: flickr
     url: https://www.flickr.com/photos/dominicsayers/
     desc: My photos on Flickr
-
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:

@@ -14,47 +14,34 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
-  <body itemscope itemtype="https://schema.org/Article">
+  <body>
     {% include header.html %}
     <main class="content" role="main">
-      <article class="post">
+      <article class="post" itemscope itemtype="https://schema.org/Article">
         {% if page.image %}
-        <div class="article-image">
-          <div class="post-image-image" style="background-image: url({% if page.image %}{{ page.image }}{% endif %})">
-            Article Image
-          </div>
-          <div class="post-image-image2" style="background-image: url({% if page.image2 %}{{ page.image2 }}{% endif %})">
-            Article Image
-          </div>
-          <div class="post-meta">
-            <h1 class="post-title">{{ page.title }}</h1>
-            <div class="cf post-meta-text">
-              <div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>
-              <h4 class="author-name" itemprop="author" itemscope itemtype="https://schema.org/Person">{{ site.author }}</h4>
-              on
-              <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time>
+          <div class="article-image">
+            <div class="post-image-image" style="background-image: url({% if page.image %}/assets/article_images/{{ page.slug }}/{{ page.image }}{% endif %})">
+              Article Image
             </div>
-            <div style="text-align:center">
-              <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
+            <div class="post-image-image2" style="background-image: url({% if page.image2 %}/assets/article_images/{{ page.slug }}/{{ page.image2 }}{% endif %})">
+              Article Image
+            </div>
+            <div class="post-meta">
+              {% include meta.html %}
+              <div style="text-align:center">
+                <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
+              </div>
             </div>
           </div>
-        </div>
         {% else %}
-        <div class="noarticleimage">
-          <div class="post-meta">
-            <h1 class="post-title">{{ page.title }}</h1>
-            <div class="cf post-meta-text">
-              <div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>
-              <h4 class="author-name" itemprop="author" itemscope itemtype="https://schema.org/Person">{{ page.author }}</h4>
-              on
-              <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
+          <div class="noarticleimage">
+            <div class="post-meta">
+              {% include meta.html %}
+              </div>
             </div>
           </div>
-        </div>
-        <br>
-        <br>
-        <br>
         {% endif %}
+
         <section class="post-content">
           <div class="post-reading">
             <span class="post-reading-time"></span> read

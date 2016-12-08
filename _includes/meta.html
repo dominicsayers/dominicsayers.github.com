@@ -1,0 +1,30 @@
+<!-- meta start -->
+{% assign author = post.author | default: page.author | default: site.author %}
+{% assign pubdate = default: page.date | default: site.time %}
+{% assign iso_date = pubdate | date: '%Y-%m-%d' %}
+
+<h1 class="post-title" itemprop="headline"><span itemprop="name">{{ page.title }}</span></h1>
+<div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>
+<h4 class="author-name" itemprop="author" itemscope itemtype="https://schema.org/Person">
+  <span itemprop="name">{{ author }}</span>
+</h4>
+on
+<time datetime="{{ iso_date }}" title="{{ pubdate | date_to_long_string }}" itemprop="datePublished" content="{{ iso_date }}">
+  {{ pubdate | date_to_long_string }}
+</time>
+<meta itemprop="dateModified" content="{{ iso_date }}">
+<meta itemprop="mainEntityOfPage" content="{{ site.url }}{{ page.url }}">
+<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+  <meta itemprop="name" content="{{ site.author }}">
+  <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+    <meta itemprop="url" content="{{ site.url }}{{ site.author_image }}">
+  </div>
+</div>
+{% if page.thumbnail or page.image %}
+  <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+    <meta itemprop="url" content="{{site.url}}/assets/article_images/{{ page.slug }}/{{ page.image | default: page.thumbnail }}">
+    <meta itemprop="height" content="250">
+    <meta itemprop="width" content="250">
+  </div>
+{% endif %}
+<!-- meta end -->

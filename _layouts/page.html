@@ -13,11 +13,7 @@
             Article Image
           </div>
           <div class="post-meta">
-            <h1 class="post-title">{{ page.title }}</h1>
-            <div class="cf post-meta-text">
-              <div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>
-              <h4 class="author-name" itemprop="author" itemscope itemtype="https://schema.org/Person">{{ site.author }}</h4>
-            </div>
+            {% include meta.html %}
             <div style="text-align:center">
               <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
             </div>
@@ -26,11 +22,7 @@
         {% else %}
         <div class="noarticleimage">
           <div class="post-meta">
-            <h1 class="post-title">{{ page.title }}</h1>
-            <div class="cf post-meta-text">
-              <div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>
-              <h4 class="author-name" itemprop="author" itemscope itemtype="https://schema.org/Person">{{ site.author }}</h4>
-            </div>
+            {% include meta.html %}
           </div>
         </div>
         {% endif %}
