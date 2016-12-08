@@ -13,6 +13,18 @@ collections:
   tag_pages:
     output: true
     permalink: /tag/:name/
+  authors:
+    output: true
+    permalink: /author/:name/
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: posts
+    values:
+      layout: post
+      author: dominic
 
 # Site settings
 title: "Dominic Sayers"

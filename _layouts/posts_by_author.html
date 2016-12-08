@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+{% capture page_subtitle %}Articles by author{% endcapture %}
+
+<main class="content" role="main">
+  <h2>{{ page.name }}</h2>
+
+  {% for post in site.posts %}
+    {% if post.author == page.slug %}
+      {% assign author_found = true %}
+      {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
+      {% if forloop.first %}
+        <h3 class="m-t-3 m-b-1">{{ post_year }}</h3>
+        <div class="list-group">
+      {% else %}
+        {% if post_year != previous_post_year %}
+          </div>
+          <h3 class="m-t-3 m-b-1">{{ post_year }}</h3>
+          <div class="list-group">
+        {% endif %}
+      {% endif %}
+      {% assign previous_post_year = post_year %}
+      <a href="{{ post.url }}" class="list-group-item">
+        <h4 class="list-group-item-heading h6">{{ post.title }}</h4>
+      </a>
+      {% if forloop.last %}
+        </div>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% if author_found != true %}
+    <p>There are no posts by this author.</p>
+  {% endif %}
+</main>

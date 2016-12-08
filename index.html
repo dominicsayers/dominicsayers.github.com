@@ -36,21 +36,46 @@ layout: default
     <div class="container featured">
       {% for post in site.tags.featured %}
         <article class="post" itemscope itemtype="https://schema.org/BlogPosting" role="article">
+          <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+            <meta itemprop="name" content="{{ site.author }}">
+            <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+              <meta itemprop="url" content="{{ site.url }}{{ site.author_image }}">
+            </div>
+          </div>
           <div class="article-item">
             <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+              <h2 class="post-title" itemprop="headline"><a href="{{ post.url }}" itemprop="url" itemprop="mainEntityOfPage"><span  itemprop="name">{{ post.title }}</span></a></h2>
             </header>
             <section class="post-excerpt" itemprop="description">
-              <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+              {% if post.thumbnail %}
+                <div class="thumbnail" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                  <img itemprop="url" src="{{ post.thumbnail }}">
+                    <meta itemprop="height" content="250">
+                    <meta itemprop="width" content="250">
+                  </img>
+                </div>
+                <div class="text">
+              {% else %}
+                <div>
+              {% endif %}
+                <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+              </div>
             </section>
             <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+              {% capture iso_date %}{{ post.date | date: '%Y-%m-%d' }}{% endcapture %}
+              <meta itemprop="mainEntityOfPage" content="{{ site.url }}{{ post.url }}">
+              <meta itemprop="dateModified" content="{{ iso_date }}">
+              <time datetime="{{ iso_date }}" title="{{ post.date | date_to_long_string }}" itemprop="datePublished" content="{{ iso_date }}">
+                {{ post.date | date_to_long_string }}
+              </time>
+              by <address class="author" itemprop="author">{{ post.author }}</address>
             </div>
           </div>
         </article>
       {% endfor %}
     </div>
 
+<!-- No pagination
     <h5 class="index-headline normal"><span>Regular</span></h5>
     {% endif %}
 
@@ -85,4 +110,5 @@ layout: default
         {% endif %}
       {% endif %}
     </nav>
+-->
 </main>
