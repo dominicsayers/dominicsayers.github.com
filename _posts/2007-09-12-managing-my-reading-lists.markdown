@@ -3,7 +3,7 @@ layout: post
 title: Managing my reading lists
 date: 2007-09-12 11:29:42.000000000 +01:00
 ---
-<a target="_blank" href="https://stephenpatrick.wordpress.com/">Steve Patrick</a>, who clearly has my education as a personal mission, has <a target="_blank" href="https://blog.dominicsayers.com/2007/09/10/book-lists/#comment-15829">recommended</a> another couple of books (for which I thank him).
+<a target="_blank" href="https://stephenpatrick.wordpress.com/">Steve Patrick</a>, who clearly has my education as a personal mission, has <a target="_blank" href="https://www.dominicsayers.com/2007/09/10/book-lists/#comment-15829">recommended</a> another couple of books (for which I thank him).
 
 I've added them to the <a target="_blank" href="https://del.icio.us/dominicsayers/listofbooklists">lists</a>. By the way, the idea of storing del.icio.us tags in del.icio.us itself is a fabulous one which I can see all sorts of uses for. I am very pleased with my list of lists.
 

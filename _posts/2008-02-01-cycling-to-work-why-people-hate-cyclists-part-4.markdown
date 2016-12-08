@@ -19,16 +19,16 @@ src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
 <div>
 <ol>
 	<li>
-<div><a target="_blank" href="https://blog.dominicsayers.com/2008/01/28/cycling-to-work-why-people-hate-cyclists-part-1/"><strong>Ignoring red lights</strong></a></div>
+<div><a target="_blank" href="https://www.dominicsayers.com/2008/01/28/cycling-to-work-why-people-hate-cyclists-part-1/"><strong>Ignoring red lights</strong></a></div>
 </li>
 	<li>
 <div>
-<div><a target="_blank" href="https://blog.dominicsayers.com/2008/01/29/cycling-to-work-why-people-hate-cyclists-part-2/"><strong>Riding on pavements</strong></a></div>
+<div><a target="_blank" href="https://www.dominicsayers.com/2008/01/29/cycling-to-work-why-people-hate-cyclists-part-2/"><strong>Riding on pavements</strong></a></div>
 </div>
 </li>
 	<li>
 <div>
-<div><strong><a target="_blank" href="https://blog.dominicsayers.com/2008/01/30/cycling-to-work-why-people-hate-cyclists-part-3/">Assaulting innocent pedestrians</a></strong></div>
+<div><strong><a target="_blank" href="https://www.dominicsayers.com/2008/01/30/cycling-to-work-why-people-hate-cyclists-part-3/">Assaulting innocent pedestrians</a></strong></div>
 </div>
 </li>
 	<li><strong>Wearing lycra </strong></li>

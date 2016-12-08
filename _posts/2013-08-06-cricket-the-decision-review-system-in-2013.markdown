@@ -9,7 +9,7 @@ H2 {font-size:200%;}    H4 {font-weight:bold;}
 
 I'll publish this in sections - it's turned out to be a bit longer than I thought...
 <h2>Contents</h2>
-<a href="https://blog.dominicsayers.com/2013/08/drs-1/">Part 1: Introduction</a>
+<a href="https://www.dominicsayers.com/2013/08/drs-1/">Part 1: Introduction</a>
 Part 2: Technology
 Part 3: Reviews &amp; umpiring
 Part 4: Proposals &amp; conclusions

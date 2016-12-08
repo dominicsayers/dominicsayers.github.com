@@ -17,7 +17,7 @@ Here's where I put mine. I'm not recommending a particular service but this setu
 	<li>Links I want to share: <a href="https://www.tumblr.com" target="_blank">Tumblr</a>. Here's my list: <a href="https://dominicsayers.tumblr.com/" target="_blank">https://dominicsayers.tumblr.com/</a></li>
 	<li>Short thoughts for a wide audience: <a href="https://pixelpipe.com/" target="_blank">PixelPipe</a> or <a href="https://ping.fm/" target="_blank">ping.fm</a> + add connectors for all the communities where your friends hang out.</li>
 	<li>Private conversations: Go to wherever your interlocutor hangs out</li>
-	<li>Long thoughts: <a href="https://wordpress.com/" target="_blank">Wordpress</a>. Here's mine: <a href="https://blog.dominicsayers.com/">https://blog.dominicsayers.com/</a></li>
+	<li>Long thoughts: <a href="https://wordpress.com/" target="_blank">Wordpress</a>. Here's mine: <a href="https://www.dominicsayers.com/">https://www.dominicsayers.com/</a></li>
 	<li>Professional contacts: <a href="https://uk.linkedin.com/in/dominicsayers" target="_blank">LinkedIn</a></li>
 </ul>
 <strong>2. Tell everybody where your stuff is</strong>

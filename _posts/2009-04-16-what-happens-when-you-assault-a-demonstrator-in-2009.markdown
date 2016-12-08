@@ -5,7 +5,7 @@ date: 2009-04-16 11:28:52.000000000 +01:00
 ---
 <h4>Quick links: <a href="https://www.thisisnotariot.org" target="_blank">This is not a riot</a> | <a href="https://icanhaz.com/ukcoppix/" target="_blank">Counter-Terrorism Act 2008</a></h4>
 
-<a href="https://blog.dominicsayers.com/2009/04/14/taking-photographs-of-police-officers/" target="_blank">I posted yesterday</a> about the value of photographing (and filming) police officers as a way of encouraging them to stay within their legal operating constraints. Since no action has been taken against police officers involved in the <a href="https://en.wikipedia.org/wiki/2009_G-20_London_summit" target="_blank">G20</a> <a href="https://en.wikipedia.org/wiki/2009_G-20_London_summit_protests" target="_blank">demonstrations</a> <em>except</em> when they were being filmed we can conclude one of two things:
+<a href="https://www.dominicsayers.com/2009/04/14/taking-photographs-of-police-officers/" target="_blank">I posted yesterday</a> about the value of photographing (and filming) police officers as a way of encouraging them to stay within their legal operating constraints. Since no action has been taken against police officers involved in the <a href="https://en.wikipedia.org/wiki/2009_G-20_London_summit" target="_blank">G20</a> <a href="https://en.wikipedia.org/wiki/2009_G-20_London_summit_protests" target="_blank">demonstrations</a> <em>except</em> when they were being filmed we can conclude one of two things:
 <ol>
 	<li>No police officer acted inappropriately except the ones that were caught on film, or</li>
 	<li>Police officers are rarely disciplined unless they are caught in an inappropriate act by a member of the public or a journalist</li>

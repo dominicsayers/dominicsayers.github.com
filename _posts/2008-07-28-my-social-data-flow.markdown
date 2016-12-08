@@ -22,7 +22,7 @@ So here is the guide to subscribing to updates about me:
 
 </p><p style="padding-left:30px;"><strong>I</strong><strong> want to read what you write about
 </strong>I'm not interested in where you are or what you're doing today but I am interested in your thoughts
-<a href="https://blog.dominicsayers.com/feed" target="_blank">OK: subscribe to this feed</a>. And to <a href="https://blog.dominicsayers.com/comments/feed" target="_blank">this feed </a>for what people are saying about my writing
+<a href="https://www.dominicsayers.com/feed" target="_blank">OK: subscribe to this feed</a>. And to <a href="https://www.dominicsayers.com/comments/feed" target="_blank">this feed </a>for what people are saying about my writing
 
 </p><p style="padding-left:30px;"><strong>I'm interested in keeping track of you but I don't want to read your boring writing
 </strong>I'm a stalker not an bleeding intellectual

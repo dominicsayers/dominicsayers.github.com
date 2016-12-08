@@ -10,10 +10,10 @@ I do, however, have some personal opinions about organisations and how they are 
 Previous posts:
 <ol>
 	<li>
-<div><a target="_blank" href="https://blog.dominicsayers.com/2006/11/08/hierarchies/">Real-time communication makes traditional hierarchies unnecessary</a></div>
+<div><a target="_blank" href="https://www.dominicsayers.com/2006/11/08/hierarchies/">Real-time communication makes traditional hierarchies unnecessary</a></div>
 </li>
 	<li>
-<div><a target="_blank" href="https://blog.dominicsayers.com/2006/11/08/organisational-hierarchies-an-alternative-model/">What we call a "boss" is simply a collection of roles in a set of business processes</a></div>
+<div><a target="_blank" href="https://www.dominicsayers.com/2006/11/08/organisational-hierarchies-an-alternative-model/">What we call a "boss" is simply a collection of roles in a set of business processes</a></div>
 </li>
 </ol>
 We can manage people's roles in business processes the same way we manage, say, access to network resources; through people being members of groups. People can be a member of an arbitrary number of groups, groups can have an arbitrary number of members. Managing the membership of these groups is simply a business process that a particular group is permissioned to do. Let's call that group the Board of Directors.

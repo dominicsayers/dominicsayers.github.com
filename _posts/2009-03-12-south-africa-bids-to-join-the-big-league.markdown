@@ -3,7 +3,7 @@ layout: post
 title: South Africa bids to join the big league
 date: 2009-03-12 15:50:40.000000000 +00:00
 ---
-Cricket South Africa (<a href="https://en.wikipedia.org/wiki/Cricket_South_Africa" target="_blank">CSA</a>) has made a strong move in the war to be the most ridiculous cricket governing body in the world. Don't forget this is big-league stuff - cricket's governing bodies are strong contenders for <a href="https://blog.dominicsayers.com/2008/04/17/worlds-worst-sports-governing-body/" target="_blank">The World's Worst Sports Governing Body</a>.
+Cricket South Africa (<a href="https://en.wikipedia.org/wiki/Cricket_South_Africa" target="_blank">CSA</a>) has made a strong move in the war to be the most ridiculous cricket governing body in the world. Don't forget this is big-league stuff - cricket's governing bodies are strong contenders for <a href="https://www.dominicsayers.com/2008/04/17/worlds-worst-sports-governing-body/" target="_blank">The World's Worst Sports Governing Body</a>.
 
 Following on from brilliant efforts by the ECB[1], the WICB[2] and the ICC[3], CSA have appointed the likeable <a href="https://content.cricinfo.com/southafrica/content/player/46788.html" target="_blank">Ashwell Prince</a> as the stand-in captain for the next Test Match then <a href="https://content.cricinfo.com/rsavaus2009/content/current/story/394874.html" target="_blank">relieved</a> him of the captaincy 24 hours later, appointing one of the world's least popular cricketers in his place - <a href="https://content.cricinfo.com/southafrica/content/player/45789.html" target="_blank">Jacques Kallis</a>.
 

@@ -8,7 +8,7 @@ Sorry for the outage since Sunday. I moved the contents of this blog away from w
 
 The move of the blog contents took 5 minutes.
 
-Releasing the sub-domain blog.dominicsayers.com from the clutches of wordpress.com and getting SiteGround to set it up took 48 hours.
+Releasing the sub-domain www.dominicsayers.com from the clutches of wordpress.com and getting SiteGround to set it up took 48 hours.
 
 Lessons learned:
 

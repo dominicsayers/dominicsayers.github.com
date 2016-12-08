@@ -7,7 +7,7 @@ OK, I've seen a few things online recently that amused me and I'd like to share
 
 So I've decided to add them to <a href="https://dominicsayers.tumblr.com/" target="_blank">Tumblr</a>. Easy. Tumblr is a great tool for doing this, it makes it easy to add videos, links, pictures, anything. I am very happy with this choice.
 
-But this has now repurposed Tumblr in my <a href="https://blog.dominicsayers.com/2008/08/05/revised-social-data-flow/" target="_blank">social data flow</a> from an output device to a content provider. Before, it just used to receive my status updates and micro blogs. Now it is the place where I link to things that have amused me.
+But this has now repurposed Tumblr in my <a href="https://www.dominicsayers.com/2008/08/05/revised-social-data-flow/" target="_blank">social data flow</a> from an output device to a content provider. Before, it just used to receive my status updates and micro blogs. Now it is the place where I link to things that have amused me.
 
 Here's how I needed to reconfigure my social data flow:
 

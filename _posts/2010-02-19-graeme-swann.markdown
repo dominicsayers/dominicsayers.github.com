@@ -4,7 +4,7 @@ title: Graeme Swann
 date: 2010-02-19 16:07:10.000000000 +00:00
 tags: england
 ---
-<a href="https://search.cricinfo.com/ci/content/player/56143.html" target="_blank">Shakib Al Hasan</a>'s century in the <a href="https://www.cricinfo.com/ci/engine/match/423786.html" target="_blank">recent test match</a> against New Zealand means that <a href="https://www.cricinfo.com/ci/content/player/20431.html" target="_blank">Graeme Swann</a> is now the only member of <a href="https://blog.dominicsayers.com/2010/01/04/worlds-best-all-rounders/" target="_blank">my all-rounders table</a> without a test match hundred to his name.
+<a href="https://search.cricinfo.com/ci/content/player/56143.html" target="_blank">Shakib Al Hasan</a>'s century in the <a href="https://www.cricinfo.com/ci/engine/match/423786.html" target="_blank">recent test match</a> against New Zealand means that <a href="https://www.cricinfo.com/ci/content/player/20431.html" target="_blank">Graeme Swann</a> is now the only member of <a href="https://www.dominicsayers.com/2010/01/04/worlds-best-all-rounders/" target="_blank">my all-rounders table</a> without a test match hundred to his name.
 
 This brings into question whether Swann's presence in the table is due to his being a genuine world-class all-rounder or, on the other hand, a statistical anomaly.
 <p style="text-align: center;"><img src="https://static.cricinfo.com/db/PICTURES/CMS/104100/104199.1.jpg" alt="" /></p>

@@ -3,7 +3,7 @@ layout: post
 title: Walking to work - the victimless crime
 date: 2008-02-12 09:29:37.000000000 +00:00
 ---
-I believe that pedestrians should be held more accountable for their actions, as I <a target="_blank" href="https://blog.dominicsayers.com/2008/01/30/cycling-to-work-why-people-hate-cyclists-part-3/">said</a> a few days ago. This morning I saw a large man knocked off a large motorbike by quite a small pedestrian.
+I believe that pedestrians should be held more accountable for their actions, as I <a target="_blank" href="https://www.dominicsayers.com/2008/01/30/cycling-to-work-why-people-hate-cyclists-part-3/">said</a> a few days ago. This morning I saw a large man knocked off a large motorbike by quite a small pedestrian.
 
 It all happened in slightly comical slow motion. The motorcyclist was approaching a red light at walking pace when the pedestrian stepped out from between two stationary vehicles and walked into the motorbike's handlebars. Being such a large bike, it toppled over veeery veeery slowly and the large man fell off and rolled very slowly across the road until he and his bike were blocking both carriageways of Bishopsgate just outside Liverpool Street station.
 

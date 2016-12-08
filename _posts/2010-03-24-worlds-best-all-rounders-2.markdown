@@ -4,7 +4,7 @@ title: World's Best All-Rounders - Dhaka & Wellington Tests
 date: 2010-03-24 16:35:32.000000000 +00:00
 tags: england
 ---
-Three members of my <a href="https://blog.dominicsayers.com/2010/02/17/shakib-al-hasan/" target="_blank">World's Best All-Rounders</a> table have been in action since my last post. Here's how the table stands today (all current players in <strong>bold</strong>):
+Three members of my <a href="https://www.dominicsayers.com/2010/02/17/shakib-al-hasan/" target="_blank">World's Best All-Rounders</a> table have been in action since my last post. Here's how the table stands today (all current players in <strong>bold</strong>):
 <table border="0" cellspacing="0" cellpadding="0" width="470">
 <tbody>
 <tr>

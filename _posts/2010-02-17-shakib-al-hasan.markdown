@@ -3,7 +3,7 @@ layout: post
 title: Shakib Al Hasan
 date: 2010-02-17 13:32:05.000000000 +00:00
 ---
-After my recent post about the <a href="https://blog.dominicsayers.com/2010/01/04/worlds-best-all-rounders/" target="_blank">World's Best All-Rounders</a> a reader asked me why I hadn't included <a href="https://www.cricinfo.com/ci/content/player/56143.html" target="_blank">Shakib Al Hasan</a> of Bangladesh in my list. The reason was simple: he had not qualified. At the time he lacked 2 wickets for the 50 wicket qualification, and his batting average was 29.79, meaning he just missed out on the batting average qualification too.
+After my recent post about the <a href="https://www.dominicsayers.com/2010/01/04/worlds-best-all-rounders/" target="_blank">World's Best All-Rounders</a> a reader asked me why I hadn't included <a href="https://www.cricinfo.com/ci/content/player/56143.html" target="_blank">Shakib Al Hasan</a> of Bangladesh in my list. The reason was simple: he had not qualified. At the time he lacked 2 wickets for the 50 wicket qualification, and his batting average was 29.79, meaning he just missed out on the batting average qualification too.
 
 Since then he has played 2 more tests against India and is competing in a <a href="https://www.cricinfo.com/ci/engine/match/423786.html" target="_blank">third against New Zealand</a>. His bowling continues to impress and he has another 10 wickets to his name since I last wrote, meaning he now easily qualifies for his bowling both on aggregate and average. Not bad for a 22-year-old.
 

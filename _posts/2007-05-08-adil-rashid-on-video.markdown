@@ -9,4 +9,4 @@ He doesn't appear to give it much a rip at the moment, so his principal weapons 
 
 There is no reason why he could not go on to be a regular international, but Yorkshire's policy of careful management of his development is surely the right one. The other day county caps were awarded to two newcomers to the team (Younis Khan and Jacques Rudolph) but not Rashid, even though he has played more first team games then either of them. Nothing should be read into this other than that Yorkshire are wary of him getting a big 'ead. Plus ca change.
 
-More cricket nonsense <a target="_blank" href="https://www.dominicsayers.com/rage/">here</a> and of course, <a href="https://blog.dominicsayers.com/category/off-topic/cricket/">here</a>.
+More cricket nonsense <a target="_blank" href="https://www.dominicsayers.com/rage/">here</a> and of course, <a href="https://www.dominicsayers.com/category/off-topic/cricket/">here</a>.

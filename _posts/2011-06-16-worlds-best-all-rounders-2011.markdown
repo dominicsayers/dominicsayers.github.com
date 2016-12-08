@@ -5,7 +5,7 @@ date: 2011-06-16 12:52:44.000000000 +01:00
 ---
 I haven't updated my World's Best All-rounders table since last year. This is because the <a href="https://en.wikipedia.org/wiki/Pakistan_cricket_spot-fixing_controversy" target="_blank">spot-fixing allegations</a> against the Pakistani tourists made me doubt the value of any current cricket statistics. My doubts still remain, but it doesn't look like there are going to be any revisions of historical data so I will have to work with what I've got.
 
-What's happened since <a href="https://blog.dominicsayers.com/2010/03/24/worlds-best-all-rounders-2/" target="_blank">last year</a>? Here's the current table:
+What's happened since <a href="https://www.dominicsayers.com/2010/03/24/worlds-best-all-rounders-2/" target="_blank">last year</a>? Here's the current table:
 <table border="0">
 <tbody>
 <tr>

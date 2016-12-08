@@ -25,7 +25,7 @@ If you still can't see what all the fuss is about, here's Sachin  Tendulkar play
 
 BBC Cricket Correspondent Jonathan Agnew <a href="https://news.bbc.co.uk/sport1/hi/cricket/7456461.stm" target="_blank">believes</a> that the reversed grip  should be outlawed forthwith. And indeed the <a href="https://www.mcc.org.uk/laws-and-spirit/laws-of-cricket/laws/" target="_blank">MCC</a> (the guardian of the game's  laws) is meeting today to discuss the matter and possibly act to prevent any  batsman from attempting it in the future.
 
-If I may say so, this is entirely typical of both Agnew and the MCC. The MCC  failed to act on, or even notice, the new shot when it was introduced. Now they  are responding to a tabloid-style drama created by journalists such as Agnew.  I'm afraid I must add them to my <a href="https://blog.dominicsayers.com/2008/04/17/worlds-worst-sports-governing-body/" target="_blank">list of low-quality sports governing  bodies</a>.
+If I may say so, this is entirely typical of both Agnew and the MCC. The MCC  failed to act on, or even notice, the new shot when it was introduced. Now they  are responding to a tabloid-style drama created by journalists such as Agnew.  I'm afraid I must add them to my <a href="https://www.dominicsayers.com/2008/04/17/worlds-worst-sports-governing-body/" target="_blank">list of low-quality sports governing  bodies</a>.
 
 I think it's because a player is doing the innovating, rather than the governing body, that the response has been so negative in these quarters. Governing bodies are there to control and when innovation happens elsewhere it demonstrates how tissue-thin the veneer of control actually is. It is threatening and their reaction is understandable.
 

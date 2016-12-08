@@ -2,7 +2,7 @@
 host: 0.0.0.0 # Ignored by Github Pages
 
 # Build settings
-url: "https://blog.dominicsayers.com" # the base hostname & protocol for your site
+url: "https://wwww.dominicsayers.com" # the base hostname & protocol for your site
 permalink: :title/
 
 gems:
