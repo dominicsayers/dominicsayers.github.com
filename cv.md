@@ -40,7 +40,7 @@ I oversaw the initial contact with the business lines up to the final scoping of
 
 ## Commerzbank (then Dresdner Kleinwort)
 
-### Global Head of IT, Investment Banking
+### Global Head of IT, Investment Banking (2001-2008)
 
 I oversaw the integration of the Investment Banking IT infrastructure into the Capital Markets equivalents. I halved the Investment Banking IT spend along with a 75% reduction in headcount.
 
