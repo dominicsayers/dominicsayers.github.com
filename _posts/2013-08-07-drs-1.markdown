@@ -2,17 +2,12 @@
 layout: post
 title: 'The Decision Review System (DRS) - Part 1: Introduction'
 date: 2013-08-07 19:52:53.000000000 +01:00
+image: drs-1418316406.jpg
+tags: featured
 ---
-<style type="text/css"><!--
-H2 {font-size:200%;}    H4 {font-weight:bold;}
---></style><span style="color: #000000; font-size: 30px; font-weight: bold;">Contents</span>
 
-Part 1: Introduction &lt;- You are here
-Part 2: Technology
-Part 3: Reviews &amp; umpiring
-Part 4: Proposals &amp; conclusions
+[![Ashes DRS horror show rolls on - Daily Telegraph](http://i.telegraph.co.uk/multimedia/archive/02633/drs_2633680b.jpg)](http://www.telegraph.co.uk/sport/cricket/international/theashes/10217954/Ashes-2013-DRS-decision-to-give-out-Usman-Khawaja-branded-farcical-and-incompetent-by-Australia-media.html)
 
-<a href="https://www.telegraph.co.uk/sport/cricket/international/theashes/10217954/Ashes-2013-DRS-decision-to-give-out-Usman-Khawaja-branded-farcical-and-incompetent-by-Australia-media.html"><img class="aligncenter" alt="Ashes DRS horror show rolls on - Daily Telegraph" src="https://i.telegraph.co.uk/multimedia/archive/02633/drs_2633680b.jpg" width="620" height="388" /></a>
 <h2>Aims &amp; origin of the DRS</h2>
 <h4>TV replays</h4>
 Before the DRS was introduced we had two umpires on the field with nothing but their eyes and ears with which to make a decision. Television viewers, on the other hand, had the benefit of slow-motion replays and an increasing number of technology-led analysis tools that were developed to give the commentators something to talk about.
@@ -62,4 +57,5 @@ The offside rule has been reformed several times too <a title="Wikipedia" href="
 So the evidence is that the DRS does not have to be presented as an infallible oracle. People (even "common fans") are willing to accept complexity if they know it is the minimum required for fairness. The DRS can produce and in some cases evaluate a body of evidence that can help a TV umpire assess a colleague's on-field decision. We can observe that process and appreciate the subtleties of what we are watching. It can be an interesting part of the game without patronising administrators and commentators telling us that we are too stupid to understand it.
 
 [1] Board of Control for Cricket in India
+
 [2] As Deep Throat said: follow the money.
