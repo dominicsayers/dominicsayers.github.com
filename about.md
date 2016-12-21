@@ -43,46 +43,58 @@ I am proud of my wife who runs [her own business](http://insitearts.com){:target
 
 ---
 
+## Contact me
+
+Hit me up on [{{ site.social.twitter.name }}]({{ site.social.twitter.url }}) or [{{ site.social.linkedin.name }}]({{ site.social.linkedin.url }}) or any of the sites on the [home page](/). Or [email me](mailto:{{ site.email}}) if that's your thing.
+
+---
+
+## Hire me
+
+I'm an independent-minded and creative technologist. More details on my [CV page](/cv) if you'd like to talk about working together.
+
+---
+
 ## Find me elsewhere
 
 <table class="six-column">
   <tbody>
     <tr>
       <td>
-        <a target="_blank" href="https://uk.linkedin.com/in/dominicsayers">
+        <a target="_blank" href="{{ site.social.linkedin.url }}">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2000px-LinkedIn_Logo.svg.png" height="24" />
         </a>
       </td>
       <td colspan="2">
-        <a href="https://twitter.com/dominicsayers" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="false">
+        <a href="{{ site.social.twitter.url }}" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="false">
           @dominicsayers
         </a>
         <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
       </td>
       <td>
-        <a target="_blank" href="https://www.quora.com/profile/Dominic-Sayers">
+        <a target="_blank" href="{{ site.social.quora.url }}">
           <img src="https://qsf.ec.quoracdn.net/-3-images.logo.wordmark_default.svg4c6ca969eb5c90e5.svg" height="24" />
         </a>
       </td>
       <td>
-        <a target="_blank" href="https://angel.co/dominicsayers">
+        <a target="_blank" href="{{ site.social.angellist.url }}">
           <img src="https://alist.co/assets/shared/AngelList-1f53479b7b3bd75d55d9dd0d396a738b1a6943a7885dcd2fa3e4f1adb048f61e.png" height="20" />
         </a>
       </td>
       <td>
-        <a target="_blank" href="https://www.crunchbase.com/person/dominic-sayers">
+        <a target="_blank" href="{{ site.social.crunchbase.url }}">
           <img src="https://www.crunchbase.com/app/images/logo_crunchbase.svg" height="28" style="background-color: rgb(2, 136, 209); padding: 0 8px;" />
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="3">
-        <h3><a target="_blank" href="https://github.com/dominicsayers">Github</a></h3>
+        <h3><a target="_blank" href="{{ site.social.github.url }}">Github</a></h3>
         <iframe src="https://githubbadge.appspot.com/dominicsayers?a=0" style="border: 0;height: 120px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
       </td>
       <td colspan="2">
-        <h3><a target="_blank" href="https://stackoverflow.com/users/63349/dominic-sayers">Stack Overflow</a></h3>
-        <a target="_blank" href="https://stackoverflow.com/users/63349/dominic-sayers">
+        <h3><a target="_blank" href="{{ site.social.stack-overflow.url }}">Stack Overflow</a></h3>
+        <a target="_blank" href="{{ site.social.stack-overflow.url }}">
           <img src="https://stackoverflow.com/users/flair/63349.png" width="208" height="58" />
         </a>
       </td>

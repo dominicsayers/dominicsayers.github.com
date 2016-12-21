@@ -15,10 +15,12 @@ layout: default
     <h1 class="blog-title">{{ site.title }}</h1>
     <h2 class="blog-description">{{ site.description }}</h2>
     <div class="custom-links">
-      {% for social in site.social %}
+      {% for social_data in site.social %}
+        {% assign icon = social_data[0] %}
+        {% assign social = social_data[1] %}
         {% if social.url %}
-            <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}" target="social">
-              <i class="fa fa-{{ social.icon }}"></i>
+            <a class="icon-{{ icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}" target="social">
+              <i class="fa fa-{{ icon }}"></i>
             </a>
         {% endif %}
       {% endfor %}
