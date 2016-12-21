@@ -18,14 +18,47 @@ $font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
   @media only screen and (max-width: $breakpoint + px)
     @content
 
+@mixin author
+  .author-image
+    display: inline-block
+    width: 30px
+    height: 30px
+    line-height: 30px
+    margin-right: 8px
+    margin-bottom: -10px
+    float: left
+    background-size: cover
+    border-radius: 100%
+    text-indent: -9999px
+  .author-name
+    display: inline
+
+@mixin custom-links($align)
+  .custom-links
+    margin: 0 0 50px
+    text-align: $align
+    color: #ccc
+    a
+      text-decoration: none
+      color: #999
+      &:hover
+        color: #333
+    a + a:before
+      content: '·'
+      margin: 0 0.5em
+
+@mixin smallcaps
+  color: #b3b3b1
+  font-size: $rs/8*5
+  text-transform: uppercase
+  letter-spacing: 1px
+
 // Only needed for syntax highlighting
 %vertical-rhythm
   margin-bottom: $rs
 
 main
   display: block
-
-
 
 body
   font-family: $font-sans
@@ -118,18 +151,7 @@ body
     color: #666
     text-align: center
     font-weight: 400
-  .custom-links
-    margin: 0 0 50px
-    text-align: center
-    color: #ccc
-    a
-      text-decoration: none
-      color: #999
-      &:hover
-        color: #333
-    a + a:before
-      content: '·'
-      margin: 0 0.5em
+  @include custom-links(center)
 
 .content
   width: 100%
@@ -185,7 +207,8 @@ body
       address
         display: inline
 .container.featured
-  padding-bottom: 40px
+  padding: 0 0 40px
+  width: inherit
 
 .post-template .content
   max-width: 700px
@@ -195,10 +218,7 @@ body
   margin: 0
   padding: 16px 0
   span
-    color: #b3b3b1
-    font-size: $rs/8*5
-    text-transform: uppercase
-    letter-spacing: 1px
+    @include smallcaps
 
 .archive-template
   .index-headline.featured
@@ -231,6 +251,19 @@ body
 .tag-articleimage .post-reading
   color: rgba(255,255,255,0.9)
   text-shadow: 0px 1px 4px rgba(0,0,0,0.25), 0px 0px 1px rgba(0,0,0,0.5)
+
+.author
+  @include author
+  @include custom-links(left)
+  span
+    @include smallcaps
+    margin-right: 10px
+
+.buttons
+  margin: 0 auto 30px
+  width: 21em
+  a
+    width: 10em
 
 .site-footer
   margin: 0 auto
@@ -301,19 +334,7 @@ body
       color: #fff
       margin-bottom: 16px
       text-shadow: 0px 1px 16px rgba(0,0,0,0.5), 0px 0px 1px rgba(0,0,0,0.5)
-    .author-image
-      display: inline-block
-      width: 30px
-      height: 30px
-      line-height: 30px
-      margin-right: 8px
-      margin-bottom: -10px
-      float: left
-      background-size: cover
-      border-radius: 100%
-      text-indent: -9999px
-    .author-name
-      display: inline
+    @include author
     .post-meta-text
       color: rgba(255,255,255,0.75)
       letter-spacing: -0.02em
@@ -349,19 +370,7 @@ body
       line-height: 1.1
       color: #333332
       margin-bottom: 16px
-    .author-image
-      display: inline-block
-      width: 30px
-      height: 30px
-      line-height: 30px
-      margin-right: 8px
-      margin-bottom: -10px
-      float: left
-      background-size: cover
-      border-radius: 100%
-      text-indent: -9999px
-    .author-name
-      display: inline
+    @include author
     .post-meta-text
       color: #b3b3b1
       letter-spacing: -0.02em
@@ -400,8 +409,7 @@ body
       font-style: normal
       font-size: 22px
       line-height: 30px
-      margin: 0
-      padding-bottom: 30px
+      margin: 0 0 30px
       color: #333
       -webkit-hyphens: auto
       -moz-hyphens: auto

@@ -40,7 +40,6 @@ defaults:
 # Site settings
 title: "Dominic Sayers"
 description: "English as tuppence, changing yet changeless as canal water, nestling in green nowhere, opsimath and eremite"
-email: dominic@sayers.cc
 logo: "/assets/images/home.png"
 cover: "/assets/images/bg_landing_page.jpg"
 
@@ -48,28 +47,29 @@ name: 'Dominic Sayers'
 author: 'Dominic Sayers'
 author_image: "/assets/images/dominicsayers.jpg"
 
-twitter_handle: '@dominicsayers'
-disqus: dominicsayers
-
 # social icons and sharing options
 social:
   linkedin:
-    name: 'LinkedIn'
+    name: LinkedIn
     url:  https://uk.linkedin.com/in/dominicsayers
     desc: Connect with me on LinkedIn
+    contactable: true
   twitter:
-    name: 'Twitter'
+    name: Twitter
+    handle: dominicsayers
     url:  https://twitter.com/dominicsayers
     desc: Follow me on twitter
     share_url: https://twitter.com/share
     share_title: '?text='
     share_link: "&amp;url="
+    contactable: true
   facebook:
     url:	https://facebook.com/dominicsayers
     desc: Connect with me facebook
     share_url: https://www.facebook.com/sharer.php
     share_title: "?title="
     share_link: "&amp;u="
+    contactable: true
   github:
     url:  https://github.com/dominicsayers
     desc: Fork me on github
@@ -82,12 +82,25 @@ social:
   angellist:
     url:  https://angel.co/dominicsayers
     desc: Follow me on AngelList
-  medium:
-    url: https://medium.com/@dominic.sayers
-    desc: Follow me on Medium
+  # medium:
+  #   url: https://medium.com/@dominic.sayers
+  #   desc: Follow me on Medium
   wikipedia-w:
     url: https://en.wikipedia.org/wiki/User:Dominic_Sayers
     desc: My contributions to Wikipedia
   flickr:
     url: https://www.flickr.com/photos/dominicsayers/
     desc: My photos on Flickr
+  skype:
+    name: Skype
+    handle: dominicsayers
+    url: skype:dominicsayers
+    desc: Chat to me on Skype
+    contactable: true
+  envelope:
+    name: Email
+    url: mailto:dominic@sayers.cc
+    desc: Email me if all else fails
+    contactable: true
+  disqus:
+    handle: dominicsayers

@@ -31,7 +31,10 @@
           {{content}}
         </section>
       </article>
+
+      {% include author.html %}
     </main>
+
     <div class="bottom-closer">
       <div class="background-closer-image" {%if site.cover %} style="background-image: url({{ site.cover }})"{% endif %}>
         Image

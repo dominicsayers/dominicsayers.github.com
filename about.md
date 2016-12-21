@@ -45,7 +45,7 @@ I am proud of my wife who runs [her own business](http://insitearts.com){:target
 
 ## Contact me
 
-Hit me up on [{{ site.social.twitter.name }}]({{ site.social.twitter.url }}) or [{{ site.social.linkedin.name }}]({{ site.social.linkedin.url }}) or any of the sites on the [home page](/). Or [email me](mailto:{{ site.email}}) if that's your thing.
+Hit me up on [{{ site.social.twitter.name }}]({{ site.social.twitter.url }}) or [{{ site.social.linkedin.name }}]({{ site.social.linkedin.url }}) or any of the sites on the [home page](/). Or [email me]({{ site.social.envelope.url }}) if that's your thing.
 
 ---
 
@@ -111,11 +111,6 @@ I'm an independent-minded and creative technologist. More details on my [CV page
     </tr>
   </tbody>
 </table>
-
----
-
-<a class="twitter-timeline" href="https://twitter.com/dominicsayers">Tweets by dominicsayers</a>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

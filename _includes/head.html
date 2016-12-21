@@ -12,9 +12,9 @@
   <meta name="MobileOptimized" content="320" />
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  {% if site.twitter_handle %}
+  {% if site.social.twitter.handle %}
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="{{ site.twitter_handle }}" />
+    <meta name="twitter:site" content="@{{ site.social.twitter.handle }}" />
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta name="twitter:image" content="{{ site.logo | prepend: site.url }}" />
     {% if page.excerpt %}
@@ -48,10 +48,11 @@
   <meta name="theme-color" content="#ffffff">
 
   <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Linux+Libertine:400,400i,700,700i/Open+Sans:400,400i,700,700i">
-  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-  <link rel="stylesheet" type="text/css" media="screen" href="{{ "/css/main.css"  | prepend: site.baseurl  }}" />
-  <link rel="stylesheet" type="text/css" media="print" href="{{ "/css/print.css"  | prepend: site.baseurl  }}" />
+  <link rel="stylesheet" type="text/css" media="screen" href="{{ "/css/main.css" | prepend: site.baseurl }}" />
+  <link rel="stylesheet" type="text/css" media="print" href="{{ "/css/print.css" | prepend: site.baseurl }}" />
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed.xml">
 </head>

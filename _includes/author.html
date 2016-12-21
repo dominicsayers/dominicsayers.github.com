@@ -1,0 +1,17 @@
+<section class="author">
+  <div class="author-image" style="background-image: url({{site.author_image}})">Blog Logo</div>
+  <h4>{{ site.author }}</h4>
+  <p class="bio">{{author.bio}}</p>
+  <div class="custom-links">
+    <span>Get in touch:</span>
+    {% for social_data in site.social %}
+      {% assign icon = social_data[0] %}
+      {% assign social = social_data[1] %}
+      {% if social.contactable %}
+          <a class="icon-{{ icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}" target="social">
+            <i class="fa fa-{{ icon }}"></i>
+          </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
