@@ -50,6 +50,6 @@ I successfully oversaw the initial contact with the business lines up to the fin
 
 I oversaw the integration of the Investment Banking IT infrastructure into the Capital Markets equivalents. I halved the Investment Banking IT spend along with a 75% reduction in headcount.
 
-As a result I also acquired other portfolios including Global Head of Desktop Strategy and Global Head of Reference Data with global teams of 87 people. As part of my Desktop Strategy role I oversaw the termination of a global contract with a desktop virtualization provider by agreeing measurable objectives and documenting their failure to deliver against them. This agreement ultimately avoided costly legal action from the vendor.
+As a result I also acquired other portfolios including Global Head of Desktop Strategy and Global Head of Reference Data with teams of 87 people. As part of my Desktop Strategy role I oversaw the termination of a worldwide contract with a desktop virtualization provider by agreeing measurable objectives and documenting their failure to deliver against them. This agreement ultimately avoided costly legal action from the vendor.
 
 I also led the rollout of IT Service Management practices in the investment bank and was Process Architect for the wider Dresdner Bank IT Service Management project. My process designs built on the best practice established by the investment bank and replaced the sometimes naive workflows used in parts of the retail bank.
