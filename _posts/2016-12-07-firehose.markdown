@@ -1,0 +1,105 @@
+---
+layout: post
+title: Dealing with the information firehose at a fintech VC
+date: 2016-12-07 15:17:54 +0000
+image: neo4j.png
+thumbnail: neo4j.png
+tags: featured
+---
+
+## Finding the right tools
+Anthemis Group is a London-based investor in early-stage and growth-stage companies particularly in the fintech and insurance sectors.
+
+For investors like Anthemis the total amount of available useful data to support investment decisions is very small.
+Getting the most out of this data is a different problem to the one confronting traditional investors in more mature companies where data is abundant.
+Perhaps because of this the market for decision-support tools for venture capital companies is much less mature.
+
+But there’s too much going on to rely completely on spreadsheets unless you’ve got an army of associates to keep them up to date for you.
+Here are some of the things we’ve automated at a relatively small VC company.
+
+## Portfolio news in Slack
+When a press article appears about one of our portfolio companies we get notified about it in a Slack channel. We’re big users of Slack as you will see.
+
+{% include local_image.html image="slack1.png" caption="News about portfolio companies can be seen in a Slack channel" %}
+
+We can add new news sources at any time. And adding a new portfolio company is as easy as adding a tag to a contact in our database.
+
+## Category news in Slack
+We’re also interested in news stories about certain industries. In this example we’re seeing press articles about blockchain companies, for example:
+
+{% include local_image.html image="slack2.png" caption="News articles on a particular subject in a Slack channel" %}
+
+Once the company is added to our database we just need to tag it with blockchain for it to start appearing here when it gets press coverage.
+
+## Company queries from Slack
+While we’re in Slack, we might want to discuss or share information about a company from our database. We’ve got a Slack command for that:
+
+{% include local_image.html image="slackbot.png" caption="Getting information about a particular company in Slack" %}
+
+## Incoming pitches
+Companies who are looking for funding often send us their pitches.
+This happens several times a day and it would be a time-consuming manual task to add the company to our database, upload the pitch document and copy-and-paste the email as a note.
+
+Instead we’ve automated the process. When a pitch request arrives it first of all gets sent to a Slack channel to notify our investment team:
+
+{% include local_image.html image="slack3.png" caption="All unsolicited pitches are logged in this Slack channel" %}
+
+Then it gets added to a list of companies waiting for triage. This happens in a Podio app that we’ve built to manage the selection process:
+
+{% include local_image.html image="podio1.png" caption="Unsolicited pitches are managed using this Podio app" %}
+
+## Managing the investment pipelines
+Yes, that’s pipelines plural.
+We may be allocating capital from our current fund while we’re looking for target companies for the next fund in 12 months time.
+
+We also have partnerships with corporate investors who may have different investment criteria from our own funds.
+That means we need to build a separate shortlist for each investment partner.
+
+We can add companies manually into the Podio app:
+
+{% include local_image.html image="podio2.png" caption="Adding a new company to the list using Podio" %}
+
+Or using Evernote’s Web Clipper we can add a company to an Evernote notebook.
+Companies added to this notebook get automatically added to our database and to the investment long-list.
+
+{% include local_image.html image="evernote.png" caption="Adding a new company to the list using Evernote Web Clipper" %}
+
+Finally there’s good old Slack. If we discuss a particular company in this magic Slack channel it gets added to the list automatically:
+
+{% include local_image.html image="slack4.png" caption="Adding a new company to the list by mentioning it in a Slack channel" %}
+
+## Gathering information
+During the basic research on a company can be another time-consuming task, and not a very rewarding one.
+
+We’ve automated the gathering of basic information, using data sources that are free (such as news publishers and PR aggregators) and others that cost us money (like Crunchbase for example).
+
+This is all pulled into a central database where the company details are stored, along with associated people like founders and advisors.
+We store details of previous funding rounds and current investors.
+We listen to the company’s Twitter feed and its own news updates.
+
+{% include local_image.html image="xenapto.png" caption="Company information and press articles are automatically gathered by the Xenapto engine" %}
+
+This is the central component of the system but it’s one of the least used by actual people.
+The investment team prefer to use Slack, Podio and Evernote to do their jobs so the central database is a source of data and a receiver of updates from these applications rather than a place where they spend their time.
+
+## Research & development
+We’ve built some time-saving tools but there’s much more we plan to do.
+
+The central database is a sizeable resource of relationship data that we’re starting to put into a social graph format, like a private LinkedIn.
+This will let us analyse the ecosystem formed by our portfolio companies, advisors and co-investors to find ways they can help each other better:
+
+{% include local_image.html image="neo4j.png" caption="Visualization of a fragment of the partners’ social graph" %}
+
+It’s amazing what you can do with a relatively small amount of data.
+
+## What now?
+Using productivity tools like Slack, Evernote and Podio lets people be flexible about how they work, and we delegate the user experience to the apps they are already happy with.
+Its a win-win from our point of view — our people get the best-of-breed tool and we don’t have the cost of trying to build equivalent user interfaces.
+
+There are workflows that are too complicated for general-purpose productivity apps.
+Things like event management and capital raising need specialist systems and we’re rolling these out now,
+but so long as all the teams can share data across the systems we’re in a good place.
+
+The company evolves very rapidly.
+Its information architecture is evolving along with it.
+It’s impossible to say what tomorrow’s requirements will be but it will be fun finding out.

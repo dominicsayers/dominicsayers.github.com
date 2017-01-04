@@ -10,7 +10,7 @@ layout: default
 
 <header class="blog-header">
     {% if site.logo %}
-      <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.author_image }}')">{{ site.title }}</a>
+      <a class="blog-logo" href="{{ site.url }}" style="background-image: url('{{ site.author_image }}')">{{ site.title }}</a>
     {% endif %}
     <h1 class="blog-title">{{ site.title }}</h1>
     <h2 class="blog-description">{{ site.description }}</h2>
@@ -53,7 +53,7 @@ layout: default
             <section class="post-excerpt" itemprop="description">
               {% if post.thumbnail %}
                 <div class="thumbnail" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-                  <img itemprop="url" src="{{ post.thumbnail }}">
+                  <img itemprop="url" src="/assets/article_images/{{ post.slug }}/{{ post.thumbnail }}">
                     <meta itemprop="height" content="250">
                     <meta itemprop="width" content="250">
                   </img>

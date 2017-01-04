@@ -1,6 +1,6 @@
 <!-- meta start -->
 {% assign author = post.author | default: page.author | default: site.author %}
-{% assign pubdate = default: page.date | default: site.time %}
+{% assign pubdate = page.date | default: site.time %}
 {% assign iso_date = pubdate | date: '%Y-%m-%d' %}
 
 <h1 class="post-title" itemprop="headline"><span itemprop="name">{{ page.title }}</span></h1>

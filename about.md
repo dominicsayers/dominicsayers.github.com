@@ -39,7 +39,7 @@ title: About
 
 I expect policies to be based on [evidence](https://en.wikipedia.org/wiki/Evidence-based_policy){:target="_blank"}. My moral reasoning is [post-conventional](https://en.wikipedia.org/wiki/Lawrence_Kohlberg's_stages_of_moral_development#Post-Conventional){:target="_blank"}.
 
-I am proud of my wife who runs [her own business](http://insitearts.com){:target="_blank"} in the construction industry. I have two small but rapidly growing children who make me happy.
+I am proud of my wife who runs [her own business](http://insitearts.com){:target="_blank"} in the construction industry. I have two growth-stage children who make me happy.
 
 ---
 

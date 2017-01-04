@@ -1,7 +1,7 @@
 ---
 title: In which I tell you my password for this website
 date: 2012-08-21 16:22:19.000000000 +01:00
-thumbnail: https://cdn.arstechnica.net/wp-content/uploads/2012/08/exponential-wall2-640x398.png
+thumbnail: exponential-wall2.png
 image: password.jpg
 tags: featured
 ---
