@@ -2,6 +2,11 @@
 title: About
 ---
 
+<div class="buttons">
+  <a href="/portfolio/" class="btn btn-info">Developer portfolio</a>
+  <a href="/cv/" class="btn btn-info">CV</a>
+</div>
+
 ## Pigeonholes
 
 <table>
@@ -51,66 +56,7 @@ Hit me up on [{{ site.social.twitter.name }}]({{ site.social.twitter.url }}) or 
 
 ## Hire me
 
-I'm an independent-minded and creative technologist. More details on my [CV page](/cv) if you'd like to talk about working together.
-
----
-
-## Find me elsewhere
-
-<table class="six-column">
-  <tbody>
-    <tr>
-      <td>
-        <a target="_blank" href="{{ site.social.linkedin.url }}">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2000px-LinkedIn_Logo.svg.png" height="24" />
-        </a>
-      </td>
-      <td colspan="2">
-        <a href="{{ site.social.twitter.url }}" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="false">
-          @dominicsayers
-        </a>
-        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-      </td>
-      <td>
-        <a target="_blank" href="{{ site.social.quora.url }}">
-          <img src="https://qsf.ec.quoracdn.net/-3-images.logo.wordmark_default.svg4c6ca969eb5c90e5.svg" height="24" />
-        </a>
-      </td>
-      <td>
-        <a target="_blank" href="{{ site.social.angellist.url }}">
-          <img src="https://alist.co/assets/shared/AngelList-1f53479b7b3bd75d55d9dd0d396a738b1a6943a7885dcd2fa3e4f1adb048f61e.png" height="20" />
-        </a>
-      </td>
-      <td>
-        <a target="_blank" href="{{ site.social.crunchbase.url }}">
-          <img src="https://www.crunchbase.com/app/images/logo_crunchbase.svg" height="28" style="background-color: rgb(2, 136, 209); padding: 0 8px;" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3">
-        <h3><a target="_blank" href="{{ site.social.github.url }}">Github</a></h3>
-        <iframe src="https://githubbadge.appspot.com/dominicsayers?a=0" style="border: 0;height: 120px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
-      </td>
-      <td colspan="2">
-        <h3><a target="_blank" href="{{ site.social.stack-overflow.url }}">Stack Overflow</a></h3>
-        <a target="_blank" href="{{ site.social.stack-overflow.url }}">
-          <img src="https://stackoverflow.com/users/flair/63349.png" width="208" height="58" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3">
-        <h3><a target="_blank" href="http://cricdata.org">Cricdata</a></h3>
-        <p>RESTful API for cricket data</p>
-      </td>
-      <td colspan="3">
-        <h3><a target="_blank" href="http://isemail.info">Isemail</a></h3>
-        <p>Checking email address syntax</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+I'm an independent-minded and creative technologist. More details on my [CV page](/cv) and my [portfolio as a developer](/portfolio) if you'd like to talk about working together.
 
 ---
 

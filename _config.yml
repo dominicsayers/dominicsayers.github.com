@@ -104,3 +104,49 @@ social:
     contactable: true
   disqus:
     handle: dominicsayers
+
+# Developer portfolio
+portfolio:
+  -
+    name: Xenapto
+    url: https://xenapto.com
+    thumbnail: xenapto.png
+    technology:
+      - Ruby on Rails
+      - PostgreSQL
+      - ElasticSearch
+      - Javascript
+      - Bootstrap
+      - Redis
+      - Resque
+      - TDD
+      - Continuous integration
+      - Agile
+  -
+    name: Anthemis Group
+    url: https://anthemis.com
+    thumbnail: anthemis.png
+    technology:
+      - Ruby on Rails
+      - Slack
+      - Podio
+      - Neo4J
+      - Email (inbound + outbound)
+      - Evernote
+  -
+    name: Cricket data
+    url: http://cricdata.org
+    thumbnail: cricdata.png
+    technology:
+      - Ruby on Rails
+      - MongoDB
+  -
+    name: is_email
+    url: http://isemail.info
+    thumbnail: isemail.png
+    technology:
+      - Email
+      - Open source
+      - RFCs
+      - Standards
+      - PHP

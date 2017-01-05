@@ -153,6 +153,47 @@ body
     font-weight: 400
   @include custom-links(center)
 
+.portfolio
+  margin: 0 30px
+
+  .portfolio-items
+    margin: 30px -30px
+
+    .portfolio-item
+      display: inline-block
+      float: left
+      width: 250px
+      margin: 0 30px 30px
+      padding: 0
+
+      &:first-child
+        padding-left: 0
+
+      &:last-child
+        padding-right: 0
+
+      ul
+        list-style: none
+        margin: 0 -6px
+
+      li
+        float: left
+        margin: 3px
+        padding: 3px 4px
+        border: 1px solid #CCC
+        border-radius: 3px
+        background-color: #E8E8E8
+        font-size: 1em
+        font-family: $font-sans
+        line-height: 1
+
+      .thumbnail
+        margin-bottom: 12px
+        height: 156px
+
+  .author
+    clear: both
+
 .content
   width: 100%
   max-width: 640px
@@ -259,11 +300,14 @@ body
     @include smallcaps
     margin-right: 10px
 
+.button-bar
+  text-align: center
+  margin-bottom: 30px
 .buttons
-  margin: 0 auto 30px
-  width: 21em
-  a
-    width: 10em
+  display: inline-block
+  .btn
+    width: 11em
+    margin-bottom: 3px
 
 .site-footer
   margin: 0 auto
@@ -362,6 +406,11 @@ body
     .post-meta
       font-family: $font-sans
       padding: 60px 0 30px
+
+      .post-details
+        div, h4, time
+          display: inline-block
+
     .post-title
       font-weight: 700
       font-style: normal
@@ -487,6 +536,12 @@ body
         padding: 0 0 golden-ratio(1rem,  1)
     ol li
       list-style-type: decimal
+    .buttons
+      font-family: $font-sans
+      margin: 0
+      a
+        color: white
+        text-decoration: none
   .bottom-teaser
     padding: 50px 0
     font-family: $font-sans
@@ -620,6 +675,7 @@ body
       text-shadow: 0px 1px 16px rgba(0,0,0,0.5), 0px 0px 1px rgba(0,0,0,0.5)
     .custom-links
       margin: 0 0 50px
+      line-height: 2
     .btn
       display: inline-block
       text-align: center

@@ -14,9 +14,12 @@ layout: default
     {% endif %}
     <h1 class="blog-title">{{ site.title }}</h1>
     <h2 class="blog-description">{{ site.description }}</h2>
-    <div class="buttons">
-      <a href="/about/" class="btn btn-info">About me</a>
-      <a href="/cv/" class="btn btn-info">CV</a>
+    <div class="button-bar">
+      <div class="buttons">
+        <a href="/about/" class="btn btn-info">About me</a>
+        <a href="/cv/" class="btn btn-info">CV</a>
+        <a href="/portfolio/" class="btn btn-info">Developer portfolio</a>
+      </div>
     </div>
     <div class="custom-links">
       {% for social_data in site.social %}
