@@ -134,6 +134,13 @@ portfolio:
       - Email (inbound + outbound)
       - Evernote
   -
+    name: Dominic Sayers
+    url: https://www.dominicsayers.com
+    thumbnail: dominicsayers.png
+    technology:
+      - Jekyll
+      - Github Pages
+  -
     name: Cricket data
     url: http://cricdata.org
     thumbnail: cricdata.png

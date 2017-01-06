@@ -2,6 +2,32 @@
 title: Dominic Sayers
 ---
 
+<div class="print">
+  <table>
+    <tr>
+      <td>Email address</td><td>dominic@saye.rs</td>
+    </tr>
+    <tr>
+      <td>Nationality</td><td>British</td>
+    </tr>
+    <tr>
+      <td>Date of birth</td><td>3rd January 1964</td>
+    </tr>
+    <tr>
+      <td>More information</td><td>{{ site.url }}</td>
+    </tr>
+  </table>
+</div>
+
+<div class="buttons">
+  <a href="/portfolio/" class="btn btn-info">Developer portfolio</a>
+  <a href="/about/" class="btn btn-info">About me</a>
+</div>
+
+<div class="print-instructions">
+  <a href="javascript:window.print()">Print this page</a> for a PDF version that includes contact details
+</div>
+
 ## Summary
 
 I am a deeply experienced technologist and technology manager. I've worked in organizations from startups to international investment banks.
@@ -10,7 +36,7 @@ My core skills are pushing a project in the best technical direction to ensure e
 
 ## Anthemis Group
 
-Anthemis Group is a London-based fintech VC ([https://anthemis.com](https://anthemis.com)) with a diversified portfolio of 35 best-in-class, high growth, digitally native financial services companies based across the globe. Anthemis are also investors in my own startup, Xenapto.
+[Anthemis Group](http://anthemis.com) is a London-based fintech VC with a diversified portfolio of 35 best-in-class, high growth, digitally native financial services companies based across the globe. Anthemis are also investors in my own startup, Xenapto.
 
 ### Technology Director (2015-present)
 
