@@ -24,6 +24,10 @@
     {% endif %}
   {% endif %}
 
+  {% if site.social.facebook.app_id %}
+  <meta property="fb:app_id" content="{{ site.social.facebook.app_id }}" />
+  {% endif %}
+
   <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
   {% if page.excerpt %}

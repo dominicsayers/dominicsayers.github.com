@@ -70,6 +70,7 @@ social:
     share_title: "?title="
     share_link: "&amp;u="
     contactable: true
+    app_id: 1853716274905194
   github:
     url:  https://github.com/dominicsayers
     desc: Fork me on github
