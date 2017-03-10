@@ -1,0 +1,57 @@
+---
+layout: post
+title: Connecting a Raspberry Pi Sense HAT with a ribbon cable
+date: 2017-03-10 16:00:00 +0000
+image: raspi.jpg
+thumbnail: raspi.jpg
+tags: featured
+---
+
+My son is working with a [Raspberry Pi](https://www.raspberrypi.org/) and a [Sense HAT](https://www.raspberrypi.org/products/sense-hat/) at school (he is 11 and in Year 7). He enjoys this stuff so I thought I'd get him the equivalent kit to experiment with at home.
+
+Then I [read](http://raspberrypi.stackexchange.com/questions/45788/why-does-the-sense-hat-astro-pi-show-the-wrong-temperature-and-humidity) that the temperature sensor suffers from its proximity to the CPU. The CPU gets hot (obviously) making the temperature sensor inaccurate.
+
+The obvious answer was to move the Sense HAT physically away from the Raspberry Pi by connecting it with a cable long enough to distance it from the heat of the CPU.
+
+We could not find anywhere all the information we needed to do this successfully. It's not hard but it took us a few goes to get it right. Here's how you can achieve this quickly and easily.
+
+## Ingredients
+
+* Raspberry Pi 3 Model B
+* Raspberry Pi Sense HAT
+* [40-pin GPIO ribbon cable](https://www.amazon.co.uk/gp/product/B00QE3KZQ6)
+* [40-pin coupler adapter (male pins)](https://www.amazon.co.uk/gp/product/B003PU1EVG)
+
+## How to connect the Sense HAT to the Raspberry Pi
+
+![Sense HAT connected](http://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160837/sense-hat/2017-03-10_14.38.01.jpg)
+
+The least intuitive part of this for me was that you can remove the connector block from underneath the Sense HAT. I needed pliers to get a strong enough grip.
+
+Thanks to [sparkie1](https://www.raspberrypi.org/forums/viewtopic.php?f=104&t=131826#p1020473) for this crucial bit of knowledge.
+
+![Connector block removed](http://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160835/sense-hat/2017-03-10_14.34.04.jpg)
+
+Having removed the connector block from underneath the Sense HAT, you can now plug in the 40-pin coupler adapter into the **top** of the Sense HAT.
+
+![Coupler ready to plug into the top of the Sense HAT](http://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160838/sense-hat/2017-03-10_14.34.20.jpg)
+
+Here's the coupler adapter plugged in. You can get your cat to help with this if you want.
+
+![Coupler plugged in](http://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160839/sense-hat/2017-03-10_14.34.33.jpg)
+
+Then plug the ribbon cable into the coupler adapter so the cable doesn't obscure the Sense HAT's LED grid.
+
+![Ribbon cable plugged into Sense HAT](http://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160835/sense-hat/2017-03-10_14.37.23.jpg)
+
+Then plug the other end of the ribbon cable into the Raspberry Pi's GPIO connector this way round:
+
+![Ribbon cable plugged into Raspberry Pi](http://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160837/sense-hat/2017-03-10_14.38.01.jpg)
+
+Then you're good to go. Here it is with the lid back on:
+
+![Lid back on](http://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160834/sense-hat/2017-03-10_14.38.44.jpg)
+
+And in full effect:
+
+![Bling!](http://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160835/sense-hat/2017-03-10_14.40.13.jpg)
