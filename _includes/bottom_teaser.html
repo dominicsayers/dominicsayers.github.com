@@ -1,0 +1,25 @@
+        <!-- bottom-teaser -->
+        <div class="bottom-teaser cf">
+          <div class="isLeft">
+            <h5 class="index-headline featured"><span>Written by</span></h5>
+            <div class="author">
+              <div class="author-image" style="background-image: url({{site.author_image}})">Blog Logo</div>
+              <h4>{{ site.author }}</h4>
+              <p class="bio">{{author.bio}}</p>
+              <hr>
+              <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
+            </div>
+          </div>
+
+          <div class="isRight">
+            <h5 class="index-headline featured"><span>Supported by</span></h5>
+            <footer class="site-footer">
+              <div class="poweredby">Proudly published with <a href="https://jekyllrb.com"> Jekyll</a></div>
+              <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}"> <span class="tooltip"> <i class="fa fa-rss"></i> You should subscribe to my feed.</span></a>
+              <div class="inner">
+                <div class="copyright">All content copyright <a href="{{ blog.url }}/">{{site.author}}</a> &copy; {{ site.time | date: '%Y' }}<br>All rights reserved.</div>
+              </div>
+            </footer>
+          </div>
+        </div>
+        <!-- bottom-teaser -->

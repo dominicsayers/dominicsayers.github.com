@@ -1,0 +1,26 @@
+        <!-- page-image -->
+        {% if page.image %}
+          <div class="article-image">
+            <div class="post-image-image" style="background-image: url({% if page.image %}/assets/article_images/{{ page.slug }}/{{ page.image }}{% endif %})">
+              Article Image
+            </div>
+            <div class="post-image-image2" style="background-image: url({% if page.image2 %}/assets/article_images/{{ page.slug }}/{{ page.image2 }}{% endif %})">
+              Article Image
+            </div>
+            <div class="post-meta">
+              {% include meta.html %}
+              <div style="text-align:center">
+                <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
+              </div>
+            </div>
+          </div>
+        {% else %}
+          <div class="noarticleimage">
+            <div class="post-meta">
+              {% include meta.html %}
+              </div>
+            </div>
+          </div>
+        {% endif %}
+        <!-- page-image -->
+

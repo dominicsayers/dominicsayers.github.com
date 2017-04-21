@@ -1,0 +1,40 @@
+        <!-- recipe post-content -->
+        <div class="post-content">
+          <div class="post-reading">
+            <span class="post-reading-time"></span> read
+          </div>
+
+          <!-- ingredients -->
+          <div>
+            <h3>Ingredients</h3>
+             <ul>
+                {% for ingredient in page.ingredients %}
+                <li itemprop="ingredients">{{ ingredient[1] }} {{ ingredient[0] }}</li>
+                {% endfor %}
+             </ul>
+          </div>
+          <!-- ingredients -->
+
+          {{content}}
+
+          <!-- instructions -->
+          <div itemprop="recipeInstructions">
+            <h3>Instructions</h3>
+            <ol>
+              <li>{{ page.instructions | join: '</li> <li>' }}</li>
+            </ol>
+          </div>
+          <!-- instructions -->
+        </div>
+
+        {% if page.prepmins or page.cookmins %}
+          <dl class="dl-horizontal">
+            {% if page.prepmins %}<dt>Preparation time</dt><dd>{{ page.prepmins }} mins<span itemprop="prepTime" class="invisible">PT{{ page.prepmins }}M</span></dd>{% endif %}
+            {% if page.cookmins %}<dt>Cooking time</dt><dd>{{ page.cookmins }} mins<span itemprop="cookTime" class="invisible">PT{{ page.cookmins }}M</span></dd>{% endif %}
+          </dl>
+        {% endif %}
+
+        <p class="invisible" itemprop="description">{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}</p>
+        <p class="invisible" itemprop="nutrition" itemscope itemtype="http://schema.org/NutritionInformation"><span itemprop="calories">{{ page.calories | default: 2 }}</span></p>
+        <p class="invisible" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"><span itemprop="ratingValue">5</span><span itemprop="reviewCount">1</span></p>
+        <!-- recipe post-content -->

@@ -24,34 +24,34 @@ We could not find anywhere all the information we needed to do this successfully
 
 ## How to connect the Sense HAT to the Raspberry Pi
 
-![Sense HAT connected](http://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160837/sense-hat/2017-03-10_14.38.01.jpg)
+![Sense HAT connected](https://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160837/sense-hat/2017-03-10_14.38.01.jpg)
 
 The least intuitive part of this for me was that you can remove the connector block from underneath the Sense HAT. I needed pliers to get a strong enough grip.
 
 Thanks to [sparkie1](https://www.raspberrypi.org/forums/viewtopic.php?f=104&t=131826#p1020473) for this crucial bit of knowledge.
 
-![Connector block removed](http://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160835/sense-hat/2017-03-10_14.34.04.jpg)
+![Connector block removed](https://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160835/sense-hat/2017-03-10_14.34.04.jpg)
 
 Having removed the connector block from underneath the Sense HAT, you can now plug in the 40-pin coupler adapter into the **top** of the Sense HAT.
 
-![Coupler ready to plug into the top of the Sense HAT](http://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160838/sense-hat/2017-03-10_14.34.20.jpg)
+![Coupler ready to plug into the top of the Sense HAT](https://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160838/sense-hat/2017-03-10_14.34.20.jpg)
 
 Here's the coupler adapter plugged in. You can get your cat to help with this if you want.
 
-![Coupler plugged in](http://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160839/sense-hat/2017-03-10_14.34.33.jpg)
+![Coupler plugged in](https://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160839/sense-hat/2017-03-10_14.34.33.jpg)
 
 Then plug the ribbon cable into the coupler adapter so the cable doesn't obscure the Sense HAT's LED grid.
 
-![Ribbon cable plugged into Sense HAT](http://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160835/sense-hat/2017-03-10_14.37.23.jpg)
+![Ribbon cable plugged into Sense HAT](https://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160835/sense-hat/2017-03-10_14.37.23.jpg)
 
 Then plug the other end of the ribbon cable into the Raspberry Pi's GPIO connector this way round:
 
-![Ribbon cable plugged into Raspberry Pi](http://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160837/sense-hat/2017-03-10_14.38.01.jpg)
+![Ribbon cable plugged into Raspberry Pi](https://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160837/sense-hat/2017-03-10_14.38.01.jpg)
 
 Then you're good to go. Here it is with the lid back on:
 
-![Lid back on](http://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160834/sense-hat/2017-03-10_14.38.44.jpg)
+![Lid back on](https://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160834/sense-hat/2017-03-10_14.38.44.jpg)
 
 And in full effect:
 
-![Bling!](http://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160835/sense-hat/2017-03-10_14.40.13.jpg)
+![Bling!](https://res.cloudinary.com/dominicsayers/image/upload/c_scale,w_640/v1489160835/sense-hat/2017-03-10_14.40.13.jpg)

@@ -1,0 +1,31 @@
+        <!-- post-footer -->
+        <footer class="post-footer">
+          <div class="tags">
+            <p class="m-t-3 text-muted font-italic">
+              <small>
+                {% if page.tags.size > 0 %}
+                  <i class="fa fa-tag{% if page.tags.size > 1 %}s{% endif %}"></i>
+
+                  {% for page_tag in page.tags %}
+                    {% assign tag_page = site.tag_pages | where: "slug", page_tag %}
+                    {% assign tag_data = tag_page[0] %}
+                    <a href="{{ tag_data.url }}">{{ page_tag }}</a>{% unless forloop.last %}, {% endunless %}
+                  {% endfor %}
+                {% endif %}
+              </small>
+            </p>
+          </div>
+          <div class="share">
+            {% for social_data in site.social %}
+              {% assign icon = social_data[0] %}
+              {% assign social = social_data[1] %}
+              {% if social.share_url != null %}
+                <a class="icon-{{ icon }}" href="{{ social.share_url }}{{ social.share_title }}{{ page.title | cgi_escape}}{{ social.share_link }}{{site.url}}{{page.id}}"
+                  onclick="window.open(this.href, '{{ icon }}-share', 'width=550,height=255');return false;">
+                <i class="fa fa-{{ icon }}"></i><span class="hidden">{{ icon }}</span>
+                </a>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </footer>
+        <!-- post-footer -->

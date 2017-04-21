@@ -1,8 +1,6 @@
 ---
 ---
-
 @import 'syntax-highlighting'
-
 @import 'bourbon/bourbon'
 
 .cf
@@ -12,7 +10,6 @@ $rs: 16px
 
 $font-serif: Linux Libertine
 $font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
-
 
 @mixin respond-to($breakpoint)
   @media only screen and (max-width: $breakpoint + px)
@@ -551,6 +548,20 @@ body
       a
         color: white
         text-decoration: none
+  .post-footer
+    .tags
+      float: left
+    .share
+      float: right
+      text-align: right
+      a
+        text-decoration: none
+        color: #bbb
+        padding-left: 12px
+        .hidden
+          display: none
+        &:hover
+          color: #333
   .bottom-teaser
     padding: 50px 0
     font-family: $font-sans
@@ -627,17 +638,6 @@ body
           padding-bottom: 18px
           font-weight: 700
           color: #333
-.share
-  text-align: right
-  padding: 20px 0 0
-  a
-    text-decoration: none
-    color: #bbb
-    padding-left: 12px
-    .hidden
-      display: none
-    &:hover
-      color: #333
 
 .bottom-closer
   width: 100%

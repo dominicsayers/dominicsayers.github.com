@@ -96,7 +96,7 @@ social:
   skype:
     name: Skype
     handle: dominicsayers
-    url: skype:dominicsayers
+    url: skype:dominicsayers?call
     desc: Chat to me on Skype
     contactable: true
   envelope:

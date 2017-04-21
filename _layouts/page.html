@@ -5,7 +5,7 @@
   {% include head.html %}
   <body itemscope itemtype="https://schema.org/Article">
     {% include header.html %}
-    <main class="content" role="main">
+    <main class="content">
       <article class="post">
         {% if page.image %}
         <div class="article-image">
@@ -26,10 +26,9 @@
           </div>
         </div>
         {% endif %}
-        <section class="post-content">
-          <a name="topofpage"></a>
+        <div class="post-content">
           {{content}}
-        </section>
+        </div>
       </article>
 
       {% include author.html %}
