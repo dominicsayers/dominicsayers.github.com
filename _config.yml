@@ -110,13 +110,26 @@ social:
 # Developer portfolio
 portfolio:
   -
+    name: OpenCorporates
+    url: https://opencorporates.com
+    thumbnail: oc.png
+    technology:
+      - Ruby on Rails
+      - MySQL
+      - Elasticsearch
+      - Redis
+      - Resque
+      - TDD
+      - Continuous integration
+      - Agile
+  -
     name: Xenapto
     url: https://xenapto.com
     thumbnail: xenapto.png
     technology:
       - Ruby on Rails
       - PostgreSQL
-      - ElasticSearch
+      - Elasticsearch
       - Javascript
       - Bootstrap
       - Redis
