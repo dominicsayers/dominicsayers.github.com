@@ -154,6 +154,8 @@ portfolio:
     thumbnail: dominicsayers.png
     technology:
       - Jekyll
+      - Liquid
+      - Front matter
       - Github Pages
   -
     name: Cricket data
