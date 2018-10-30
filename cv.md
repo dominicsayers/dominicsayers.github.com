@@ -34,13 +34,21 @@ I am a deeply experienced technologist and technology manager. I've worked in or
 
 My core skills are pushing a project in the best technical direction to ensure early and repeatable successes but I also like to get my hands dirty with code.
 
+## OpenCorporates
+
+### Senior Engineer (2017-present)
+
+I joined OpenCorporates to help them develop and launch some new features that were being asked for by clients and potential clients. In addition, I have taken the lead in developing a more mature change management process for technical changes with greater awareness of separation of duties. An additional focus of mine has been on managing technical debt, leading to a greater awareness of the volume of debt that the organization is carrying.
+
+For the development work we use a test-driven approach using RSpec. The app is written in Ruby on Rails and uses a MySQL database with extensive indexing in Elasticsearch. Asynchronous jobs are managed by Resque. For the new features I chose a micro-services architecture and developed the new code outside the legacy monolithic app with a clearly-defined interface to it. This is the approach we will take from now on, gradually reducing the amount of functionality delivered by the legacy code to a minimum while developing new features in a more maintainable way.
+
 ## Anthemis Group
 
 [Anthemis Group](http://anthemis.com) is a London-based fintech VC with a diversified portfolio of 35 best-in-class, high growth, digitally native financial services companies based across the globe. Anthemis are also investors in my own startup, Xenapto.
 
-### Technology Director (2015-present)
+### Technology Director (2015-2017)
 
-I took Anthemis Group from spreadsheets to an automated investment pipeline supporting multiple portfolios. To do this I built a platform for Anthemis's investment activities allowing us to collate information from many sources into the selection process. Rapid gathering of all available data enables a smooth, automated funnel from initial interest through to Investment Committee documents.
+I took Anthemis Group from spreadsheets to an automated investment pipeline supporting multiple portfolios. To do this I built a platform for Anthemis's investment activities allowing them to collate information from many sources into the selection process. Rapid gathering of all available data enables a smooth, automated funnel from initial interest through to Investment Committee documents.
 
 I enhanced the platform to support Anthemis Group's advisory activities, allowing us to efficiently assess and shortlist investment targets on behalf of clients with diverse investment theses.
 
