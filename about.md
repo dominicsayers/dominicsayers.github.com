@@ -33,7 +33,7 @@ title: About
     </tr>
     <tr>
       <td>I am from <em>Yorkshire</em></td>
-      <td><img src="https://pbs.twimg.com/profile_images/1023842778692952064/mIMFfTAs_400x400.jpg" height="27" /></td>
+      <td><img src="https://cdn.pixabay.com/photo/2017/06/02/10/40/yorkshire-rose-2365926_960_720.png" height="27" /></td>
     </tr>
     <tr>
       <td>I live in <em>London</em></td>
