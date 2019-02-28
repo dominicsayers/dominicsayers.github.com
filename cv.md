@@ -36,7 +36,7 @@ My core skills are pushing a project in the best technical direction to ensure e
 
 ## OpenCorporates
 
-### Senior Engineer (2017-present)
+### Tech Lead (2017-present)
 
 I joined OpenCorporates to help them develop and launch some new features that were being asked for by clients and potential clients. In addition, I have taken the lead in developing a more mature change management process for technical changes with greater awareness of separation of duties. An additional focus of mine has been on managing technical debt, leading to a greater awareness of the volume of debt that the organization is carrying.
 
