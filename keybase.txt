@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/dominicsayers
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.dominicsayers.com
+  * I am dominicsayers (https://keybase.io/dominicsayers) on keybase.
+  * I have a public key with fingerprint B651 4151 50E7 DD12 F38B  296E 29B7 CD7B E9D2 81AD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101ecd96558bba100fec4bec591f7ff10fdeb59fe6d0ab38a03c442d8c5e91a7f040a",
+      "fingerprint": "b651415150e7dd12f38b296e29b7cd7be9d281ad",
+      "host": "keybase.io",
+      "key_id": "29b7cd7be9d281ad",
+      "kid": "0101ace9b912986ecf9d720d0c40a3b4b92280006ff221458c3abb0a2d17418af7110a",
+      "uid": "d52c21b6412e17a68e4900064eb00c00",
+      "username": "dominicsayers"
+    },
+    "service": {
+      "hostname": "www.dominicsayers.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1565959306,
+  "expire_in": 157680000,
+  "prev": "17437e6e91e4df401338a7872ef12103590e60f46bdb9bb0432eeb8abaf31e4e",
+  "seqno": 72,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMJhAnicbZJbaFRHGMc3641uFW+0BmywOQpBycaZOXMus15ebGu9YEHUWJKwzuWb
+9TTJnu3ZTdIYQq1YtN5SfVBoI4QaFIxXWrSWSjSKFEuhBF9KWx9aQmnAVlBD0+6D
+cxalFPo0zMz//5v/931ze9aURKpq6dXven4f/eB81bc3T3ckWrYNHuixRKi6rUyP
+1QqVBdoUFEvZ1kBZGQthhEEq5jqOLwTHCGmQVIB0GNae1hhpBcJhGlyFuLB9jmxJ
+KVG+dIBh7mlEEbfqLR3kcxAVoiBfMljhOphiBzsIPKUw0bYvCHOBMOFJ5QlgiviY
+K2PcGRZjhwkneBEagtCcmU22Eu9/9P/m5hKYYJgw3wWpmfIIUkiaOLagghHiI4Rc
+rQnB1PGlzYVAnCjsUexz7WFcyd1RwSmHSIKFSzEB7HHXB8piNwWBkEQoFhYhyvN2
+iNVhe5APZJF3Q1S0eustc9UZSIi7G5fzTNbV1dXwH2mDDNsNqRCFpVCGbUays1Qq
+FDMxotRdqHhAZJ/RsiLIK9NV4+g05iDMWxlslLIUxHjsuA5zmI3cegveKwQRZINY
+4XhuXDiK34FOgzQF2x64ZlpAlaYI22aKnu8R0JhgZDsMgYs0dYUSzPSI2gRA+Fxw
+bRsLWHF97+ZDK+MRk5PnDLMY5PK81BGB1Ttyo3lqoiqVmD4tGX+3ROqFOc8/4ar+
+GeXU+T+t0YH9S1a/dbZp4+I/Pm+7//Gi47VfP/hx/O99T/zjs6Ple6Y0oyE92Tz4
+80e7911Oea/xg2uWTR6YTFfnztysGkt8unib39vvntt6hR3bUqO3rqef1B5eUN5Q
++8Mbw7v/Wbjhy0WXjvQ3rXv/0PavZpKLLbf2/2o1NR5Nzu6buHul7+Fwfcs3R4ZJ
+V7I1vXd8YCpMNL7y6Jc5u346XROt/6ImnXrpaq7uYceFxxNudXh42tw7398zhAdv
+DpUvrN68/e2xlwfCwevHRh7tndew9m4y+fqHs07uarzTNrP8Kq0+MZ4b+Ot++p17
+Y7dWjazY2LvgWl9mNL3j1PyVmz4bOli3fMdvL5avPQUQSEWE
+=oFkG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dominicsayers
+
+==================================================================
+
