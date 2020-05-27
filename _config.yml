@@ -64,14 +64,6 @@ social:
     share_title: '?text='
     share_link: "&amp;url="
     contactable: true
-  facebook:
-    url:	https://facebook.com/dominicsayers
-    desc: Connect with me facebook
-    share_url: https://www.facebook.com/sharer.php
-    share_title: "?title="
-    share_link: "&amp;u="
-    contactable: true
-    app_id: 1853716274905194
   github:
     url:  https://github.com/dominicsayers
     desc: Fork me on github
