@@ -30,23 +30,31 @@ title: Dominic Sayers
 
 ## Summary
 
-I am a deeply experienced technologist and technology manager. I've worked in organizations from startups to international investment banks.
+I am an experienced technology leader with excellent communication skills with both the engineering community and fellow leaders. I've worked in leadership roles in organizations from startups to international investment banks.
 
-My core skills are pushing a project in the best technical direction to ensure early and repeatable successes but I also like to get my hands dirty with code.
+I can help an organization develop maturity in its engineering processes. I believe in hiring great people and letting them do their jobs.
 
 ## Undisclosed company
 
+This fully funded Series A company offers a capability uplift in a particular public sector market. It has developed some unique technology IP and has 25 engineers working in various disciplines.
+
+### VP Engineering (interim, 2020-present)
+
+I am currently leading the engineering effort across multiple teams and representing the engineering community at executive meetings. While in this interim role I have made improvements to our architecture & design process and begun work on a series of KPIs to surface the progress we are making towards the organization's long-term goals. I've helped the tech leads in engineering step up to full leadership roles by creating an engineering board where wider policy and strategy issues can be agreed. I have put in place a squad-based structure which will allow us to build out the team from its current size to one an order of magnitude bigger.
+
 ### Principal Engineer (2019-present)
 
-I am recruiting for and aligning a development team at an undisclosed private company. The company, and my team, are committed to world-class engineering standards and consistently excellent performance. My role is to set those standards, align the current and future members of the team with them, and allow them to become the best engineers they can. I'll add more detail when possible.
+I am recruiting for and aligning a product development team. The company, and my team, are committed to world-class engineering standards and consistently excellent performance. My role is to set those standards, align the current and future members of the team with them, and allow them to become the best engineers they can. In the months I've been working with them we've made improvements in all areas of the workflow from git commit discipline to CI/CD validation. I have encouraged more pair programming using remote pairing tools while we are working in lockdown; this has been so successful we'll likely continue this when we are allowed back into the office.
 
 ## OpenCorporates
+
+[OpenCorporates](https://opencorporates.com/) is a privately-held company that collates global company information for corporate clients with Know Your Client and Anti Money Laundering requirements. It also makes the company data freely available to investigators looking for international fraud and tax evasion crimes.
 
 ### Tech Lead (2017-2019)
 
 I joined OpenCorporates to help them develop and launch some new features that were being asked for by clients and potential clients. In addition, I have taken the lead in developing a more mature change management process for technical changes with greater awareness of separation of duties. An additional focus of mine has been on managing technical debt, leading to a greater awareness of the volume of debt that the organization is carrying.
 
-For the development work we use a test-driven approach using RSpec. The app is written in Ruby on Rails and uses a MySQL database with extensive indexing in Elasticsearch. Asynchronous jobs are managed by Resque. For the new features I chose a micro-services architecture and developed the new code outside the legacy monolithic app with a clearly-defined interface to it. This is the approach we will take from now on, gradually reducing the amount of functionality delivered by the legacy code to a minimum while developing new features in a more maintainable way.
+We chose a service-oriented architecture for the new features and developed the new code outside the legacy monolithic app with a clearly-defined interface to it. This approach allowed us to work freely on the new requirements, gradually reducing the amount of functionality delivered by the legacy code to a minimum while developing new features in a more maintainable way.
 
 ## Anthemis Group
 
