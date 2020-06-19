@@ -8,22 +8,6 @@ title: Developer portfolio
 </div>
 
 <div class="portfolio-items">
-  {% for portfolio_data in site.portfolio %}
-  <div class="portfolio-item">
-    <h3>{{ portfolio_data.name }}</h3>
-    <div class="thumbnail" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-      <a href="{{ portfolio_data.url }}" target="portfolio">
-        <img itemprop="url" src="/assets/article_images{{ page.url }}{{ portfolio_data.thumbnail }}">
-      </a>
-    </div>
-    <ul>
-      {% for technology in portfolio_data.technology %}
-        <li>{{ technology }}</li>
-      {% endfor %}
-    </ul>
-  </div>
-  {% endfor %}
-
   <div class="portfolio-item">
     <h3>Github</h3>
     <div class="thumbnail" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
@@ -50,4 +34,46 @@ title: Developer portfolio
       <li>Community contributor</li>
     </ul>
   </div>
+
+  <div class="portfolio-item">
+    <h3>Rubocop</h3>
+    <div class="thumbnail" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+      <a href="https://github.com/rubocop-hq/rubocop/pull/5358" target="portfolio">
+        <img itemprop="url" src="/assets/article_images{{ page.url }}rubocop.png">
+      </a>
+    </div>
+    <ul>
+      <li>Open source contributor</li>
+      <li>Coding standards</li>
+      <li>Ruby gem author</li>
+    </ul>
+  </div>
+
+  <div class="portfolio-item">
+    <h3>Internet RFCs</h3>
+    <div class="thumbnail" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+      <a href="https://www.rfc-editor.org/errata_search.php?submitter_name=Dominic+Sayers&presentation=table" target="portfolio">
+        <img itemprop="url" src="/assets/article_images{{ page.url }}rfc.png">
+      </a>
+    </div>
+    <ul>
+      <li>Internet standards</li>
+    </ul>
+  </div>
+
+  {% for portfolio_data in site.portfolio %}
+  <div class="portfolio-item">
+    <h3>{{ portfolio_data.name }}</h3>
+    <div class="thumbnail" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+      <a href="{{ portfolio_data.url }}" target="portfolio">
+        <img itemprop="url" src="/assets/article_images{{ page.url }}{{ portfolio_data.thumbnail }}">
+      </a>
+    </div>
+    <ul>
+      {% for technology in portfolio_data.technology %}
+        <li>{{ technology }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
 </div>
