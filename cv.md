@@ -8,10 +8,16 @@ title: Dominic Sayers
       <td>Email address</td><td>dominic@saye.rs</td>
     </tr>
     <tr>
+      <td>Date of birth</td><td>3rd January 1964</td>
+    </tr>
+    <tr>
       <td>Nationality</td><td>British</td>
     </tr>
     <tr>
-      <td>Date of birth</td><td>3rd January 1964</td>
+      <td>Security clearance</td><td>NPPV3 + SC</td>
+    </tr>
+    <tr>
+      <td>CPD</td><td>ITIL v3 Expert</td>
     </tr>
     <tr>
       <td>More information</td><td>{{ site.url }}</td>
@@ -36,9 +42,25 @@ I can help an organization develop maturity in its engineering processes. I beli
 
 ## Undisclosed company
 
-This fully funded Series A company offers a capability uplift in a particular public sector market. It has developed some unique technology IP and has 25 engineers working in various disciplines.
+This fully funded Series A company offers a capability uplift in a particular public sector market. It has developed some unique technology IP and has 35 engineers working in various disciplines.
 
-### VP Engineering (interim, 2020-present)
+### VP of Engineering (2020-present)
+
+<ul>
+  <li>Scaling a multi-skilled engineering team for a Series A B2B startup</li>
+  <li>Ensured engineering processes are ISO 27001 & ISO 27012 compliant as the company achieved ISO 27001 certification</li>
+  <li>Added on-prem deployment to a cloud-based platform</li>
+  <li>Built and introduced an innovative additional product to market</li>
+  <li>Significant refactoring of legacy codebase while keeping the lights on</li>
+  <li>Delivered a highly secure platform with regular CREST-certified pentesting, intended for use in challenging environments</li>
+  <li>Delivered products that use diverse technologies</li>
+  <ul class="print">
+    <li>WebRTC with STUN/TURN</li>
+    <li>Telematics & geospatial</li>
+    <li>Map tiling</li>
+    <li>Merkle tree immutability</li>
+  </ul>
+</ul>
 
 I am currently leading the engineering effort across multiple teams and representing the engineering community at executive meetings. While in this interim role I have made improvements to our architecture & design process and begun work on a series of KPIs to surface the progress we are making towards the organization's long-term goals. I've helped the tech leads in engineering step up to full leadership roles by creating an engineering board where wider policy and strategy issues can be agreed. I have put in place a squad-based structure which will allow us to build out the team from its current size to one an order of magnitude bigger.
 
