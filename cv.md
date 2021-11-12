@@ -40,7 +40,7 @@ I am an experienced technology leader with excellent communication skills with b
 
 I can help an organization develop maturity in its engineering processes. I believe in hiring great people and letting them do their jobs.
 
-## Undisclosed company
+## <span class="no-print">Undisclosed company</span><span class="print">Excession Technologies</span>
 
 This fully funded Series A company offers a capability uplift in a particular public sector market. It has developed some unique technology IP and has 35 engineers working in various disciplines.
 
