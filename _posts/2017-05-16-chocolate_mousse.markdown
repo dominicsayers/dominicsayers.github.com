@@ -14,13 +14,14 @@ ingredients:
   egg whites: 9
   egg yolks: 4
 instructions:
-  - Separate the eggs so you have the 9 whites in one bowl and the 4 yolks in the other
-  - Whisk the whites with a pinch of salt until you are able to hold the bowl upside down without them falling out 
-  - Add the sugar to the yolks and whisk
-  - Put the chocolate broken into pieces and the butter in a heat resistant container and heat in a ‘bain marie’ until it is smooth (not a single drop of  water should enter the container, or everything is ruined !)
-  - Stir briskly with the sugar and the yolks
-  - Mix gently the whites with this mixture using a big wooden spoon until it is smooth
-  - Put in the fridge for at least 8 hours
+  Instructions:
+    - Separate the eggs so you have the 9 whites in one bowl and the 4 yolks in the other
+    - Whisk the whites with a pinch of salt until you are able to hold the bowl upside down without them falling out
+    - Add the sugar to the yolks and whisk
+    - Put the chocolate broken into pieces and the butter in a heat resistant container and heat in a ‘bain marie’ until it is smooth (not a single drop of  water should enter the container, or everything is ruined !)
+    - Stir briskly with the sugar and the yolks
+    - Mix gently the whites with this mixture using a big wooden spoon until it is smooth
+    - Put in the fridge for at least 8 hours
 prepmins: 30
 cookmins: 0
 ---
