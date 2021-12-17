@@ -44,15 +44,19 @@ I can help an organization develop maturity in its engineering processes. I beli
 
 This fully funded Series A company offers a capability uplift in a particular public sector market. It has developed some unique technology IP and has 35 engineers working in various disciplines.
 
-### VP of Engineering (2020-present)
+### VP of Engineering (March 2020-November 2021)
+
+As VP of Engineering I have hired team heads for the majority of my teams. We have worked together to build an overall engineering team that is empowered from top to bottom. Process and practice improvement ideas have come from all levels of the team and become accepted across every squad.
+
+As a member of the senior leadership team I have won acceptance of ideas about company structure and been a key part of achieving recognised security standards for the company.
 
 <ul>
   <li>Scaling a multi-skilled engineering team for a Series A B2B startup</li>
+  <li>Built and introduced an innovative additional product to market</li>
+  <li>Delivered a highly secure platform with regular CREST-certified pentesting, intended for use in challenging environments</li>
   <li>Ensured engineering processes are ISO 27001 & ISO 27012 compliant as the company achieved ISO 27001 certification</li>
   <li>Added on-prem deployment to a cloud-based platform</li>
-  <li>Built and introduced an innovative additional product to market</li>
   <li>Significant refactoring of legacy codebase while keeping the lights on</li>
-  <li>Delivered a highly secure platform with regular CREST-certified pentesting, intended for use in challenging environments</li>
   <li>Delivered products that use diverse technologies</li>
   <ul class="print">
     <li>WebRTC with STUN/TURN</li>
