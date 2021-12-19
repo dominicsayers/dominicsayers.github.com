@@ -7,7 +7,7 @@ thumbnail: white-loaf.jpg
 tags:
   - featured
   - recipe
-keywords: bread, white loaf, mixer
+keywords: bread, white loaf, Kenwood Chef, Kenwood, kmix, mixer
 category: Breadmaking
 cuisine: British
 ingredients:

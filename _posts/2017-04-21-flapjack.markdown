@@ -27,7 +27,7 @@ prepmins: 20
 cookmins: 15
 totalmins: 35
 yield: [32, 32 pieces]
-keywords: oats, school lunch, breakfast bar
+keywords: flapjack, condensed milk, oats, school lunch, breakfast bar
 category: Snack
 cuisine: British
 ---
