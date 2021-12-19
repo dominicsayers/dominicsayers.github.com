@@ -24,6 +24,11 @@ instructions:
     - Put in the fridge for at least 8 hours
 prepmins: 30
 cookmins: 0
+totalmins: 30
+yield: [500, 500g]
+keywords: luxury, dessert, chocolate
+category: Dessert
+cuisine: French
 ---
 This recipe is from our friends the Poggios. We first ate it at their house and when they came to dinner we insisted they brought chocolate mousse with them.
 

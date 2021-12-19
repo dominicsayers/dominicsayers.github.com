@@ -22,9 +22,14 @@ instructions:
     - Pour into the baking tin and smooth out with the back of a large spoon.
     - Cook for about 15-20 minutes. When the flapjack starts to brown around the edges of the tin, take it out of the oven - it should still be relatively pale in the middle.
     - Leave to cool for a few minutes before cutting into pieces.
-calories: 10547
+calories: 330
 prepmins: 20
 cookmins: 15
+totalmins: 35
+yield: [32, 32 pieces]
+keywords: oats, school lunch, breakfast bar
+category: Snack
+cuisine: British
 ---
 This recipe makes enough flapjack for two hungry children for several weeks of school lunches.
 
