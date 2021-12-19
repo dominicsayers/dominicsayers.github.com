@@ -50,7 +50,7 @@ calories: 110
 prepmins: 140
 cookmins: 30
 totalmins: 170
-yield: 1 loaf
+yield: [1, 1 loaf]
 ---
 <!--excerpt.start-->
 This is how I make an easy and quick white loaf using my kitchen mixer. It's trouble-free and reliable and a great time-saver.
