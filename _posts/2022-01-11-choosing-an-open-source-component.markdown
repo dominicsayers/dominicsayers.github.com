@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Choosing an open source component
-date: 2021-01-11 08:00:00 +0000
+date: 2022-01-11 08:00:00 +0000
 image: dependency_title_inverted.png
 thumbnail: dependency_component.png
 tags:
