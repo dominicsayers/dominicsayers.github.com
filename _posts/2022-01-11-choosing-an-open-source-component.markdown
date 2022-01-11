@@ -7,7 +7,13 @@ thumbnail: dependency_component.png
 tags:
   - featured
 ---
-Before I approve the use of an open source component in one of my projects, there are some simple checks I ask the team to do before we use it. These are the checks we do - you may have others, in which case I'd love to hear about them. Hit me up in the comments or on social media.
+Before I approve the use of an open source component in one of my projects, there are some simple checks I ask the team to do before we use it. Below are the checks we do - you may have others, in which case I'd love to hear about them. Hit me up in the comments or on social media.
+
+I'm writing this in the week that the [maintainer](https://twitter.com/marak/status/1479200803948830724?s=20) of two widely-used Node packages deliberately [sabotaged his own code](https://github.com/Marak/colors.js/commit/074a0f8ed0c31c35d13d28632bd8a049ff136fb6) to make some kind of point, causing problems for many other projects.
+
+It's a living example of the fragility expressed in this famous [XKCD cartoon](https://xkcd.com/2347/):
+
+![Dependency](https://imgs.xkcd.com/comics/dependency.png)
 
 ## License
 
