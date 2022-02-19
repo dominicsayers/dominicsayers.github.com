@@ -22,6 +22,7 @@ instructions:
     - Stir briskly with the sugar and the yolks
     - Mix gently the whites with this mixture using a big wooden spoon until it is smooth
     - Put in the fridge for at least 8 hours
+calories: 110
 prepmins: 30
 cookmins: 0
 totalmins: 30
