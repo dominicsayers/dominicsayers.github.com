@@ -9,7 +9,7 @@ GEM
       zeitwerk (~> 2.2, >= 2.2.2)
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
-    bourbon (7.0.0)
+    bourbon (7.2.0)
       thor (~> 1.0)
     coffee-script (2.4.1)
       coffee-script-source
@@ -288,4 +288,4 @@ DEPENDENCIES
   jemoji
 
 BUNDLED WITH
-   2.3.7
+   2.3.8
