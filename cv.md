@@ -40,13 +40,21 @@ I am an experienced technology leader with excellent communication skills with b
 
 I can help an organization develop maturity in its engineering processes. I believe in hiring great people and letting them do their jobs.
 
-## <span class="no-print">Undisclosed company</span><span class="print">Excession Technologies</span>
+## Neural Alpha
 
-This fully funded Series A company offers a capability uplift in a particular public sector market. It has developed some unique technology IP and has 35 engineers working in various disciplines.
+Neural Alpha is a specialist software consultancy with both financial services and ESG clients.
 
-### VP of Engineering (March 2020-November 2021)
+### Interim CTO (March 2022-present)
 
-As VP of Engineering I have hired team heads for the majority of my teams. We have worked together to build an overall engineering team that is empowered from top to bottom. Process and practice improvement ideas have come from all levels of the team and become accepted across every squad.
+The permanent CTO had chosen to leave the company so Neural Alpha brought me in as a proven problem solver to navigate a way forward. The former CTO was a hands-on engineer and the maturity of process below what was ideal. I have identified the problem areas and am putting in place a robust plan to steer the company into a more sustainable future in technology terms. We will address team structure and separation of duties, redundancy of people (no single points of failure) and of process (failsafe, repeatable and automated). The team I am building is capable of restoring client relationships where they have begun to suffer and expanding into new products when the need arises.
+
+## Excession Technologies
+
+This fully funded Series A company offers a capability uplift in a particular public sector market. It has developed some unique technology IP and has 36 engineers working in various disciplines.
+
+### VP of Engineering (March 2020-March 2022)
+
+As VP of Engineering I hired team heads for the majority of my teams. We worked together to build an overall engineering team that is empowered from top to bottom. Process and practice improvement ideas came from all levels of the team and become accepted across every squad.
 
 As a member of the senior leadership team I have won acceptance of ideas about company structure and been a key part of achieving recognised security standards for the company.
 
@@ -66,11 +74,11 @@ As a member of the senior leadership team I have won acceptance of ideas about c
   </ul>
 </ul>
 
-I am currently leading the engineering effort across multiple teams and representing the engineering community at executive meetings. While in this interim role I have made improvements to our architecture & design process and begun work on a series of KPIs to surface the progress we are making towards the organization's long-term goals. I've helped the tech leads in engineering step up to full leadership roles by creating an engineering board where wider policy and strategy issues can be agreed. I have put in place a squad-based structure which will allow us to build out the team from its current size to one an order of magnitude bigger.
+I led the engineering effort across multiple teams and represented the engineering community at executive meetings. While in this role I made improvements to the architecture & design process and began work on a series of KPIs to surface the progress we are making towards the organization's long-term goals. I helped the tech leads in engineering step up to full leadership roles by creating an engineering board where wider policy and strategy issues can be agreed. I put in place a squad-based structure which will allow us to build out the team from its current size to one an order of magnitude bigger.
 
-### Principal Engineer (2019-present)
+### Principal Engineer (2019-2020)
 
-I am recruiting for and aligning a product development team. The company, and my team, are committed to world-class engineering standards and consistently excellent performance. My role is to set those standards, align the current and future members of the team with them, and allow them to become the best engineers they can. In the months I've been working with them we've made improvements in all areas of the workflow from git commit discipline to CI/CD validation. I have encouraged more pair programming using remote pairing tools while we are working in lockdown; this has been so successful we'll likely continue this when we are allowed back into the office.
+I recruited and coached two product engineering teams. The company, and my teams, are committed to world-class engineering standards and consistently excellent performance. My role was to set those standards, align the current and future members of the team with them, and allow them to become the best engineers they can. In the months I worked with them we made improvements in all areas of the workflow from git commit discipline to CI/CD validation. I have encouraged more pair programming using remote pairing tools while we were working in lockdown.
 
 ## OpenCorporates
 
