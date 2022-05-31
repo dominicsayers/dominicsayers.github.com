@@ -10,13 +10,13 @@ Sorry if this is obvious or trite but the problem isn't Trump or Jacob Rees-Mogg
 
 ![Someone whose identity is important to them](http://res.cloudinary.com/dominicsayers/image/upload/e_tilt_shift:32/v1529583952/blog/2018-06-21-the-future-is-bleak/An-English-Defence-League-012.jpg)
 
-Slightly more than half the people in the world seem to think that identity is the most important thing to them. 
+Slightly more than half the people in the world seem to think that identity is the most important thing to them.
 
 Being part of a tribe and seeing that tribe victorious over its enemies is more important than overall prosperity.
 
 ![The Inter-City Firm](https://res.cloudinary.com/dominicsayers/image/upload/v1529585303/blog/2018-06-21-the-future-is-bleak/ICF.jpg)
 
-This is the behaviour common to the Inter-City Firm in the 1980s, the Burundi Civil War in the 1990s, the Tea Party in the 2000s, UKIP, Gamergate and balkanisation in general. 
+This is the behaviour common to the Inter-City Firm in the 1980s, the Burundi Civil War in the 1990s, the Tea Party in the 2000s, UKIP, Gamergate and balkanisation in general.
 
 Two generations or more of liberal education in the UK and the US have not produced an electorate rational enough to prevent Trump or Brexit. Identity politics is majority politics.
 
@@ -30,7 +30,7 @@ Two things have helped reinvigorate it after decades of being a minority passtim
 
 2. Climate change and disastrous Western intervention in north African states, the Middle East and, earlier, in Central and South America has led to massive population movements. Millions of people are fleeing death and poverty and arriving at the borders of the West.
 
-    ![Fleeing from climate change and conflict](https://res.cloudinary.com/dominicsayers/image/upload/v1529583952/blog/2018-06-21-the-future-is-bleak/climate_refugees_0.jpg)
+    ![Fleeing from climate change and conflict](/assets/article_images/the-future-is-bleak/Darfur_refugee_camp_in_Chad.jpg)
 
 I'm not aware of any society in history that has prevented mass migration. Borders are large, migrants are many and the cost of turning an entire country into a fortress has always been unsustainable.
 
@@ -51,12 +51,12 @@ Today's best case scenario is that Democrats get working majorities in November,
 * A majority of people can be made to believe their identity is under threat, and that is the most important thing to them.
 
 
-It's a bleak outlook. 
+It's a bleak outlook.
 
-I'm not sure what can be done but signing petitions isn't it. 
+I'm not sure what can be done but signing petitions isn't it.
 
 Education and rational suasion isn't it; the simpler lie will win. Truth is powerless.
 
-It needs to be direct action of some sort, on a massive scale. Fascism has to be tainted with losing, like it was in 1945. 
+It needs to be direct action of some sort, on a massive scale. Fascism has to be tainted with losing, like it was in 1945.
 
 That will only suppress it for a while; our children will have to do it all over again. But this time it's our turn. Suit up.
