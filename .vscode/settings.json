@@ -2,5 +2,10 @@
     "sonarlint.connectedMode.project": {
         "connectionId": "Dominic Sayers",
         "projectKey": "dominicsayers_dominicsayers.github.com"
-    }
+    },
+    "cSpell.words": [
+        "ckjgcq",
+        "fitvids",
+        "teaserimage"
+    ]
 }
