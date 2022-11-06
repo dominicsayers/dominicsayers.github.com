@@ -55,6 +55,15 @@ social:
     url:  https://uk.linkedin.com/in/dominicsayers
     desc: Connect with me on LinkedIn
     contactable: true
+  mastodon:
+    name: Mastodon
+    handle: "@dominicsayers@mastodon.social"
+    url:  https://mastodon.social/@dominicsayers
+    desc: Follow me on Mastodon
+    share_url: https://mastodon.social/share
+    share_title: '?text='
+    share_link: "&amp;url="
+    contactable: true
   twitter:
     name: Twitter
     handle: dominicsayers
@@ -70,15 +79,6 @@ social:
   stack-overflow:
     url:  http://stackoverflow.com/users/63349/dominic-sayers
     desc: Follow me on StackOverflow
-  quora:
-    url:  https://www.quora.com/profile/Dominic-Sayers
-    desc: Follow me on Quora
-  angellist:
-    url:  https://angel.co/dominicsayers
-    desc: Follow me on AngelList
-  # medium:
-  #   url: https://medium.com/@dominic.sayers
-  #   desc: Follow me on Medium
   wikipedia-w:
     url: https://en.wikipedia.org/wiki/User:Dominic_Sayers
     desc: My contributions to Wikipedia
