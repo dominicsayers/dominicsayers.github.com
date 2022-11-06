@@ -25,9 +25,14 @@ layout: default
       {% for social_data in site.social %}
         {% assign icon = social_data[0] %}
         {% assign social = social_data[1] %}
+        {% if icon == "envelope" %}
+          {% assign icon_set = "fa" %}
+        {% else %}
+          {% assign icon_set = "fa-brands" %}
+        {% endif %}
         {% if social.url %}
-            <a class="icon-{{ icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}" target="social">
-              <i class="fa fa-{{ icon }}"></i>
+            <a class="icon-{{ icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %} target="social" rel="me">
+              <i class="{{ icon_set }} fa-{{ icon }}"></i>
             </a>
         {% endif %}
       {% endfor %}
