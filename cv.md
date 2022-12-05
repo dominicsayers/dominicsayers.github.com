@@ -44,9 +44,11 @@ I can help an organization develop maturity in its engineering processes. I beli
 
 Neural Alpha is a specialist software consultancy with both financial services and ESG clients.
 
-### Interim CTO (March 2022-present)
+### Chief Product & Technology Officer (March 2022-present)
 
-The permanent CTO had chosen to leave the company so Neural Alpha brought me in as a proven problem solver to navigate a way forward. The former CTO was a hands-on engineer and the maturity of process below what was ideal. I have identified the problem areas and am putting in place a robust plan to steer the company into a more sustainable future in technology terms. We will address team structure and separation of duties, redundancy of people (no single points of failure) and of process (failsafe, repeatable and automated). The team I am building is capable of restoring client relationships where they have begun to suffer and expanding into new products when the need arises.
+Neural Alpha brought me in on an interim basis to retain key clients and ensure stability and continuity of delivery. The former CTO was a hands-on engineer and the maturity of process was way below what was ideal. I identified the problem areas and put in place a robust plan to steer the company into a more sustainable future in technology terms. We have addressed team structure and separation of duties, redundancy of people (no single points of failure) and of process (failsafe, repeatable and automated). The team I am building has made good progress in restoring the key client relationships and we are jointly planning a long-term programme of work.
+
+We are now in a phase of both expanding activities with existing clients, but also bringing our own data products to market. I have small teams working in both areas so I am maintaining a balance between being an active contributor while allowing the team leads the room to take responsibility for their area.
 
 ## Excession Technologies
 
