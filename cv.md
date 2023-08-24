@@ -44,7 +44,7 @@ I can help an organization develop maturity in its engineering processes. I beli
 
 | Company | Role | Notes |
 |-|-|-|
-| Neural Alpha | CTO | Repairing an in-danger strategic relationship with a financial institution |
+| Neural Alpha | CTO | Repairing an at-risk strategic relationship with a financial institution |
 | Excession | VP Engineering | Scaling a team from 25 to a target size of 75+ |
 | Anthemis | Entrepreneur-in-residence | Working with VCs from seed stage to beyond series A. Conducting Tech Due Diligence. Fundraising |
 | Dresdner Kleinwort | Global Head of IT for Investment Banking | Releationship management with senior bank officials. Integration of divisional systems. Rationalisation. |
@@ -53,7 +53,7 @@ I can help an organization develop maturity in its engineering processes. I beli
 
 Neural Alpha is a specialist software consultancy with both financial services and ESG clients.
 
-### Chief Product & Technology Officer (March 2022-present)
+### Chief Technology Officer (March 2022-present)
 
 Neural Alpha brought me in on an interim basis to retain key clients and ensure stability and continuity of delivery. The former CTO was a hands-on engineer and the maturity of process was way below what was ideal. I identified the problem areas and put in place a robust plan to steer the company into a more sustainable future in technology terms. We have addressed team structure and separation of duties, redundancy of people (no single points of failure) and of process (failsafe, repeatable and automated). The team I am building has made good progress in restoring the key client relationships and we are jointly planning a long-term programme of work.
 
