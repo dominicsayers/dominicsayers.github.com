@@ -40,6 +40,15 @@ I am an experienced technology leader with excellent communication skills with b
 
 I can help an organization develop maturity in its engineering processes. I believe in hiring great people and letting them do their jobs.
 
+## Career highlights
+
+| Company | Role | Notes |
+|-|-|-|
+| Neural Alpha | CTO | Repairing an in-danger strategic relationship with a financial institution |
+| Excession | VP Engineering | Scaling a team from 25 to a target size of 75+ |
+| Anthemis | Entrepreneur-in-residence | Working with VCs from seed stage to beyond series A. Conducting Tech Due Diligence. Fundraising |
+| Dresdner Kleinwort | Global Head of IT for Investment Banking | Releationship management with senior bank officials. Integration of divisional systems. Rationalisation. |
+
 ## Neural Alpha
 
 Neural Alpha is a specialist software consultancy with both financial services and ESG clients.
