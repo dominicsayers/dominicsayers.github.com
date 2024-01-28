@@ -1,0 +1,100 @@
+        <!-- recipe post-content -->
+        <div class="post-content">
+          <div class="post-reading">
+            <span class="post-reading-time"></span> read
+          </div>
+
+          <!-- ingredients -->
+          <div>
+            <h3>Ingredients</h3>
+            <ul>{% for ingredient in page.ingredients %}
+              <li itemprop="recipeIngredient">{{ ingredient[1] }} {{ ingredient[0] }}</li>{% endfor %}
+            </ul>
+          </div>
+          <!-- ingredients -->
+
+          {{content}}
+
+          <!-- instructions -->
+          <div itemprop="recipeInstructions">{% for instruction in page.instructions %}
+            <h3 itemprop="HowToSection" id="{{ instruction[0] | slugify }}">{{ instruction.heading }}</h3>
+            <img src="{{ instruction.image.url }}" alt="{{ instruction.image.caption }}">
+            <ol>{% for step in instruction.steps %}
+              <li itemprop="HowToStep">{{ step }}</li>{% endfor %}
+            </ol>{% endfor %}
+          </div>
+          <!-- instructions -->
+
+          <!-- timing -->{% if page.prepmins or page.cookmins %}
+          <dl class="dl-horizontal">
+            {% if page.prepmins %}<dt>Preparation time</dt><dd>{{ page.prepmins }} mins<span itemprop="prepTime" class="invisible">PT{{ page.prepmins }}M</span></dd>{% endif %}
+            {% if page.cookmins %}<dt>Cooking time</dt><dd>{{ page.cookmins }} mins<span itemprop="cookTime" class="invisible">PT{{ page.cookmins }}M</span></dd>{% endif %}
+          </dl>
+          {% endif %}<!-- timing -->
+        </div>
+        <!-- recipe post-content -->
+
+        <!-- Google Recipe -->
+        <p class="invisible" itemprop="description">{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}</p>
+        <p class="invisible" itemprop="nutrition" itemscope itemtype="http://schema.org/NutritionInformation"><span itemprop="calories">{{ page.calories | default: 2 }}</span></p>
+        <p class="invisible" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"><span itemprop="ratingValue">5</span><span itemprop="reviewCount">1</span></p>
+        {% if page.category %}<p class="invisible" itemprop="recipeCategory">{{ page.category }}</p>{% endif %}
+        {% if page.cuisine %}<p class="invisible" itemprop="recipeCuisine">{{ page.cuisine }}"</p>{% endif %}
+        {% if page.keywords %}<p class="invisible" itemprop="keywords">{{ page.keywords }}"</p>{% endif %}
+        {% if page.yield %}<p class="invisible" itemprop="recipeYield">{{ page.yield[0] }}</p>{% endif %}
+        <!-- Google Recipe -->
+
+        <!-- Google Guided Recipe -->
+        <script type="application/ld+json">{% capture image_url %}{{ site.url }}/assets/article_images/{{ page.slug }}/{{ page.image | default: page.thumbnail }}{% endcapture %}
+          {
+            "@context": "https://schema.org/",
+            "@type": "Recipe",
+            "name": "{{ page.title }}",
+            "image": [
+              "{{ site.url }}/assets/article_images/{{ page.slug }}/{{ page.image | default: page.thumbnail }}"
+            ],
+            "author": {
+              "@type": "Person",
+              "name": "{{ author }}"
+            },
+            "datePublished": "{{ pubdate | date_to_long_string }}",
+            "description": "{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}",
+            {% if page.prepmins %}"prepTime": "PT{{ page.prepmins }}M",{% endif %}
+            {% if page.cookmins %}"cookTime": "PT{{ page.cookmins }}M",{% endif %}
+            {% if page.totalmins %}"totalTime": "PT{{ page.totalmins }}M",{% endif %}
+            {% if page.keywords %}"keywords": "{{ page.keywords }}",{% endif %}
+            {% if page.yield %}"recipeYield": ["{{ page.yield | join: '", "' }}"],{% endif %}
+            {% if page.category %}"recipeCategory": "{{ page.category }}",{% endif %}
+            {% if page.cuisine %}"recipeCuisine": "{{ page.cuisine }}",{% endif %}
+            {% if page.calories %}"nutrition": {
+              "@type": "NutritionInformation",
+              "calories": "{{ page.calories }}"
+            },{% endif %}
+            "recipeIngredient": [{% for ingredient in page.ingredients %}
+              "{{ ingredient[1] }} {{ ingredient[0] }}"{% if forloop.index != page.ingredients.size %},{% endif %}{% endfor %}
+            ],
+            "recipeInstructions": [
+              {% for instruction in page.instructions %}{
+                "@type": "HowToSection",
+                "name": "{{ instruction[0] }}",
+                "itemListElement": [
+                  {% for step in instruction[1] %}{
+                    "@type": "HowToStep",
+                    "name": "{{ step }}",
+                    "text": "{{ step }}",
+                    "image": "{{ image_url }}",
+                    "url": "{{ page.url | absolute_url }}#{{ instruction[0] | slugify }}"
+                  }{% if forloop.index != instruction[1].size %},{% endif %}
+                  {% endfor %}
+                ]
+              }{% if forloop.index != page.instructions.size %},{% endif %}
+              {% endfor %}
+            ],
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5",
+              "ratingCount": "1"
+            },
+            "video": {}
+          }
+          </script>

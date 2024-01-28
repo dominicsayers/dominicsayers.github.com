@@ -1,0 +1,20 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    <main class="content">
+      <article class="post" itemscope itemtype="http://schema.org/Recipe">
+        {% include article_image.html %}
+        {% include recipe_content_with_step_images.html %}
+        {% include post_footer.html %}
+        {% include bottom_teaser.html %}
+        {% include disqus.html %}
+      </article>
+    </main>
+    {% include bottom_closer.html %}
+    {% include javascripts.html %}
+  </body>
+</html>
