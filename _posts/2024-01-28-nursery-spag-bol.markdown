@@ -54,6 +54,7 @@ instructions:
     heading: Variations
     steps:
       - Simply omit the meat for a delicious pasta sauce or pizza topping.
+      - This recipe works well with Quorn mince (or similar). Fry it up like the meat but use copious olive oil to make up for the taste lost by not using meat. Like 50-100ml of olive oil if you can afford it.
 calories: 110
 prepmins: 10
 cookmins: 20
