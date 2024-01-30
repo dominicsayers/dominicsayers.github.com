@@ -72,7 +72,7 @@ instructions:
     steps:
       - Lift the pork belly pieces out onto a baking tray and retain the sauce in a pan
       - Mix the sweet chilli sauce, white wine vinegar, teriyaki marinade and brown sugar together and pour over the pork pieces
-      - Roast in a hot oven for 15-20 minutes
+      - Roast in a hot oven for 15 minutes. Not 20 like I did here.
   -
     heading: Assemble the dish
     image:
