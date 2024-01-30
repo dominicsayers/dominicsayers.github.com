@@ -2,7 +2,7 @@
 layout: recipe_with_step_images
 title: Nursery Spaghetti Bolognese
 date: 2024-01-28 08:00:00 +0100
-image: bay-leaves.jpg
+image: bowl-with-cheese.jpg
 thumbnail: bay-leaves.jpg
 tags:
   - featured
@@ -52,6 +52,9 @@ instructions:
       - Serve with spaghetti and grated parmesan cheese.
   -
     heading: Variations
+    image:
+      url: https://res.cloudinary.com/dominicsayers/image/upload/v1706638890/blog/2024-01-28-nursery-spag-bol/IMG20240129192544.jpg
+      caption: Nothing but yumminess
     steps:
       - Simply omit the meat for a delicious pasta sauce or pizza topping.
       - This recipe works well with Quorn mince (or similar). Fry it up like the meat but use copious olive oil to make up for the taste lost by not using meat. Like 50-100ml of olive oil if you can afford it.
