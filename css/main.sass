@@ -24,6 +24,7 @@ $font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
     margin-right: 8px
     margin-bottom: -10px
     float: left
+    background-image: url({{site.author_image}})
     background-size: cover
     border-radius: 100%
     text-indent: -9999px
@@ -91,6 +92,7 @@ body
     left: $rs/2
     width: $rs*2
     height: $rs*2
+    background-image: url({{ site.logo }})
     background-size: cover
     background-repeat: no-repeat
 
@@ -109,6 +111,7 @@ body
     bottom: 0
     z-index: 1
     text-indent: -9999px
+    {% if site.cover %}background-image: url({{ site.cover }}){% endif %}
 
 .blog-header
   width: 100%
@@ -132,6 +135,7 @@ body
     text-indent: -9999px
     border: 3px solid #fff
     background-color: #fff
+    background-image: url('{{ site.author_image }}')
     -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.3)
     -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.3)
     box-shadow: 0 1px 1px rgba(0,0,0,0.3)
@@ -349,6 +353,7 @@ body
         text-indent: -9999px
         padding-top: 33%
         z-index: 1
+        background-image: url({{site.author_image}})
       .post-image-image2
         display: none
     @media(max-width: 700px)
@@ -593,6 +598,7 @@ body
         width: 80px
         height: 80px
         float: left
+        background-image: url({{site.author_image}})
         background-size: cover
         border-radius: 100%
         text-indent: -9999px
@@ -650,6 +656,7 @@ body
     right: 0
     bottom: 0
     text-indent: -9999px
+    {%if site.cover %}background-image: url({{ site.cover }}){% endif %}
     background-size: cover
     background-repeat: no-repeat
     background-position: center
