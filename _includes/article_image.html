@@ -1,7 +1,7 @@
         <!-- page-image -->
         {% if page.image %}
           <div class="article-image">
-            <div class="post-image-image" style="background-image: url(/assets/article_images/{{ page.slug }}/{{ page.image }})">
+            <div class="post-image-image" style="background-image: url({% if page.image %}/assets/article_images/{{ page.slug }}/{{ page.image }}{% endif %})">
               Article Image
             </div>
             <div class="post-image-image2" style="background-image: url({% if page.image2 %}/assets/article_images/{{ page.slug }}/{{ page.image2 }}{% endif %})">
@@ -23,3 +23,4 @@
           </div>
         {% endif %}
         <!-- page-image -->
+
