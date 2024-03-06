@@ -8,9 +8,6 @@ title: Dominic Sayers
       <td>Email address</td><td>dominic@saye.rs</td>
     </tr>
     <tr>
-      <td>Date of birth</td><td>3rd January 1964</td>
-    </tr>
-    <tr>
       <td>Nationality</td><td>British</td>
     </tr>
     <tr>
