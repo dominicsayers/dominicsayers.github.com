@@ -42,7 +42,7 @@ I can help an organization develop maturity in its engineering processes. I beli
 | Company | Role | Notes |
 |-|-|-|
 | Neural Alpha | CTO | <span class="print">Repairing an at-risk</span><span class="no-print">Building on a</span> strategic relationship with a financial institution. Improving SDLC process. |
-| Excession | VP Engineering | Scaling a team from 25 to a target size of 75+. Gaining ISO 27001 certification. Improving SDLC process. |
+| Excession | VP Engineering | Completing the cloud migration of a complex system. Scaling a team from 25 to a target size of 75+. Gaining ISO 27001 certification. Improving SDLC process. |
 | Anthemis | Entrepreneur-in-residence | Working with VCs from seed stage to beyond series A. Conducting Tech Due Diligence. Fundraising. |
 | Dresdner Kleinwort | Global Head of IT for Investment Banking | Managing large teams (100+). Relationship management with senior bank officials. Integration of divisional systems. Rationalisation. |
 
@@ -58,13 +58,15 @@ We are now in a phase of both expanding activities with existing clients, but al
 
 ## Excession Technologies
 
-This fully funded Series A company offers a capability uplift in a particular public sector market. It has developed some unique technology IP and has 36 engineers working in various disciplines.
+This fully funded Series A company offered a capability uplift in a particular public sector market. It developed some unique technology IP and had 36 engineers working in various disciplines.
 
 ### VP of Engineering (March 2020-March 2022)
 
 As VP of Engineering I hired team heads for the majority of my teams. We worked together to build an overall engineering team that is empowered from top to bottom. Process and practice improvement ideas came from all levels of the team and become accepted across every squad.
 
 As a member of the senior leadership team I have won acceptance of ideas about company structure and been a key part of achieving recognised security standards for the company.
+
+I inherited a cloud migration project that had stalled before completion. I identified the blockers and managed the project through to completion. Some changes to roles and responsibilities for a small number of team members were needed.
 
 <ul>
   <li>Scaling a multi-skilled engineering team for a Series A B2B startup</li>
@@ -82,7 +84,7 @@ As a member of the senior leadership team I have won acceptance of ideas about c
   </ul>
 </ul>
 
-I led the engineering effort across multiple teams and represented the engineering community at executive meetings. While in this role I made improvements to the architecture & design process and began work on a series of KPIs to surface the progress we are making towards the organization's long-term goals. I helped the tech leads in engineering step up to full leadership roles by creating an engineering board where wider policy and strategy issues can be agreed. I put in place a squad-based structure which will allow us to build out the team from its current size to one an order of magnitude bigger.
+I led the engineering effort across multiple teams and represented the engineering community at executive meetings. While in this role I made improvements to the architecture & design process and began work on a series of KPIs to surface the progress we are making towards the organization's long-term goals. I helped the tech leads in engineering step up to full leadership roles by creating an engineering board where wider policy and strategy issues can be agreed. I put in place a squad-based structure which allowed us to build out the team from its original size to one an order of magnitude bigger.
 
 ### Principal Engineer (2019-2020)
 
@@ -137,6 +139,8 @@ I successfully oversaw the initial contact with the business lines up to the fin
 ## Commerzbank (then Dresdner Kleinwort)
 
 ### Global Head of IT, Investment Banking (2001-2008)
+
+I led a number of departments during my time at Dresdner Kleinwort, with a headcount that exceeded 100 engineers in the teams under my direct reports. As part of the IT senior leadership team I was a key part of managing the technology division through challenging times as both corporate actions and adverse economic conditions made restructuring an ongoing activity for multiple years.
 
 I oversaw the integration of the Investment Banking IT infrastructure into the Capital Markets equivalents. I halved the Investment Banking IT spend along with a 75% reduction in headcount.
 
