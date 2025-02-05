@@ -50,7 +50,7 @@ I am proud of my wife who runs [her own business](http://insitearts.com){:target
 
 ## Contact me
 
-Hit me up on [{{ site.social.twitter.name }}]({{ site.social.twitter.url }}) or [{{ site.social.linkedin.name }}]({{ site.social.linkedin.url }}) or any of the sites on the [home page](/). Or [email me]({{ site.social.envelope.url }}) if that's your thing.
+Hit me up on [{{ site.social.bluesky.name }}]({{ site.social.bluesky.url }}) or [{{ site.social.linkedin.name }}]({{ site.social.linkedin.url }}) or any of the sites on the [home page](/). Or [email me]({{ site.social.envelope.url }}) if that's your thing.
 
 ---
 
