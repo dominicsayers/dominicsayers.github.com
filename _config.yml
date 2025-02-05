@@ -1,5 +1,5 @@
 # Local server settings
-host: 0.0.0.0 # Ignored by Github Pages
+host: 127.0.0.1 # Ignored by Github Pages
 
 # Build settings
 url: "https://www.dominicsayers.com" # the base hostname & protocol for your site
@@ -45,8 +45,8 @@ cover: "/assets/images/bg_landing_page.jpg"
 
 name: 'Dominic Sayers'
 author: 'Dominic Sayers'
-author_image: "/assets/images/dominicsayers.jpg"
-author_thumb: "/assets/images/Dominic_2016_256px.jpg"
+author_image: "/assets/images/2025_square_eyes_centre_smallest.png"
+author_thumb: "/assets/images/2025_square_eyes_centre_smallest.png"
 
 # social icons and sharing options
 social:
@@ -64,12 +64,12 @@ social:
     share_title: '?text='
     share_link: "&amp;url="
     contactable: true
-  twitter:
-    name: Twitter
-    handle: dominicsayers
-    url:  https://twitter.com/dominicsayers
-    desc: Follow me on twitter
-    share_url: https://twitter.com/share
+  bluesky:
+    name: BlueSky
+    handle: "@bsky.dominicsayers.com"
+    url:  https://bsky.app/profile/bsky.dominicsayers.com
+    desc: Follow me on BlueSky
+    share_url: https://bsky.app/share
     share_title: '?text='
     share_link: "&amp;url="
     contactable: true
