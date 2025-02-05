@@ -11,14 +11,14 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   {% if site.social.bluesky.handle %}
-    <meta name="bluesky:card" content="summary" />
-    <meta name="bluesky:site" content="@{{ site.social.bluesky.handle }}" />
-    <meta name="bluesky:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-    <meta name="bluesky:image" content="{{ site.author_thumb | prepend: site.url }}" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@{{ site.social.bluesky.handle }}" />
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta name="twitter:image" content="{{ site.author_thumb | prepend: site.url }}" />
     {% if page.excerpt %}
-    <meta name="bluesky:description"  content="{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}" />
+    <meta name="twitter:description"  content="{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}" />
     {% elsif site.description %}
-    <meta name="bluesky:description" content="{{ site.description | strip_html | strip_newlines | truncate: 200 }}" />
+    <meta name="twitter:description" content="{{ site.description | strip_html | strip_newlines | truncate: 200 }}" />
     {% endif %}
   {% endif %}
 
