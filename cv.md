@@ -11,7 +11,7 @@ title: Dominic Sayers
       <td>Nationality</td><td>British</td>
     </tr>
     <tr>
-      <td>Security clearance</td><td>NPPV3 + SC</td>
+      <td>Security clearance (to 2022)</td><td>NPPV3 + SC</td>
     </tr>
     <tr>
       <td>CPD</td><td>ITIL v3 Expert</td>
@@ -33,7 +33,7 @@ title: Dominic Sayers
 
 ## Summary
 
-I am an experienced technology leader with excellent communication skills with both the engineering community and fellow leaders. I've worked in leadership roles in organizations from startups to international investment banks.
+I am an experienced technology leader with excellent communication skills with both the engineering community and non-technical stakeholders. I've worked in leadership roles in organizations from startups to international investment banks.
 
 I can help an organization develop maturity in its engineering processes. I believe in hiring great people and letting them do their jobs.
 
@@ -41,16 +41,31 @@ I can help an organization develop maturity in its engineering processes. I beli
 
 | Company | Role | Notes |
 |-|-|-|
+| Tussell | Head of Engineering | Insourcing a small engineering team to achieve greater velocity. Building out machine-to-machine channels to bring this data-led company into the LLM/AI era |
 | Neural Alpha | CTO | <span class="print">Repairing an at-risk</span><span class="no-print">Building on a</span> strategic relationship with a financial institution. Improving SDLC process. |
 | Excession | VP Engineering | Completing the cloud migration of a complex system. Scaling a team from 25 to a target size of 75+. Gaining ISO 27001 certification. Improving SDLC process. |
 | Anthemis | Entrepreneur-in-residence | Working with VCs from seed stage to beyond series A. Conducting Tech Due Diligence. Fundraising. |
 | Dresdner Kleinwort | Global Head of IT for Investment Banking | Managing large teams (100+). Relationship management with senior bank officials. Integration of divisional systems. Rationalisation. |
 
+## Tussell
+
+Tussell ingests poor quality public data about public sector procurement and turns it into a rich set of linked data. It does this so successfully that government departments are customers, knowing they can get better quality data from Tussell than from their own systems.
+
+### Head of Engineering (September 2025-present)
+
+Tussell hired me to insource an engineering function that had hitherto been delegated to a consultancy. I was able to hire a small, high quality team of engineers who rapidly and successfully took over all product engineering, devops and architectural functions.
+
+Tussell's blue chip customer base were increasingly interested in machine-to-machine access to Tussell's data. Many of the larger customers were already working in a largely AI-led world. I did a gap analysis between Tussell's then product portfolio and the expectations of this sort of customer, and put in place a plan to build out the enterprise components we needed to make a solid offering.
+
+We launched a REST API in April, and are currently completing a prototype MCP Server to enable customer's LLM environments to incorporate Tussell data into their inferences, with appropriate guardrails to ensure that Tussell's intellectual property was safeguarded.
+
+Our aim is to continually improve this platform using data-led evaluations so as to keep up with rapidly maturing and expanding customer expectations.
+
 ## Neural Alpha
 
 Neural Alpha is a specialist software consultancy with both financial services and ESG clients.
 
-### Chief Technology Officer (March 2022-present)
+### Chief Technology Officer (March 2022-August 2025)
 
 Neural Alpha initially brought me in on an interim basis to retain key clients and ensure stability and continuity of delivery. <span class="print">The former CTO was a hands-on engineer and the maturity of process was way below what was ideal. I identified the problem areas and put in place a robust plan to steer the company into a more sustainable future in technology terms.</span><span class="no-print">I identified key areas for improvement with a major financial services customer and built a solid relationship with them.</span> I have addressed team structure and separation of duties, redundancy of people (no single points of failure) and of process (failsafe, repeatable and automated). The team I am building has made good progress in <span class="no-print">enhancing</span><span class="print">restoring</span> the key client relationships and we are jointly planning a long-term programme of work.
 
