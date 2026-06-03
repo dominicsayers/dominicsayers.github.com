@@ -1,10 +1,13 @@
 source "https://rubygems.org"
 
-gem "github-pages" # "github-pages" includes "jekyll" gem
-gem "bourbon"
-gem "jemoji"
+ruby file: ".tool-versions"
 
-gem "webrick", "~> 1.8"
-gem "csv"
 gem "bigdecimal"
-gem "liquid", "~> 4.0.4"
+gem "csv"
+gem "jekyll-feed"
+gem "jekyll-sass-converter"
+gem "jekyll-sitemap"
+gem "jekyll"
+gem "jemoji"
+gem "kramdown-parser-gfm"
+gem "webrick"

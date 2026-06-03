@@ -8,6 +8,7 @@ permalink: :title/
 plugins:
   - jemoji
   - jekyll-sitemap
+  - jekyll-feed
 
 collections:
   tag_pages:
