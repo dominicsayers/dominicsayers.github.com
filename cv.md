@@ -42,7 +42,7 @@ I can help an organization develop maturity in its engineering processes. I beli
 
 | Company | Role | Notes |
 |-|-|-|
-| Tussell | Head of Engineering | Insourcing a small engineering team to achieve greater velocity. Building out machine-to-machine channels to bring this data-led company into the LLM/AI era |
+| Tussell | CTO | Insourcing a small engineering team to achieve greater velocity. Building out machine-to-machine channels to bring this data-led company into the LLM/AI era |
 | Neural Alpha | CTO | <span class="print">Repairing an at-risk</span><span class="no-print">Building on a</span> strategic relationship with a financial institution. Improving SDLC process. |
 | Excession | VP Engineering | Completing the cloud migration of a complex system. Scaling a team from 25 to a target size of 75+. Gaining ISO 27001 certification. Improving SDLC process. |
 | Anthemis | Entrepreneur-in-residence | Working with VCs from seed stage to beyond series A. Conducting Tech Due Diligence. Fundraising. |
@@ -52,7 +52,7 @@ I can help an organization develop maturity in its engineering processes. I beli
 
 Tussell ingests poor quality public data about public sector procurement and turns it into a rich set of linked data. It does this so successfully that government departments are customers, knowing they can get better quality data from Tussell than from their own systems.
 
-### Head of Engineering (September 2025-present)
+### Chief Technology Officer (September 2025-present)
 
 Tussell hired me to insource an engineering function that had hitherto been delegated to a consultancy. I was able to hire a small, high quality team of engineers who rapidly and successfully took over all product engineering, devops and architectural functions.
 
