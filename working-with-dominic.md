@@ -1,5 +1,6 @@
 ---
 title: Working with Dominic
+redirect_from: /wwd/
 ---
 
 This page is about how I like to work and what you can expect from me if we

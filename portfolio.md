@@ -5,6 +5,7 @@ title: Developer portfolio
 <div class="buttons">
   <a href="/about/" class="btn btn-info">About me</a>
   <a href="/cv/" class="btn btn-info">CV</a>
+  <a href="/working-with-dominic/" class="btn btn-info">Working with Dominic</a>
 </div>
 
 <div class="portfolio-items">

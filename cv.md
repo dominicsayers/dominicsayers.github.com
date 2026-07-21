@@ -25,6 +25,7 @@ title: Dominic Sayers
 <div class="buttons">
   <a href="/portfolio/" class="btn btn-info">Developer portfolio</a>
   <a href="/about/" class="btn btn-info">About me</a>
+  <a href="/working-with-dominic/" class="btn btn-info">Working with Dominic</a>
 </div>
 
 <div class="print-instructions">
