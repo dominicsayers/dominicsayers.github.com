@@ -104,6 +104,38 @@ social:
 # Developer portfolio
 portfolio:
   -
+    name: Tussell
+    url: https://www.tussell.com
+    thumbnail: tussell.png
+    technology:
+      - Ruby on Rails
+      - Heroku
+      - REST API
+      - MCP Server
+      - UK public procurement data
+  -
+    name: Neural Alpha
+    url: https://www.balticexchange.com
+    thumbnail: balticexchange.png
+    technology:
+      - Financial services
+      - ESG data
+      - Linked data
+      - Typescript
+      - React
+      - Python
+      - LLM with RAG
+  -
+    name: Excession
+    url: /cv/#excession-technologies
+    thumbnail: excession.png
+    technology:
+      - Ruby
+      - Typescript
+      - Security Cleared (NPPV3 & SC)
+      - Five Eyes
+      - Situational awareness
+  -
     name: OpenCorporates
     url: https://opencorporates.com
     thumbnail: oc.png

@@ -12,8 +12,8 @@ title: Developer portfolio
   <div class="portfolio-item">
     <h3>Github</h3>
     <div class="thumbnail" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-      <a href="{{ site.social.github.url }}" target="portfolio">
-        <iframe src="https://githubbadge.appspot.com/dominicsayers?a=0" style="border: 0;height: 146px;width: 240px;overflow: hidden;" frameBorder="0"></iframe>
+      <a href="{{ site.social.github.url }}" target="portfolio" aria-label="Dominic Sayers's GitHub contribution chart">
+        <img itemprop="url" src="https://ghchart.rshah.org/57ad68/dominicsayers" alt="" />
       </a>
     </div>
     <ul>
