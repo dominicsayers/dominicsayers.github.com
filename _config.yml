@@ -9,6 +9,7 @@ plugins:
   - jemoji
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-redirect-from
 
 collections:
   tag_pages:

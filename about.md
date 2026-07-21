@@ -5,6 +5,7 @@ title: About
 <div class="buttons">
   <a href="/portfolio/" class="btn btn-info">Developer portfolio</a>
   <a href="/cv/" class="btn btn-info">CV</a>
+  <a href="/working-with-dominic/" class="btn btn-info">Working with Dominic</a>
 </div>
 
 ## Pigeonholes
