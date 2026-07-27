@@ -1,0 +1,10 @@
+// Cloudflare Workers configuration: serve the Jekyll build output as static assets.
+// The site is built by the Workers Builds build command (bundle exec jekyll build).
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "jekyll",
+  "compatibility_date": "2026-07-27",
+  "assets": {
+    "directory": "./_site"
+  }
+}
