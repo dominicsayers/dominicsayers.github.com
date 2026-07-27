@@ -4,6 +4,9 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "jekyll",
   "compatibility_date": "2026-07-27",
+  "routes": [
+    { "pattern": "cloudflare.dominicsayers.com", "custom_domain": true }
+  ],
   "assets": {
     "directory": "./_site"
   },
