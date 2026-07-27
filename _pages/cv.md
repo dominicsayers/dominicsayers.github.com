@@ -1,5 +1,6 @@
 ---
 title: Dominic Sayers
+permalink: /cv/
 ---
 
 <div class="print">

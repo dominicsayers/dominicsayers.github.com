@@ -1,5 +1,6 @@
 ---
 title: Working with Dominic
+permalink: /working-with-dominic/
 redirect_from: /wwd/
 ---
 

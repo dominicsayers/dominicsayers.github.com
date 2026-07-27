@@ -1,5 +1,6 @@
 ---
 title: About
+permalink: /about/
 ---
 
 <div class="buttons">

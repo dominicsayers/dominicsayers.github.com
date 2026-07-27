@@ -8,6 +8,9 @@ permalink: :title/
 exclude:
   - wrangler.jsonc
 
+include:
+  - _pages
+
 plugins:
   - jemoji
   - jekyll-sitemap
