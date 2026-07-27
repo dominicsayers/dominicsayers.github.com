@@ -1,6 +1,7 @@
 ---
 layout: portfolio
 title: Developer portfolio
+permalink: /portfolio/
 ---
 <div class="buttons">
   <a href="/about/" class="btn btn-info">About me</a>
