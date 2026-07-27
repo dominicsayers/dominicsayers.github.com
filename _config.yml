@@ -5,6 +5,9 @@ host: 127.0.0.1 # Ignored by Github Pages
 url: "https://www.dominicsayers.com" # the base hostname & protocol for your site
 permalink: :title/
 
+exclude:
+  - wrangler.jsonc
+
 plugins:
   - jemoji
   - jekyll-sitemap
