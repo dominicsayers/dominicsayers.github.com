@@ -1,5 +1,5 @@
         <!-- recipe post-content -->
-        <div class="post-content">
+        <div class="post-content" id="topofpage">
           <div class="post-reading">
             <span class="post-reading-time"></span> read
           </div>
@@ -18,7 +18,8 @@
           <!-- instructions -->
           <div itemprop="recipeInstructions">{% for instruction in page.instructions %}
             <h3 itemprop="HowToSection" id="{{ instruction[0] | slugify }}">{{ instruction.heading }}</h3>
-            <img src="{{ instruction.image.url }}" alt="{{ instruction.image.caption }}">
+            {% assign step_photo = instruction.image %}
+            <img src="{{ step_photo.url }}" alt="{{ step_photo.caption }}">
             <ol>{% for step in instruction.steps %}
               <li itemprop="HowToStep">{{ step }}</li>{% endfor %}
             </ol>{% endfor %}
