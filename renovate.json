@@ -2,5 +2,12 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:recommended"
+  ],
+  "packageRules": [
+    {
+      "description": "Cloudflare's build image (used by Workers Builds) cannot install Ruby 4.x yet (asdf plugin snapshot is too old). Pin to the image's preinstalled default. Remove this rule once Cloudflare's build image supports newer Rubies.",
+      "matchDepNames": ["ruby"],
+      "allowedVersions": "<=3.4.4"
+    }
   ]
 }
