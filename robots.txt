@@ -1,5 +1,2 @@
 User-agent: *
-Disallow: /source/isemail/test
-Disallow: /source/is_email/test
-Disallow: /source/beta
 Disallow: /cdn-cgi
