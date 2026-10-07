@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: post
 title: Ring pulls
 date: 2004-09-20 15:50:48.000000000 +01:00

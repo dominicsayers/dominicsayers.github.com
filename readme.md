@@ -1,4 +1,6 @@
 ---
+sitemap: false
+noindex: true
 ---
 A personal space for my stuff
 

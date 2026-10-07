@@ -44,6 +44,25 @@ defaults:
       type: pages
     values:
       layout: page
+  -
+    scope:
+      path: ''
+      type: tag_pages
+    values:
+      noindex: true
+      sitemap: false
+  -
+    scope:
+      path: ''
+      type: authors
+    values:
+      noindex: true
+      sitemap: false
+  -
+    scope:
+      path: source
+    values:
+      sitemap: false
 
 # Site settings
 title: "Dominic Sayers"

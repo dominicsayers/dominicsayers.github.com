@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: post
 title: RePress
 date: 2012-01-27 21:16:23.000000000 +00:00

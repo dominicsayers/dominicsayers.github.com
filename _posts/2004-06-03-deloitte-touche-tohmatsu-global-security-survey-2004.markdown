@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 title: Deloitte Touche Tohmatsu - Global Security Survey 2004
 date: 2004-06-03 17:23:16.000000000 +01:00
 ---
