@@ -1,6 +1,7 @@
 ---
 title: About
 permalink: /about/
+redirect_from: /Dominic
 ---
 
 <div class="buttons">
