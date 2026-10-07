@@ -17,7 +17,7 @@
 
           <!-- instructions -->
           <div itemprop="recipeInstructions">{% for instruction in page.instructions %}
-            <h3 itemprop="HowToSection" id="{{ instruction[0] | slugify }}">{{ instruction.heading }}</h3>
+            <h3 itemprop="HowToSection" id="{{ instruction.heading | slugify }}">{{ instruction.heading }}</h3>
             {% assign step_photo = instruction.image %}
             <img src="{{ step_photo.url }}" alt="{{ step_photo.caption }}">
             <ol>{% for step in instruction.steps %}
@@ -77,15 +77,15 @@
             "recipeInstructions": [
               {% for instruction in page.instructions %}{
                 "@type": "HowToSection",
-                "name": "{{ instruction[0] }}",
+                "name": {{ instruction.heading | jsonify }},
                 "itemListElement": [
-                  {% for step in instruction[1] %}{
+                  {% for step in instruction.steps %}{
                     "@type": "HowToStep",
-                    "name": "{{ step }}",
-                    "text": "{{ step }}",
-                    "image": "{{ image_url }}",
-                    "url": "{{ page.url | absolute_url }}#{{ instruction[0] | slugify }}"
-                  }{% if forloop.index != instruction[1].size %},{% endif %}
+                    "name": {{ step | jsonify }},
+                    "text": {{ step | jsonify }},
+                    "image": {{ instruction.image.url | default: image_url | jsonify }},
+                    "url": "{{ page.url | absolute_url }}#{{ instruction.heading | slugify }}"
+                  }{% if forloop.index != instruction.steps.size %},{% endif %}
                   {% endfor %}
                 ]
               }{% if forloop.index != page.instructions.size %},{% endif %}
@@ -95,7 +95,6 @@
               "@type": "AggregateRating",
               "ratingValue": "5",
               "ratingCount": "1"
-            },
-            "video": {}
+            }
           }
           </script>
