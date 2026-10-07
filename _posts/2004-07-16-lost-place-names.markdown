@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: post
 title: Lost place names
 date: 2004-07-16 19:30:15.000000000 +01:00

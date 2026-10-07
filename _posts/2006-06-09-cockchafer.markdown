@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: post
 title: Cockchafer
 date: 2006-06-09 09:52:43.000000000 +01:00

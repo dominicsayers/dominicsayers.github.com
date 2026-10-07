@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: post
 title: Traipse
 date: 2004-08-22 08:09:00.000000000 +01:00

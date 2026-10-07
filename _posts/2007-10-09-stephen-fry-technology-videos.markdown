@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: post
 title: Stephen Fry technology videos
 date: 2007-10-09 15:55:34.000000000 +01:00
